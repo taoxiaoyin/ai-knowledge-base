@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260504-010",
+  "title": "Scaling Pain of Coding Agent Serving: Lessons from Debugging GLM-5 at Scale",
+  "source": "rss:Lobsters AI/ML",
+  "source_url": "https://z.ai/blog/scaling-pain",
+  "collected_at": "2026-05-04T14:02:55.395877+00:00",
+  "published_at": "2026-05-04T14:02:55.395877+00:00",
+  "summary": "本文探讨了大规模部署编码代理（Coding Agent）时面临的扩展性挑战，特别是以GLM-5模型为例，深入分析了在服务大规模编码代理过程中遇到的性能瓶颈、资源管理和系统稳定性问题。文章通过实际调试经验，揭示了代理系统在高并发场景下的关键痛点，如请求调度、内存管理和错误恢复机制。创新点在于系统性地总结了编码代理从原型到规模化服务的经验教训，为构建可靠、高效的AI编码代理服务提供了实践指导。适用场景包括AI驱动的代码生成、自动化编程助手以及企业级开发工具平台。",
+  "tags": [
+    "agent",
+    "deployment",
+    "code-generation",
+    "scaling"
+  ],
+  "relevance_score": 0.95,
+  "confidence": 0.85,
+  "status": "published",
+  "tech_stack": [
+    "python",
+    "langchain"
+  ],
+  "innovation_point": "系统性地总结了大规模编码代理服务从原型到生产环境的扩展性挑战与调试经验，为实际部署提供了关键实践指导。",
+  "author": "Lobsters AI/ML",
+  "updated_at": "2026-05-04T14:04:03.254765+00:00"
+}

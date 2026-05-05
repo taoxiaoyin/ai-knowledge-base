@@ -1,0 +1,362 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-05-03T12:53:39Z",
+  "query": "ai OR llm OR agent OR rag OR mcp created:>2026-04-26",
+  "item_count": 15,
+  "trends": {
+    "common_themes": [
+      "Agent 生态工具链多维度扩展：composio（SDK 聚合）、agent-to-merchant-payments（支付层）、baguette（移动端测试）从三个独立方向补齐 Agent 基础设施",
+      "AI + 金融交易 Agent 化：trading-agents、ai-trading-agent、coinbase-trading-bot 共 3 个条目涉及金融交易，其中 2 个明确采用 LLM/Multi-Agent 架构",
+      "Claude Code Skills 生态涌现：compose-performance-skills 及 2 个设计插件仓库共 3 个 Claude Code 相关条目，但后两者为低质聚合"
+    ],
+    "new_concepts": [
+      "Agent-to-Merchant Payments：首个将代币化支付层标准化为 Agent 工具的开源方案，完整提供 MCP Server + CLI + Claude Code Skill 接口",
+      "iOS Simulator Farm for Agent Testing：首次出现将移动端模拟器农场化用于 AI Agent 自动化测试的方案",
+      "Agent Skills 范式：Claude Code 生态中作为一种新的 Agent 能力扩展机制，通过声明式 SKILL.md 定义专业领域知识注入"
+    ]
+  },
+  "items": [
+    {
+      "name": "willchen96/mike",
+      "url": "https://github.com/willchen96/mike",
+      "summary": "开源 AI 法律平台，由前 Stripe 工程师打造，提供合同起草、法律分析和诉讼策略等 AI 工具。3 天 1.5K Star，对法律科技与 AI 应用交叉领域有重要参考价值。",
+      "stars": 1521,
+      "language": "TypeScript",
+      "topics": [],
+      "summary_short": "前 Stripe 工程师打造的 AI 法律平台，用 LLM 辅助合同起草与法律分析",
+      "tech_highlights": [
+        {
+          "highlight": "多模型提供商支持",
+          "evidence": "README 明确要求至少配置一个受支持的模型提供商密钥，可接入多种 LLM 后端"
+        },
+        {
+          "highlight": "文档处理管线",
+          "evidence": "集成 LibreOffice 将 DOC/DOCX 自动转 PDF，适配法律文档处理场景"
+        }
+      ],
+      "score": 5,
+      "score_reason": "AI 在法律垂直领域的完整应用，但技术栈为常规 Next.js+Express+Supabase，无 AI 技术创新，3 天 1.5K Star 反映市场对法律 AI 的需求而非技术突破",
+      "tags": ["large-language-model", "typescript", "prompt-engineering", "new:legal-tech"],
+      "analyzed_at": "2026-05-03T14:30:00Z"
+    },
+    {
+      "name": "mattpocock/dictionary-of-ai-coding",
+      "url": "https://github.com/mattpocock/dictionary-of-ai-coding",
+      "summary": "Matt Pocock 整理的 AI 编码术语词典，用通俗英语解释 AI 编程领域的行话。对刚进入 AI 辅助开发的工程师理解 prompt engineering、agent skills 等概念非常实用。",
+      "stars": 778,
+      "language": "TypeScript",
+      "topics": [],
+      "summary_short": "Matt Pocock 整理的 AI 编码术语词典，用通俗英语解释 AI 编程行话",
+      "tech_highlights": [
+        {
+          "highlight": "信息不足，无法判定",
+          "evidence": "纯文档类仓库，无技术实现细节可分析"
+        }
+      ],
+      "score": 5,
+      "score_reason": "知名技术博主 Matt Pocock 出品的教育性文档，对 AI 编码入门者有学习价值，但对 AI 知识库技术参考意义有限",
+      "tags": ["prompt-engineering", "code-generation", "typescript", "new:ai-education"],
+      "analyzed_at": "2026-05-03T14:30:00Z"
+    },
+    {
+      "name": "appergb/openless",
+      "url": "https://github.com/appergb/openless",
+      "summary": "开源语音输入工具，按住按键说话松手即可在任意应用中输出 AI 润色后的文本。基于 Tauri + Rust 构建，支持 macOS 和 Windows。替代 Wispr Flow 的开源方案，对语音交互开发者有直接参考价值。",
+      "stars": 487,
+      "language": "HTML",
+      "topics": ["ai-prompt", "asr", "dictation", "llm", "macos", "open-source", "prompt-engineering", "rust", "speech-to-text", "swift", "tauri", "typeless", "typeless-alternative", "voice-input", "windows", "wispr-flow-alternative"],
+      "summary_short": "基于 Tauri+Rust 的开源语音输入，按住说话松手 LLM 润色后自动插入任意应用",
+      "tech_highlights": [
+        {
+          "highlight": "Tauri 2 跨平台原生架构",
+          "evidence": "305 commits，Tauri 2 + Rust 后端 + React/TS 前端，macOS 12+ 和 Windows 10+ 原生支持"
+        },
+        {
+          "highlight": "多引擎语音处理管线",
+          "evidence": "火山引擎流式 ASR + Ark/DeepSeek/OpenAI 兼容 LLM 润色，4 种输出模式（原始/轻润色/结构化/正式）"
+        },
+        {
+          "highlight": "AI 提示词优化模式",
+          "evidence": "「Structured」模式将松散语音重塑为含上下文、约束和请求的结构化 prompt，可直接粘贴至 ChatGPT/Claude/Cursor"
+        }
+      ],
+      "score": 8,
+      "score_reason": "将 LLM 润色与语音输入深度融合，Tauri 2 原生架构实现扎实（305 commits、24 releases），填补了开源语音 AI 输入工具空白，对日常 AI 用户有直接实用价值",
+      "tags": ["large-language-model", "rust", "prompt-engineering", "new:voice-input", "new:speech-to-text"],
+      "analyzed_at": "2026-05-03T14:30:00Z"
+    },
+    {
+      "name": "noonghunna/club-3090",
+      "url": "https://github.com/noonghunna/club-3090",
+      "summary": "RTX 3090 显卡部署大模型的社区配方集合，覆盖 vLLM、llama.cpp、SGLang 等多引擎方案，模型无关。为个人 AI 开发者提供低成本的本地 LLM Serving 最佳实践。",
+      "stars": 414,
+      "language": "Shell",
+      "topics": [],
+      "summary_short": "RTX 3090 部署 LLM 社区配方合集，含 vLLM/llama.cpp/SGLang 多引擎方案",
+      "tech_highlights": [
+        {
+          "highlight": "三引擎并行覆盖",
+          "evidence": "同时提供 vLLM、llama.cpp、SGLang 三种主流推理引擎的部署配方，便于对比选择"
+        },
+        {
+          "highlight": "模型无关的低成本方案",
+          "evidence": "配方不绑定特定模型架构，专注 RTX 3090 24GB 显存约束下的通用优化方案"
+        }
+      ],
+      "score": 6,
+      "score_reason": "实用的本地 LLM 部署实践指南，对个人 AI 开发者降低推理门槛有直接帮助，但属经验整理而非技术创新",
+      "tags": ["large-language-model", "inference", "new:local-deployment", "new:gpu-serving"],
+      "analyzed_at": "2026-05-03T14:30:00Z"
+    },
+    {
+      "name": "tddworks/baguette",
+      "url": "https://github.com/tddworks/baguette",
+      "summary": "iOS 26 无头模拟器管理与输入注入框架，支持点击、滑动、多点触控和 60fps 视频流。将 iOS 设备农场化用于 AI Agent 自动化测试，对移动端 Agent 工具链开发者很有价值。",
+      "stars": 278,
+      "language": "Swift",
+      "topics": ["agent", "apple", "cli", "devicefarm", "indigohid", "ios", "simulator", "simulatorkit", "streaming"],
+      "summary_short": "iOS 26 无头模拟器管理框架，支持触控注入与 60fps 视频流，用于 Agent 自动化测试",
+      "tech_highlights": [
+        {
+          "highlight": "60fps 视频流捕获",
+          "evidence": "从 iOS 模拟器实时捕获视频流，为视觉 AI Agent 提供连续画面输入"
+        },
+        {
+          "highlight": "IndigoHID 完整输入注入",
+          "evidence": "基于 IndigoHID 框架实现点击、滑动、多点触控等完整输入操作模拟"
+        },
+        {
+          "highlight": "模拟器设备农场化",
+          "evidence": "支持将 iOS 模拟器集群化管理和并行测试，面向 AI Agent 批量自动化场景"
+        }
+      ],
+      "score": 7,
+      "score_reason": "移动端 Agent 测试工具的独创方案，iOS 模拟器农场化 + 60fps 视频流 + 完整输入注入三者结合，填补了移动端 Agent 工具链空白",
+      "tags": ["agent-framework", "tool-use", "new:ios-testing", "new:mobile-agent", "new:swift"],
+      "analyzed_at": "2026-05-03T14:30:00Z"
+    },
+    {
+      "name": "skydoves/compose-performance-skills",
+      "url": "https://github.com/skydoves/compose-performance-skills",
+      "summary": "一套针对 Jetpack Compose 性能优化的 Agent Skills 库，整合重组追踪、布局分析等最佳实践。将 AI Coding Agent 与 Android UI 性能调优结合，值得移动端团队参考。",
+      "stars": 267,
+      "language": "Shell",
+      "topics": ["agent-skills", "android", "claude", "claude-code", "compose", "compose-performance", "jetpack-compose", "kotlin", "llm-tools", "recomposition", "skydoves"],
+      "summary_short": "Jetpack Compose 性能优化的 Claude Code Agent Skills，集成重组追踪与布局分析",
+      "tech_highlights": [
+        {
+          "highlight": "Claude Code Agent Skills 集成",
+          "evidence": "以 Claude Code Agent Skills 格式发布，让 AI 编程助手直接参与 Android UI 性能调试"
+        },
+        {
+          "highlight": "重组追踪与布局分析",
+          "evidence": "内置 Jetpack Compose 重组（Recomposition）行为监控，自动定位性能瓶颈"
+        }
+      ],
+      "score": 6,
+      "score_reason": "将 AI 编程 Agent 与 Android UI 性能调优结合，Agent Skills 范式在垂直领域的创新应用，但受众局限于 Android 开发者",
+      "tags": ["agent-framework", "code-generation", "new:android", "new:performance-optimization"],
+      "analyzed_at": "2026-05-03T14:30:00Z"
+    },
+    {
+      "name": "Snaplii-Inc/agent-to-merchant-payments",
+      "url": "https://github.com/Snaplii-Inc/agent-to-merchant-payments",
+      "summary": "为 AI Agent 提供安全支付层，通过代币化方式解决 Agent 自主进行真实世界交易的支付难题。填补了 Agent 经济闭环的关键缺口，1 周 260+ Star。",
+      "stars": 262,
+      "language": "Python",
+      "topics": [],
+      "summary_short": "AI Agent 代币化支付层，通过 MCP Server 让 Agent 安全购买 500+ 商家礼品卡",
+      "tech_highlights": [
+        {
+          "highlight": "MCP 协议原生集成",
+          "evidence": "提供 MCP Server，Claude Desktop 可直接通过自然语言对话浏览和购买礼品卡"
+        },
+        {
+          "highlight": "代币化安全支付模型",
+          "evidence": "每笔交易预充值、隔离、不可重用；API Key 支持 PAY_READ 只读和 PAY_WRITE 购买两种作用域，可设硬性消费上限"
+        },
+        {
+          "highlight": "多 Agent 接口覆盖",
+          "evidence": "同时提供 CLI、MCP Server、Claude Code Skill、ClawHub Plugin 四种接入方式，适配不同 Agent 运行环境"
+        }
+      ],
+      "score": 7,
+      "score_reason": "首个系统化解决 Agent 自主支付问题的开源方案，MCP 协议集成降低接入门槛，代币化风控设计实用，260+ Star 反映市场对 Agent 经济闭环的迫切需求",
+      "tags": ["agent-framework", "mcp", "python", "tool-use", "new:agent-payments"],
+      "analyzed_at": "2026-05-03T14:30:00Z"
+    },
+    {
+      "name": "Julpygo/Claude-Code-AI-Design",
+      "url": "https://github.com/Julpygo/Claude-Code-AI-Design",
+      "summary": "非官方 Claude Code 设计插件下载页面，声称支持 Figma 到代码的 AI 转换。属于第三方工具聚合仓库，代码质量不明，建议谨慎参考。",
+      "stars": 217,
+      "language": "C++",
+      "topics": ["claude", "claude-ai", "claude-code", "claude-code-cli", "claude-code-hooks", "claude-code-marketplace", "claude-code-plugin", "claude-code-plugins", "claude-code-skill", "claude-code-skills", "claude-code-subagents", "claude-cowork-free", "claude-design", "claude-design-ai", "claude-design-alternative", "claude-design-download", "claude-design-free", "claude-design-install", "claude-design-installer"],
+      "summary_short": "Claude Code 非官方设计插件下载页，声称 Figma 转代码，第三方聚合无原创",
+      "tech_highlights": [
+        {
+          "highlight": "信息不足，无法判定",
+          "evidence": "第三方聚合仓库，非原创代码项目，代码质量不明，topics 堆砌大量 SEO 关键词"
+        }
+      ],
+      "score": 2,
+      "score_reason": "非原创开源项目的第三方聚合下载页，topics 充斥 SEO 关键词堆砌，对 AI 知识库无技术参考价值",
+      "tags": ["code-generation", "new:claude-code-plugin"],
+      "analyzed_at": "2026-05-03T14:30:00Z"
+    },
+    {
+      "name": "ForecastForge/coinbase-trading-bot",
+      "url": "https://github.com/ForecastForge/coinbase-trading-bot",
+      "summary": "基于 Coinbase Advanced Trade 的自动化加密交易机器人，支持现货/合约交易和网格 DCA 策略。适合对 AI 量化交易感兴趣的开发者在合规范围内研究学习。",
+      "stars": 209,
+      "language": "TypeScript",
+      "topics": ["algorithmic-trading", "automated-trading", "bitcoin", "coinbase", "coinbase-advanced-trade", "crypto-bot", "crypto-trading", "cryptocurrency", "dca", "defi", "ethereum", "fintech", "grid-trading", "nodejs", "open-source", "spot-trading", "trading-automation", "trading-bot", "trading-strategy", "typescript"],
+      "summary_short": "基于 Coinbase 的自动化加密交易机器人，网格 DCA 策略，无 AI/LLM 组件",
+      "tech_highlights": [
+        {
+          "highlight": "信息不足，无法判定",
+          "evidence": "常规算法交易机器人，topics 中无 ai/llm/agent 关键词，未见 AI 技术应用"
+        }
+      ],
+      "score": 2,
+      "score_reason": "无 AI/LLM 技术成分的常规交易机器人，与 AI 知识库定位不匹配",
+      "tags": ["typescript", "new:algorithmic-trading"],
+      "analyzed_at": "2026-05-03T14:30:00Z"
+    },
+    {
+      "name": "Senabayu08989/Stable-Diffusion-AI-Free",
+      "url": "https://github.com/Senabayu08989/Stable-Diffusion-AI-Free",
+      "summary": "Stable Diffusion 本地部署指南与下载集合，涵盖 Flux 2、视频生成、角色一致性等功能。属于三方资源聚合仓库，非原创代码项目。",
+      "stars": 209,
+      "language": "C++",
+      "topics": ["ai-image-generator", "diffusion-model", "image-to-image", "offline-image-generator", "stable-diffusion", "stable-diffusion-2026", "stable-diffusion-android", "stable-diffusion-download", "stable-diffusion-free", "stable-diffusion-github", "stable-diffusion-library", "stable-diffusion-tutorial", "stable-diffusion-ui", "stable-diffusion-web-ui", "stable-diffusion-webui-forge", "stable-diffusion-webui-plugin", "stable-diffusion-windows", "stable-diffusion-xl", "stablediffusion3", "text-to-image"],
+      "summary_short": "Stable Diffusion 本地部署指南与资源合集，第三方聚合仓库无原创代码",
+      "tech_highlights": [
+        {
+          "highlight": "信息不足，无法判定",
+          "evidence": "第三方资源聚合仓库，非原创代码项目，topics 大量堆砌关键词"
+        }
+      ],
+      "score": 2,
+      "score_reason": "第三方资源聚合下载页，无原创代码，topics 明显为 SEO 关键词堆砌，对知识库无技术价值",
+      "tags": ["new:stable-diffusion", "new:image-generation"],
+      "analyzed_at": "2026-05-03T14:30:00Z"
+    },
+    {
+      "name": "endless-sky-team/ai-trading-agent",
+      "url": "https://github.com/endless-sky-team/ai-trading-agent",
+      "summary": "基于 LLM 的加密货币量化交易 Agent，使用 Bun + TypeScript + PostgreSQL，集成 OpenRouter 多模型调度。将 LLM 应用于金融交易决策的实验性项目。",
+      "stars": 202,
+      "language": "TypeScript",
+      "topics": ["ai-trading", "algorithmic-trading", "automated-trading", "bitcoin", "bun", "crypto-bot", "cryptocurrency", "defi", "ethereum", "fintech", "lighter", "llm", "machine-learning", "open-source", "openrouter", "postgresql", "quantitative-finance", "react", "trading-bot", "typescript"],
+      "summary_short": "基于 LLM 的加密量化交易 Agent，Bun+TS 技术栈，OpenRouter 多模型调度",
+      "tech_highlights": [
+        {
+          "highlight": "OpenRouter 多模型调度",
+          "evidence": "通过 OpenRouter API 统一调度多个 LLM 模型进行交易信号生成与决策"
+        },
+        {
+          "highlight": "Bun+TypeScript 现代技术栈",
+          "evidence": "采用 Bun 运行时替代 Node.js，配合 TypeScript + PostgreSQL 实现高性能交易数据处理"
+        }
+      ],
+      "score": 6,
+      "score_reason": "LLM 与量化交易结合的实验性项目，Bun+TS 现代技术栈有参考价值，但处于早期阶段且金融交易场景风险较高",
+      "tags": ["large-language-model", "agent-framework", "typescript", "new:algorithmic-trading"],
+      "analyzed_at": "2026-05-03T14:30:00Z"
+    },
+    {
+      "name": "lukiIabs/trading-agents",
+      "url": "https://github.com/lukiIabs/trading-agents",
+      "summary": "TradingAgents：LLM 驱动的多 Agent 金融交易框架，覆盖股票和加密市场。结合 NLP 情感分析和多 Agent 协作进行量化决策，对 AI+金融方向的团队有参考意义。",
+      "stars": 200,
+      "language": "Python",
+      "topics": ["agents", "algorithmic-trading", "crypto", "finance", "fintech", "javascript", "llm", "machine-learning", "multi-agent", "nlp", "nodejs", "open-source", "openai", "quantitative-trading", "research", "sentiment-analysis", "stocks", "trading", "trading-bots"],
+      "summary_short": "LLM 驱动的多 Agent 金融交易框架，结合 NLP 情感分析协同量化决策",
+      "tech_highlights": [
+        {
+          "highlight": "多 Agent 协作架构",
+          "evidence": "多个专业 Agent 协同进行交易决策，topics 明确标注 multi-agent 和 agents"
+        },
+        {
+          "highlight": "NLP 情感分析集成",
+          "evidence": "将金融文本情感分析作为交易信号输入，topics 含 sentiment-analysis 和 nlp"
+        },
+        {
+          "highlight": "跨市场覆盖",
+          "evidence": "同时支持股票（stocks）和加密货币（crypto）市场，topics 含 trading、stocks、crypto"
+        }
+      ],
+      "score": 7,
+      "score_reason": "多 Agent 框架在金融交易领域的完整实现，架构涵盖 NLP 情感分析、多 Agent 协作、跨市场策略，对 AI+金融方向有明确的学术和工程参考价值",
+      "tags": ["agent-framework", "multi-agent", "large-language-model", "python", "new:algorithmic-trading"],
+      "analyzed_at": "2026-05-03T14:30:00Z"
+    },
+    {
+      "name": "warpdot-dev/composio",
+      "url": "https://github.com/warpdot-dev/composio",
+      "summary": "一站式 AI Agent SDK，同时提供 Python 和 TypeScript 版本，集成 OpenAI Agents、LangChain、LlamaIndex、Mastra、Vercel AI 等多框架，支持 MCP 和 OAuth。对需要快速接入多 Agent 框架的团队极具实用价值。",
+      "stars": 198,
+      "language": "TypeScript",
+      "topics": ["ai-agents", "anthropic", "automation", "cloudflare", "devtools", "google-gemini", "integrations", "langchain", "langgraph", "llamaindex", "llm", "mcp", "model-context-protocol", "oauth", "openai-agents", "python", "saas", "sdk", "typescript", "vercel-ai"],
+      "summary_short": "一站式 Agent SDK，Python/TS 双版本，集成 12 种框架并原生支持 MCP 与 OAuth",
+      "tech_highlights": [
+        {
+          "highlight": "12 框架统一适配层",
+          "evidence": "同时支持 OpenAI Agents、LangChain、LangGraph、LlamaIndex、Vercel AI、Anthropic、Google Gemini、Mastra、CrewAI、AutoGen、Cloudflare AI 等 12 种框架/平台"
+        },
+        {
+          "highlight": "MCP 深度集成",
+          "evidence": "内置 Rube MCP Server，将数百个 SaaS 集成暴露给 Cursor、VS Code、Claude Desktop 等 MCP 客户端"
+        },
+        {
+          "highlight": "双语言完整 SDK",
+          "evidence": "Python 和 TypeScript 版本均提供类型安全 API，monorepo 3877 commits 表明项目成熟度高"
+        }
+      ],
+      "score": 8,
+      "score_reason": "Agent SDK 领域覆盖面最广的开源方案之一，3877 commits 的高成熟度 + MCP 原生集成 + 双语言 SDK，对需要快速接入多框架的 Agent 开发者实用价值极高",
+      "tags": ["agent-framework", "mcp", "python", "typescript", "tool-use"],
+      "analyzed_at": "2026-05-03T14:30:00Z"
+    },
+    {
+      "name": "Alfredo7777777/claude-design-agents-toolkit",
+      "url": "https://github.com/Alfredo7777777/claude-design-agents-toolkit",
+      "summary": "非官方 Claude Code AI 设计插件集合，包含 hooks 和 skills 下载。属于第三方工具聚合仓库，非原创开源项目。",
+      "stars": 198,
+      "language": null,
+      "topics": ["claude", "claude-ai", "claude-code", "claude-code-cli", "claude-code-hooks", "claude-code-marketplace", "claude-code-plugin", "claude-code-plugins", "claude-code-skill", "claude-code-skills", "claude-code-subagents", "claude-cowork-free", "claude-design", "claude-design-ai", "claude-design-alternative", "claude-design-download", "claude-design-free", "claude-design-install", "claude-design-installer"],
+      "summary_short": "Claude Code 非官方设计插件集合，含 hooks 和 skills，第三方聚合仓库",
+      "tech_highlights": [
+        {
+          "highlight": "信息不足，无法判定",
+          "evidence": "第三方聚合仓库，与 #8 几乎相同的 topics 堆砌，非原创开源项目"
+        }
+      ],
+      "score": 2,
+      "score_reason": "第三方聚合仓库，与 #8 (Julpygo/Claude-Code-AI-Design) 高度同质化，无原创代码，无独立技术价值",
+      "tags": ["code-generation", "new:claude-code-plugin"],
+      "analyzed_at": "2026-05-03T14:30:00Z"
+    },
+    {
+      "name": "bearrymuse/GPT-Image-2-Driven-Prompt-Engine",
+      "url": "https://github.com/bearrymuse/GPT-Image-2-Driven-Prompt-Engine",
+      "summary": "GPT-Image-2 提示词大师班文档，涵盖 AI 图像编辑与生成技巧。纯文档类仓库，内容偏向教程而非代码实现。",
+      "stars": 198,
+      "language": null,
+      "topics": ["ai-image", "chatgpt", "gpt-image-2", "gpt-image-2-api", "gpt-image-2-prompts", "image-editing", "image-generation", "image-prompt", "image-prompts", "openai", "openai-api", "text-to-image"],
+      "summary_short": "GPT-Image-2 提示词大师班文档，纯教程无代码实现",
+      "tech_highlights": [
+        {
+          "highlight": "信息不足，无法判定",
+          "evidence": "纯文档教程仓库，无代码实现，非技术项目"
+        }
+      ],
+      "score": 3,
+      "score_reason": "GPT-Image-2 提示词工程的教育性文档，对图像生成 prompt 设计有参考意义，但属教程而非技术项目",
+      "tags": ["prompt-engineering", "new:image-generation", "new:gpt-image-2"],
+      "analyzed_at": "2026-05-03T14:30:00Z"
+    }
+  ]
+}

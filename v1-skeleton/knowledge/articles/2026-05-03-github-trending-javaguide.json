@@ -1,0 +1,20 @@
+{
+  "id": "kb-2026-05-03-010",
+  "title": "JavaGuide",
+  "source": "github-trending",
+  "url": "https://github.com/Snailclimb/JavaGuide",
+  "source_url": "https://github.com/Snailclimb/JavaGuide",
+  "summary": "面向 Java 开发者的面试与后端通用知识指南，涵盖计算机基础、数据库、分布式、高并发、系统设计等传统后端领域。近期新增了 Agent、MCP（Model Context Protocol）、上下文工程（Context Engineering）和 Skills 等 AI 开发主题，反映了 Java 生态对 AI Agent 开发范式的关注。是 Java 生态中 Star 数最高的面试准备项目（15.5 万+），已从纯面试指南逐步演化为覆盖 AI 应用开发的综合性知识库。",
+  "highlights": [
+    "Java 生态 Star 数最高的面试与技术学习综合指南",
+    "新增 Agent、MCP、上下文工程等 AI 开发主题",
+    "覆盖传统后端到 AI 应用开发的完整知识体系"
+  ],
+  "score": 6,
+  "tags": ["agent", "mcp", "context-engineering", "skills", "java", "system-design", "interview"],
+  "relevance_score": 0.60,
+  "collected_at": "2026-05-03T06:42:51Z",
+  "analyzed_at": "2026-05-03T06:50:00Z",
+  "organized_at": "2026-05-03T07:00:00Z",
+  "status": "published"
+}

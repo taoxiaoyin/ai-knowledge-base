@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-05-03-016",
+  "title": "noonghunna/club-3090",
+  "source": "github-trending",
+  "url": "https://github.com/noonghunna/club-3090",
+  "source_url": "https://github.com/noonghunna/club-3090",
+  "summary": "RTX 3090 显卡部署大模型的社区配方集合，覆盖 vLLM、llama.cpp、SGLang 等多引擎方案，模型无关。为个人 AI 开发者提供低成本的本地 LLM Serving 最佳实践。",
+  "highlights": [
+    "三引擎并行覆盖：同时提供 vLLM、llama.cpp、SGLang 三种主流推理引擎的部署配方",
+    "模型无关的通用优化方案，专注 RTX 3090 24GB 显存约束"
+  ],
+  "score": 6,
+  "tags": ["large-language-model", "inference", "local-deployment", "gpu-serving"],
+  "relevance_score": 0.70,
+  "collected_at": "2026-05-03T12:53:39Z",
+  "analyzed_at": "2026-05-03T14:30:00Z",
+  "organized_at": "2026-05-03T15:00:00Z",
+  "status": "published"
+}

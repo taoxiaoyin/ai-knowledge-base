@@ -1,0 +1,20 @@
+{
+  "id": "kb-2026-05-03-013",
+  "title": "tddworks/baguette",
+  "source": "github-trending",
+  "url": "https://github.com/tddworks/baguette",
+  "source_url": "https://github.com/tddworks/baguette",
+  "summary": "iOS 26 无头模拟器管理与输入注入框架，支持点击、滑动、多点触控和 60fps 视频流。将 iOS 设备农场化用于 AI Agent 自动化测试，对移动端 Agent 工具链开发者很有价值。",
+  "highlights": [
+    "60fps 视频流捕获，为视觉 AI Agent 提供连续画面输入",
+    "IndigoHID 完整输入注入（点击、滑动、多点触控）",
+    "iOS 模拟器集群化管理和并行测试，面向 AI Agent 批量自动化场景"
+  ],
+  "score": 7,
+  "tags": ["agent-framework", "tool-use", "ios-testing", "mobile-agent", "swift"],
+  "relevance_score": 0.75,
+  "collected_at": "2026-05-03T12:53:39Z",
+  "analyzed_at": "2026-05-03T14:30:00Z",
+  "organized_at": "2026-05-03T15:00:00Z",
+  "status": "published"
+}

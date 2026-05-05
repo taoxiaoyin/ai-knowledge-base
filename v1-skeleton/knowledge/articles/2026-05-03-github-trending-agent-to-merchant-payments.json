@@ -1,0 +1,20 @@
+{
+  "id": "kb-2026-05-03-014",
+  "title": "Snaplii-Inc/agent-to-merchant-payments",
+  "source": "github-trending",
+  "url": "https://github.com/Snaplii-Inc/agent-to-merchant-payments",
+  "source_url": "https://github.com/Snaplii-Inc/agent-to-merchant-payments",
+  "summary": "为 AI Agent 提供安全支付层，通过代币化方式解决 Agent 自主进行真实世界交易的支付难题。填补了 Agent 经济闭环的关键缺口，1 周 260+ Star。",
+  "highlights": [
+    "MCP 协议原生集成，Claude Desktop 可通过自然语言对话浏览和购买礼品卡",
+    "代币化安全支付模型：预充值隔离、API Key 权限分级（PAY_READ/PAY_WRITE），可设硬性消费上限",
+    "4 种接入方式：CLI、MCP Server、Claude Code Skill、ClawHub Plugin"
+  ],
+  "score": 7,
+  "tags": ["agent-framework", "mcp", "python", "tool-use", "agent-payments"],
+  "relevance_score": 0.75,
+  "collected_at": "2026-05-03T12:53:39Z",
+  "analyzed_at": "2026-05-03T14:30:00Z",
+  "organized_at": "2026-05-03T15:00:00Z",
+  "status": "published"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "kb-2026-05-03-004",
+  "title": "n8n",
+  "source": "github-trending",
+  "url": "https://github.com/n8n-io/n8n",
+  "source_url": "https://github.com/n8n-io/n8n",
+  "summary": "基于 TypeScript 的公平代码（Fair-code）工作流自动化平台，内置原生 AI 能力。支持可视化构建与自定义代码混合编排，提供 400+ 集成连接器，覆盖 API、数据库、SaaS 服务等。同时完整支持 MCP 客户端和服务器协议，可作为 AI Agent 的编排中枢。支持自托管和云部署两种模式，是 Zapier 和 Make 等商业自动化平台的开源替代方案，适合将 AI Agent 融入企业级自动化流程。",
+  "highlights": [
+    "内置原生 AI 能力，提供 400+ 集成连接器",
+    "完整支持 MCP 客户端和服务器协议，可作为 Agent 编排中枢",
+    "可视化 + 自定义代码混合编排，Fair-code 开源许可"
+  ],
+  "score": 9,
+  "tags": ["ai", "workflow-automation", "mcp", "typescript", "low-code", "self-hosted", "mcp-server", "mcp-client"],
+  "relevance_score": 0.92,
+  "collected_at": "2026-05-03T06:42:51Z",
+  "analyzed_at": "2026-05-03T06:50:00Z",
+  "organized_at": "2026-05-03T07:00:00Z",
+  "status": "published"
+}

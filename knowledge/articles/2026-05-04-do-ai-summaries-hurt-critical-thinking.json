@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260504-005",
+  "title": "Do AI summaries hurt critical thinking?",
+  "source": "rss:Lobsters AI/ML",
+  "source_url": "https://medium.com/blueprint-for-disaster/ai-summaries-are-a-threat-to-our-cognitive-sovereignty-917afc37692f",
+  "collected_at": "2026-05-04T14:02:55.395851+00:00",
+  "published_at": "2026-05-04T14:02:55.395851+00:00",
+  "summary": "该内容标题为“Do AI summaries hurt critical thinking?”，探讨AI摘要工具对用户批判性思维能力的影响。核心关注点在于AI自动生成摘要可能使用户过度依赖机器处理信息，从而削弱其主动分析、质疑和深度思考的能力。适用场景包括教育、新闻阅读和知识管理领域，需平衡AI效率与人类认知发展。",
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "relevance_score": 0.75,
+  "confidence": 0.7,
+  "status": "published",
+  "tech_stack": [],
+  "innovation_point": "从认知科学角度分析AI摘要对批判性思维的潜在负面影响，而非仅关注技术性能。",
+  "author": "Lobsters AI/ML",
+  "updated_at": "2026-05-04T14:04:03.254745+00:00"
+}

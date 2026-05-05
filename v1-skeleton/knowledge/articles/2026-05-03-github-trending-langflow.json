@@ -1,0 +1,20 @@
+{
+  "id": "kb-2026-05-03-006",
+  "title": "langflow",
+  "source": "github-trending",
+  "url": "https://github.com/langflow-ai/langflow",
+  "source_url": "https://github.com/langflow-ai/langflow",
+  "summary": "基于 Python 的 AI Agent 与工作流构建平台，提供可视化拖拽界面，支持快速搭建和部署 AI 驱动的 Agent 和自动化流程。内置对大型语言模型（LLM）的深度支持，支持多 Agent 协作（Multi-Agent）和生成式 AI 应用开发。底层采用 React Flow 实现流程编排，将 AI Agent 开发从纯代码模式解放到可视化设计，大幅降低 AI 应用开发的技术门槛，适合从快速原型到实际生产部署。",
+  "highlights": [
+    "可视化拖拽式 AI Agent 构建平台，无需编码即可搭建",
+    "原生支持多 Agent 协作（Multi-Agent）和 LLM 集成",
+    "React Flow + Python 架构，从原型到生产无缝切换"
+  ],
+  "score": 9,
+  "tags": ["agents", "multiagent", "generative-ai", "python", "workflow-automation", "large-language-models"],
+  "relevance_score": 0.90,
+  "collected_at": "2026-05-03T06:42:51Z",
+  "analyzed_at": "2026-05-03T06:50:00Z",
+  "organized_at": "2026-05-03T07:00:00Z",
+  "status": "published"
+}

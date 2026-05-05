@@ -1,0 +1,30 @@
+{
+  "date": "2026-05-03",
+  "filtered_at": "2026-05-03T15:00:00Z",
+  "source": "github-trending",
+  "total_processed": 25,
+  "passed": 20,
+  "discarded": [
+    {
+      "name": "Julpygo/Claude-Code-AI-Design",
+      "reason": "score=2，第三方聚合仓库无原创代码，topics 充斥 SEO 关键词堆砌"
+    },
+    {
+      "name": "ForecastForge/coinbase-trading-bot",
+      "reason": "score=2，纯算法交易机器人，无 AI/LLM 技术成分"
+    },
+    {
+      "name": "Senabayu08989/Stable-Diffusion-AI-Free",
+      "reason": "score=2，第三方资源聚合下载页，无原创代码"
+    },
+    {
+      "name": "Alfredo7777777/claude-design-agents-toolkit",
+      "reason": "score=2，第三方聚合仓库，与 Julpygo/Claude-Code-AI-Design 高度同质化"
+    },
+    {
+      "name": "bearrymuse/GPT-Image-2-Driven-Prompt-Engine",
+      "reason": "score=3，纯教程文档无代码实现，非技术项目"
+    }
+  ],
+  "notes": "第 1 批 10 条全部通过（score=6~10）。第 2 批 15 条中 5 条因 score ≤ 3 被丢弃（4 条 score=2 的低质聚合/无关仓库 + 1 条 score=3 的纯文档教程）。"
+}

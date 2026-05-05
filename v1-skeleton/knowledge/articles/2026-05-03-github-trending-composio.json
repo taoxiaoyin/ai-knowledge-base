@@ -1,0 +1,20 @@
+{
+  "id": "kb-2026-05-03-012",
+  "title": "warpdot-dev/composio",
+  "source": "github-trending",
+  "url": "https://github.com/warpdot-dev/composio",
+  "source_url": "https://github.com/warpdot-dev/composio",
+  "summary": "一站式 AI Agent SDK，同时提供 Python 和 TypeScript 版本，集成 OpenAI Agents、LangChain、LlamaIndex、Mastra、Vercel AI 等多框架，支持 MCP 和 OAuth。对需要快速接入多 Agent 框架的团队极具实用价值。",
+  "highlights": [
+    "12 框架统一适配层：同时支持 OpenAI Agents、LangChain、LangGraph、LlamaIndex、Vercel AI 等",
+    "MCP 深度集成：内置 Rube MCP Server，将数百个 SaaS 集成暴露给 Cursor/VS Code/Claude Desktop",
+    "Python/TypeScript 双语言完整 SDK，monorepo 3877 commits 表明项目成熟度高"
+  ],
+  "score": 8,
+  "tags": ["agent-framework", "mcp", "python", "typescript", "tool-use"],
+  "relevance_score": 0.80,
+  "collected_at": "2026-05-03T12:53:39Z",
+  "analyzed_at": "2026-05-03T14:30:00Z",
+  "organized_at": "2026-05-03T15:00:00Z",
+  "status": "published"
+}

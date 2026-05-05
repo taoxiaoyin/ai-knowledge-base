@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260504-011",
+  "title": "AI Terminology is Poorly Defined and Oft Misused",
+  "source": "rss:Lobsters AI/ML",
+  "source_url": "https://vale.rocks/posts/ai-terminology",
+  "collected_at": "2026-05-04T14:07:46.456117+00:00",
+  "published_at": "2026-05-04T14:07:46.456117+00:00",
+  "summary": "该文章讨论了AI术语定义不清晰且常被误用的问题，指出当前AI领域存在概念混淆和术语滥用现象，影响了技术交流与行业标准化。文章可能通过具体案例分析了术语误用带来的沟通障碍和研发误导，并呼吁建立更严谨的术语体系。适用于AI从业者、研究者及技术写作者，帮助其规范术语使用，提升技术文档和讨论的准确性。",
+  "tags": [
+    "llm",
+    "evaluation",
+    "research-paper"
+  ],
+  "relevance_score": 0.85,
+  "confidence": 0.9,
+  "status": "published",
+  "tech_stack": [],
+  "innovation_point": "系统性地揭示AI术语定义模糊与误用问题，并提出规范化建议以促进技术交流与标准化。",
+  "author": "Lobsters AI/ML",
+  "updated_at": "2026-05-04T14:09:59.888473+00:00"
+}

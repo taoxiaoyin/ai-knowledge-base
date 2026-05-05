@@ -1,0 +1,20 @@
+{
+  "id": "kb-2026-05-03-003",
+  "title": "everything-claude-code",
+  "source": "github-trending",
+  "url": "https://github.com/affaan-m/everything-claude-code",
+  "source_url": "https://github.com/affaan-m/everything-claude-code",
+  "summary": "面向 Claude Code、Codex、OpenCode、Cursor 等编码 Agent 的性能优化与驾驭系统。提供技能（Skills）、本能（Instincts）、记忆（Memory）、安全（Security）和研究优先（Research-First）的完整开发方法论。本质上是编码 Agent 的「驾驭手册」，帮助开发者最大化利用 AI 编码工具的能力，涵盖从上下文工程、MCP 协议集成到安全护栏的全链路优化策略，是当前编码 Agent 生态中最全面的性能调优方案。",
+  "highlights": [
+    "覆盖 Claude Code/OpenCode/Cursor 等多种编码 Agent",
+    "Skills + Instincts + Memory 三位一体的 Agent 增强机制",
+    "研究优先（Research-First）和安全优先的开发方法论"
+  ],
+  "score": 9,
+  "tags": ["ai-agents", "claude-code", "mcp", "developer-tools", "coding-agent", "productivity", "llm"],
+  "relevance_score": 0.93,
+  "collected_at": "2026-05-03T06:42:51Z",
+  "analyzed_at": "2026-05-03T06:50:00Z",
+  "organized_at": "2026-05-03T07:00:00Z",
+  "status": "published"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "kb-2026-05-03-007",
+  "title": "superpowers",
+  "source": "github-trending",
+  "url": "https://github.com/obra/superpowers",
+  "source_url": "https://github.com/obra/superpowers",
+  "summary": "一个 Agent 技能框架和软件开发方法论，旨在将 Agentic 编程范式融入日常开发流程。项目以 Shell 为主要实现语言，提供了一套可复用的 Agent「超能力」模块。核心理念是将 Agent 能力以标准化技能（Skills）的形式组织，从而实现 Agent 能力的组合与复用。与 Claude Code、OpenCode 等编码 Agent 深度适配，开发者可通过加载不同技能模块快速扩展 Agent 的行为边界。",
+  "highlights": [
+    "首创 Agent 技能框架概念，标准化 Agent 能力组织方式",
+    "与 Claude Code、OpenCode 等编码 Agent 深度适配",
+    "提供可复用的技能模块，实现 Agent 能力灵活组合"
+  ],
+  "score": 9,
+  "tags": ["agent-framework", "agentic-development", "skills", "shell", "coding-agent", "developer-tools"],
+  "relevance_score": 0.88,
+  "collected_at": "2026-05-03T06:42:51Z",
+  "analyzed_at": "2026-05-03T06:50:00Z",
+  "organized_at": "2026-05-03T07:00:00Z",
+  "status": "published"
+}

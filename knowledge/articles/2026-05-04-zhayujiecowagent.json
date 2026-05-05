@@ -1,0 +1,26 @@
+{
+  "id": "github-20260504-013",
+  "title": "zhayujie/CowAgent",
+  "source": "github-trending",
+  "source_url": "https://github.com/zhayujie/CowAgent",
+  "collected_at": "2026-05-04T14:07:40.229566+00:00",
+  "published_at": "2026-05-03T14:29:17Z",
+  "summary": "CowAgent（chatgpt-on-wechat）是一个基于大模型的超级AI助理，具备主动思考、任务规划、操作系统和外部资源访问、技能创建与执行、长期记忆和知识库等能力，比OpenClaw更轻量和便捷。它支持微信、飞书、钉钉、企微、QQ、公众号、网页等多种接入方式，可选择DeepSeek、OpenAI、Claude、Gemini、MiniMax、Qwen、GLM、LinkAI等多种模型，能处理文本、语音、图片和文件，适用于快速搭建个人AI助理和企业数字员工。该项目在GitHub上获得43999颗星，使用Python开发，核心创新在于将多模型支持、多平台接入和Agent能力整合为一个轻量级框架。",
+  "tags": [
+    "agent",
+    "llm",
+    "tool-use",
+    "open-source",
+    "framework"
+  ],
+  "relevance_score": 0.95,
+  "confidence": 0.95,
+  "status": "published",
+  "tech_stack": [
+    "python",
+    "langchain"
+  ],
+  "innovation_point": "将多模型支持、多平台接入和Agent能力整合为一个轻量级框架，比OpenClaw更便捷。",
+  "author": "zhayujie",
+  "updated_at": "2026-05-04T14:09:59.887774+00:00"
+}

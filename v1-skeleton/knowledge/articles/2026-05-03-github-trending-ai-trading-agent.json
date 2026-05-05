@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-05-03-018",
+  "title": "endless-sky-team/ai-trading-agent",
+  "source": "github-trending",
+  "url": "https://github.com/endless-sky-team/ai-trading-agent",
+  "source_url": "https://github.com/endless-sky-team/ai-trading-agent",
+  "summary": "基于 LLM 的加密货币量化交易 Agent，使用 Bun + TypeScript + PostgreSQL，集成 OpenRouter 多模型调度。将 LLM 应用于金融交易决策的实验性项目。",
+  "highlights": [
+    "OpenRouter 多模型调度进行交易信号生成与决策",
+    "Bun + TypeScript + PostgreSQL 现代技术栈，高性能交易数据处理"
+  ],
+  "score": 6,
+  "tags": ["large-language-model", "agent-framework", "typescript", "algorithmic-trading"],
+  "relevance_score": 0.70,
+  "collected_at": "2026-05-03T12:53:39Z",
+  "analyzed_at": "2026-05-03T14:30:00Z",
+  "organized_at": "2026-05-03T15:00:00Z",
+  "status": "published"
+}

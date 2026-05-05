@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-05-03-017",
+  "title": "skydoves/compose-performance-skills",
+  "source": "github-trending",
+  "url": "https://github.com/skydoves/compose-performance-skills",
+  "source_url": "https://github.com/skydoves/compose-performance-skills",
+  "summary": "一套针对 Jetpack Compose 性能优化的 Agent Skills 库，整合重组追踪、布局分析等最佳实践。将 AI Coding Agent 与 Android UI 性能调优结合，值得移动端团队参考。",
+  "highlights": [
+    "Claude Code Agent Skills 集成，AI 编程助手直接参与 Android UI 性能调试",
+    "重组追踪与布局分析，内置 Jetpack Compose 重组行为监控，自动定位性能瓶颈"
+  ],
+  "score": 6,
+  "tags": ["agent-framework", "code-generation", "android", "performance-optimization"],
+  "relevance_score": 0.70,
+  "collected_at": "2026-05-03T12:53:39Z",
+  "analyzed_at": "2026-05-03T14:30:00Z",
+  "organized_at": "2026-05-03T15:00:00Z",
+  "status": "published"
+}

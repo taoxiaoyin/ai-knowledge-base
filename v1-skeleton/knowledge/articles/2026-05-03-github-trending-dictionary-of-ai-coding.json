@@ -1,0 +1,18 @@
+{
+  "id": "kb-2026-05-03-020",
+  "title": "mattpocock/dictionary-of-ai-coding",
+  "source": "github-trending",
+  "url": "https://github.com/mattpocock/dictionary-of-ai-coding",
+  "source_url": "https://github.com/mattpocock/dictionary-of-ai-coding",
+  "summary": "Matt Pocock 整理的 AI 编码术语词典，用通俗英语解释 AI 编程领域的行话。对刚进入 AI 辅助开发的工程师理解 prompt engineering、agent skills 等概念非常实用。",
+  "highlights": [
+    "Matt Pocock 出品，权威 AI 编码领域术语定义，社区认可度高"
+  ],
+  "score": 5,
+  "tags": ["prompt-engineering", "code-generation", "typescript", "ai-education"],
+  "relevance_score": 0.65,
+  "collected_at": "2026-05-03T12:53:39Z",
+  "analyzed_at": "2026-05-03T14:30:00Z",
+  "organized_at": "2026-05-03T15:00:00Z",
+  "status": "published"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "kb-2026-05-03-002",
+  "title": "transformers",
+  "source": "github-trending",
+  "url": "https://github.com/huggingface/transformers",
+  "source_url": "https://github.com/huggingface/transformers",
+  "summary": "Hugging Face 出品的模型定义框架，是 NLP、计算机视觉、语音和多模态领域最核心的基础设施之一。提供统一的 API 来加载、训练和推理数千种预训练模型，支持 PyTorch 等主流深度学习框架。覆盖文本生成、图像识别、语音合成等多模态任务，是学术界和工业界进行 AI 研究的「标准库」，也是 LLM 时代开发者最基础的工具依赖。",
+  "highlights": [
+    "AI/ML 领域最核心的基础设施之一，16 万+ Star",
+    "统一 API 覆盖文本、视觉、语音、多模态四大领域",
+    "支持数千种预训练模型的一键加载、训练与推理"
+  ],
+  "score": 10,
+  "tags": ["llm", "transformer", "deep-learning", "nlp", "pytorch", "huggingface", "python", "vlm"],
+  "relevance_score": 0.95,
+  "collected_at": "2026-05-03T06:42:51Z",
+  "analyzed_at": "2026-05-03T06:50:00Z",
+  "organized_at": "2026-05-03T07:00:00Z",
+  "status": "published"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260504-015",
+  "title": "On the Limits of Self-Improving in Large Language Models: The Singularity Is Not Near Without Symbolic Model Synthesis",
+  "source": "rss:Lobsters AI/ML",
+  "source_url": "https://arxiv.org/html/2601.05280v2",
+  "collected_at": "2026-05-04T14:07:46.456166+00:00",
+  "published_at": "2026-05-04T14:07:46.456166+00:00",
+  "summary": "该论文探讨了大语言模型自我改进能力的理论极限，指出尽管模型可以通过自我训练或迭代优化提升性能，但存在根本性瓶颈，例如数据偏差、模型容量限制以及自我反馈的收敛性问题。文章通过理论分析和实验验证，认为完全依赖自我改进实现通用人工智能（AGI）的奇点假设并不成立，强调了外部知识注入、人类监督和多模态融合等互补方法的必要性。适用场景包括AI安全评估、模型能力边界研究以及混合训练策略设计。",
+  "tags": [
+    "llm",
+    "research-paper",
+    "reasoning",
+    "evaluation"
+  ],
+  "relevance_score": 0.95,
+  "confidence": 0.85,
+  "status": "published",
+  "tech_stack": [],
+  "innovation_point": "从理论层面系统论证了大语言模型自我改进的局限性，挑战了奇点假设，为AI发展路径提供了批判性视角。",
+  "author": "Lobsters AI/ML",
+  "updated_at": "2026-05-04T14:09:59.888575+00:00"
+}

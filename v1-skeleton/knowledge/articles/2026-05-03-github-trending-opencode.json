@@ -1,0 +1,20 @@
+{
+  "id": "kb-2026-05-03-005",
+  "title": "opencode",
+  "source": "github-trending",
+  "url": "https://github.com/anomalyco/opencode",
+  "source_url": "https://github.com/anomalyco/opencode",
+  "summary": "开源的编码 Agent 框架，可作为 Cursor、Copilot 等商业 AI 编码工具的替代方案。基于 TypeScript 开发，提供完整的代码生成、理解与重构能力。项目以「开源编码 Agent」为核心理念，强调社区驱动的开发模式，拥有超过 15 万 Star，是开源 AI 编码工具领域增长最快的项目之一。适合希望自托管编码助手的团队和个人开发者。",
+  "highlights": [
+    "开源编码 Agent 框架，可作为商业编码助手替代",
+    "TypeScript 实现，社区驱动开发模式",
+    "15 万+ Star，增长迅速的开源 AI 编码项目"
+  ],
+  "score": 9,
+  "tags": ["coding-agent", "ai", "typescript", "open-source", "code-generation", "developer-tools"],
+  "relevance_score": 0.90,
+  "collected_at": "2026-05-03T06:42:51Z",
+  "analyzed_at": "2026-05-03T06:50:00Z",
+  "organized_at": "2026-05-03T07:00:00Z",
+  "status": "published"
+}

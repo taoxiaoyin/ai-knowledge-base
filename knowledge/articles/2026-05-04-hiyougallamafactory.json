@@ -1,0 +1,27 @@
+{
+  "id": "github-20260504-007",
+  "title": "hiyouga/LlamaFactory",
+  "source": "github-trending",
+  "source_url": "https://github.com/hiyouga/LlamaFactory",
+  "collected_at": "2026-05-04T14:02:30.765096+00:00",
+  "published_at": "2026-05-03T10:36:56Z",
+  "summary": "LlamaFactory 是一个统一的高效微调框架，支持对 100 多种大型语言模型（LLM）和视觉语言模型（VLM）进行微调，已被 ACL 2024 收录。其核心创新在于提供了一套统一的接口和优化策略，使得用户能够便捷地对不同架构的模型进行参数高效微调（PEFT），显著降低了微调门槛和计算资源消耗。该框架适用于需要针对特定任务或领域定制化调整模型行为的场景，如对话系统、代码生成、多模态理解等，尤其适合研究者和开发者快速迭代模型。",
+  "tags": [
+    "fine-tuning",
+    "llm",
+    "framework",
+    "open-source"
+  ],
+  "relevance_score": 0.95,
+  "confidence": 0.95,
+  "status": "published",
+  "tech_stack": [
+    "python",
+    "transformers",
+    "peft",
+    "deepspeed"
+  ],
+  "innovation_point": "提出统一接口实现100+LLM/VLM的高效微调，显著降低多模型适配与计算成本。",
+  "author": "hiyouga",
+  "updated_at": "2026-05-04T14:04:03.254725+00:00"
+}

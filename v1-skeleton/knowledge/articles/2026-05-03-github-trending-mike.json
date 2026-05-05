@@ -1,0 +1,19 @@
+{
+  "id": "kb-2026-05-03-019",
+  "title": "willchen96/mike",
+  "source": "github-trending",
+  "url": "https://github.com/willchen96/mike",
+  "source_url": "https://github.com/willchen96/mike",
+  "summary": "开源 AI 法律平台，由前 Stripe 工程师打造，提供合同起草、法律分析和诉讼策略等 AI 工具。3 天 1.5K Star，对法律科技与 AI 应用交叉领域有重要参考价值。",
+  "highlights": [
+    "多模型提供商支持，可接入多种 LLM 后端",
+    "集成 LibreOffice 将 DOC/DOCX 自动转 PDF，适配法律文档处理场景"
+  ],
+  "score": 5,
+  "tags": ["large-language-model", "typescript", "prompt-engineering", "legal-tech"],
+  "relevance_score": 0.65,
+  "collected_at": "2026-05-03T12:53:39Z",
+  "analyzed_at": "2026-05-03T14:30:00Z",
+  "organized_at": "2026-05-03T15:00:00Z",
+  "status": "published"
+}

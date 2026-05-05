@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260504-014",
+  "title": "Introducing talkie: a 13B vintage language model from 1930",
+  "source": "rss:Lobsters AI/ML",
+  "source_url": "https://talkie-lm.com/introducing-talkie",
+  "collected_at": "2026-05-04T14:07:46.456153+00:00",
+  "published_at": "2026-05-04T14:07:46.456153+00:00",
+  "summary": "该内容介绍了一个名为'talkie'的13B参数语言模型，其特点在于模拟1930年代的复古风格。核心创新点在于通过特定训练数据和方法，使模型能够生成具有时代特色的文本，适用于历史研究、复古风格内容创作或教育场景。该模型可能基于现有开源架构进行微调，以捕捉特定时期的语言习惯和文化背景。",
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "open-source"
+  ],
+  "relevance_score": 0.75,
+  "confidence": 0.7,
+  "status": "published",
+  "tech_stack": [
+    "python",
+    "transformers"
+  ],
+  "innovation_point": "通过特定历史时期数据微调，使语言模型具备复古风格生成能力。",
+  "author": "Lobsters AI/ML",
+  "updated_at": "2026-05-04T14:09:59.888565+00:00"
+}

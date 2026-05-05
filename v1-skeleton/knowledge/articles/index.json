@@ -1,0 +1,186 @@
+{
+  "last_updated": "2026-05-03T15:00:00Z",
+  "total_count": 20,
+  "entries": [
+    {
+      "id": "kb-2026-05-03-001",
+      "title": "AutoGPT",
+      "source": "github-trending",
+      "file": "2026-05-03-github-trending-autogpt.json",
+      "score": 10,
+      "tags": ["agentic-ai", "autonomous-agents", "llm", "python", "openai", "agents", "ai-framework"],
+      "organized_at": "2026-05-03T07:00:00Z"
+    },
+    {
+      "id": "kb-2026-05-03-002",
+      "title": "transformers",
+      "source": "github-trending",
+      "file": "2026-05-03-github-trending-transformers.json",
+      "score": 10,
+      "tags": ["llm", "transformer", "deep-learning", "nlp", "pytorch", "huggingface", "python", "vlm"],
+      "organized_at": "2026-05-03T07:00:00Z"
+    },
+    {
+      "id": "kb-2026-05-03-003",
+      "title": "everything-claude-code",
+      "source": "github-trending",
+      "file": "2026-05-03-github-trending-everything-claude-code.json",
+      "score": 9,
+      "tags": ["ai-agents", "claude-code", "mcp", "developer-tools", "coding-agent", "productivity", "llm"],
+      "organized_at": "2026-05-03T07:00:00Z"
+    },
+    {
+      "id": "kb-2026-05-03-004",
+      "title": "n8n",
+      "source": "github-trending",
+      "file": "2026-05-03-github-trending-n8n.json",
+      "score": 9,
+      "tags": ["ai", "workflow-automation", "mcp", "typescript", "low-code", "self-hosted", "mcp-server", "mcp-client"],
+      "organized_at": "2026-05-03T07:00:00Z"
+    },
+    {
+      "id": "kb-2026-05-03-005",
+      "title": "opencode",
+      "source": "github-trending",
+      "file": "2026-05-03-github-trending-opencode.json",
+      "score": 9,
+      "tags": ["coding-agent", "ai", "typescript", "open-source", "code-generation", "developer-tools"],
+      "organized_at": "2026-05-03T07:00:00Z"
+    },
+    {
+      "id": "kb-2026-05-03-006",
+      "title": "langflow",
+      "source": "github-trending",
+      "file": "2026-05-03-github-trending-langflow.json",
+      "score": 9,
+      "tags": ["agents", "multiagent", "generative-ai", "python", "workflow-automation", "large-language-models"],
+      "organized_at": "2026-05-03T07:00:00Z"
+    },
+    {
+      "id": "kb-2026-05-03-007",
+      "title": "superpowers",
+      "source": "github-trending",
+      "file": "2026-05-03-github-trending-superpowers.json",
+      "score": 9,
+      "tags": ["agent-framework", "agentic-development", "skills", "shell", "coding-agent", "developer-tools"],
+      "organized_at": "2026-05-03T07:00:00Z"
+    },
+    {
+      "id": "kb-2026-05-03-008",
+      "title": "ollama",
+      "source": "github-trending",
+      "file": "2026-05-03-github-trending-ollama.json",
+      "score": 9,
+      "tags": ["llm", "deepseek", "qwen", "go", "local-ai", "model-serving", "llama"],
+      "organized_at": "2026-05-03T07:00:00Z"
+    },
+    {
+      "id": "kb-2026-05-03-009",
+      "title": "openclaw",
+      "source": "github-trending",
+      "file": "2026-05-03-github-trending-openclaw.json",
+      "score": 8,
+      "tags": ["ai", "personal-assistant", "typescript", "self-hosted", "privacy", "open-source"],
+      "organized_at": "2026-05-03T07:00:00Z"
+    },
+    {
+      "id": "kb-2026-05-03-010",
+      "title": "JavaGuide",
+      "source": "github-trending",
+      "file": "2026-05-03-github-trending-javaguide.json",
+      "score": 6,
+      "tags": ["agent", "mcp", "context-engineering", "skills", "java", "system-design", "interview"],
+      "organized_at": "2026-05-03T07:00:00Z"
+    },
+    {
+      "id": "kb-2026-05-03-011",
+      "title": "appergb/openless",
+      "source": "github-trending",
+      "file": "2026-05-03-github-trending-openless.json",
+      "score": 8,
+      "tags": ["large-language-model", "rust", "prompt-engineering", "voice-input", "speech-to-text"],
+      "organized_at": "2026-05-03T15:00:00Z"
+    },
+    {
+      "id": "kb-2026-05-03-012",
+      "title": "warpdot-dev/composio",
+      "source": "github-trending",
+      "file": "2026-05-03-github-trending-composio.json",
+      "score": 8,
+      "tags": ["agent-framework", "mcp", "python", "typescript", "tool-use"],
+      "organized_at": "2026-05-03T15:00:00Z"
+    },
+    {
+      "id": "kb-2026-05-03-013",
+      "title": "tddworks/baguette",
+      "source": "github-trending",
+      "file": "2026-05-03-github-trending-baguette.json",
+      "score": 7,
+      "tags": ["agent-framework", "tool-use", "ios-testing", "mobile-agent", "swift"],
+      "organized_at": "2026-05-03T15:00:00Z"
+    },
+    {
+      "id": "kb-2026-05-03-014",
+      "title": "Snaplii-Inc/agent-to-merchant-payments",
+      "source": "github-trending",
+      "file": "2026-05-03-github-trending-agent-to-merchant-payments.json",
+      "score": 7,
+      "tags": ["agent-framework", "mcp", "python", "tool-use", "agent-payments"],
+      "organized_at": "2026-05-03T15:00:00Z"
+    },
+    {
+      "id": "kb-2026-05-03-015",
+      "title": "lukiIabs/trading-agents",
+      "source": "github-trending",
+      "file": "2026-05-03-github-trending-trading-agents.json",
+      "score": 7,
+      "tags": ["agent-framework", "multi-agent", "large-language-model", "python", "algorithmic-trading"],
+      "organized_at": "2026-05-03T15:00:00Z"
+    },
+    {
+      "id": "kb-2026-05-03-016",
+      "title": "noonghunna/club-3090",
+      "source": "github-trending",
+      "file": "2026-05-03-github-trending-club-3090.json",
+      "score": 6,
+      "tags": ["large-language-model", "inference", "local-deployment", "gpu-serving"],
+      "organized_at": "2026-05-03T15:00:00Z"
+    },
+    {
+      "id": "kb-2026-05-03-017",
+      "title": "skydoves/compose-performance-skills",
+      "source": "github-trending",
+      "file": "2026-05-03-github-trending-compose-performance-skills.json",
+      "score": 6,
+      "tags": ["agent-framework", "code-generation", "android", "performance-optimization"],
+      "organized_at": "2026-05-03T15:00:00Z"
+    },
+    {
+      "id": "kb-2026-05-03-018",
+      "title": "endless-sky-team/ai-trading-agent",
+      "source": "github-trending",
+      "file": "2026-05-03-github-trending-ai-trading-agent.json",
+      "score": 6,
+      "tags": ["large-language-model", "agent-framework", "typescript", "algorithmic-trading"],
+      "organized_at": "2026-05-03T15:00:00Z"
+    },
+    {
+      "id": "kb-2026-05-03-019",
+      "title": "willchen96/mike",
+      "source": "github-trending",
+      "file": "2026-05-03-github-trending-mike.json",
+      "score": 5,
+      "tags": ["large-language-model", "typescript", "prompt-engineering", "legal-tech"],
+      "organized_at": "2026-05-03T15:00:00Z"
+    },
+    {
+      "id": "kb-2026-05-03-020",
+      "title": "mattpocock/dictionary-of-ai-coding",
+      "source": "github-trending",
+      "file": "2026-05-03-github-trending-dictionary-of-ai-coding.json",
+      "score": 5,
+      "tags": ["prompt-engineering", "code-generation", "typescript", "ai-education"],
+      "organized_at": "2026-05-03T15:00:00Z"
+    }
+  ]
+}

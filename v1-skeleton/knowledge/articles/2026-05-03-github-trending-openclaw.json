@@ -1,0 +1,20 @@
+{
+  "id": "kb-2026-05-03-009",
+  "title": "openclaw",
+  "source": "github-trending",
+  "url": "https://github.com/openclaw/openclaw",
+  "source_url": "https://github.com/openclaw/openclaw",
+  "summary": "基于 TypeScript 的开源个人 AI 助手，支持任意操作系统和平台。核心理念是「数据自主权」（Own Your Data），用户完全掌控自己的数据和运行环境，无需依赖第三方云服务。项目以独特品牌形象（龙虾 Logo）和活跃社区著称，拥有超过 36 万 Star，是当前最受欢迎的自托管个人 AI 助手项目之一。MIT 许可开源，适合注重隐私保护和希望完全自控 AI 助手的开发者和终端用户。",
+  "highlights": [
+    "全平台支持，可在任意操作系统上运行的个人 AI 助手",
+    "强调数据主权，用户完整掌控数据与运行环境",
+    "36.7 万 Star 的顶级开源项目，MIT 许可"
+  ],
+  "score": 8,
+  "tags": ["ai", "personal-assistant", "typescript", "self-hosted", "privacy", "open-source"],
+  "relevance_score": 0.82,
+  "collected_at": "2026-05-03T06:42:51Z",
+  "analyzed_at": "2026-05-03T06:50:00Z",
+  "organized_at": "2026-05-03T07:00:00Z",
+  "status": "published"
+}
