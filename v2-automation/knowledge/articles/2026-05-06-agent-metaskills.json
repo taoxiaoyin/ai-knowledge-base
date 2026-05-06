@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260506-008",
+  "title": "Agent MetaSKILLs",
+  "source": "rss:Lobsters AI/ML",
+  "source_url": "https://swival.dev/pages/metaskills.html",
+  "collected_at": "2026-05-06T10:11:44.713311+00:00",
+  "published_at": "2026-05-06T10:11:44.713311+00:00",
+  "summary": "本文介绍了一种名为Agent MetaSKILLs的新型AI技术框架，旨在提升智能体在复杂任务中的元技能学习能力。核心创新点在于通过元学习机制，使智能体能够快速适应新任务并高效利用已有技能，从而在动态环境中实现更优的性能表现。该框架适用于需要高度自适应和泛化能力的场景，如自动化工作流、机器人控制及多智能体协作系统。",
+  "tags": [
+    "agent",
+    "multi-agent",
+    "reasoning",
+    "framework"
+  ],
+  "relevance_score": 0.95,
+  "confidence": 0.85,
+  "status": "published",
+  "tech_stack": [
+    "python",
+    "langchain"
+  ],
+  "innovation_point": "提出元技能学习机制，使智能体能够动态组合和迁移已有技能，显著提升在新任务中的适应速度和执行效率。",
+  "author": "Lobsters AI/ML",
+  "updated_at": "2026-05-06T10:14:04.698648+00:00"
+}

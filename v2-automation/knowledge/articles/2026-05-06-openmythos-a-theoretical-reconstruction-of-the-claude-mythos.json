@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260506-011",
+  "title": "OpenMythos: A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature",
+  "source": "rss:Lobsters AI/ML",
+  "source_url": "https://github.com/kyegomez/OpenMythos",
+  "collected_at": "2026-05-06T10:11:44.713353+00:00",
+  "published_at": "2026-05-06T10:11:44.713353+00:00",
+  "summary": "本文提出了OpenMythos，一种对Claude Mythos架构的理论重建方法。核心创新在于通过逆向工程和理论分析，揭示了Claude模型内部可能采用的模块化推理机制与动态知识路由策略。该方法适用于需要理解大型语言模型内部工作原理的研究场景，尤其对模型可解释性、架构优化及安全审计具有重要参考价值。",
+  "tags": [
+    "llm",
+    "research-paper",
+    "reasoning",
+    "architecture"
+  ],
+  "relevance_score": 0.95,
+  "confidence": 0.85,
+  "status": "published",
+  "tech_stack": [],
+  "innovation_point": "首次系统性地对Claude Mythos架构进行理论重建，提出模块化推理与动态知识路由的假设模型。",
+  "author": "Lobsters AI/ML",
+  "updated_at": "2026-05-06T10:14:04.698676+00:00"
+}
