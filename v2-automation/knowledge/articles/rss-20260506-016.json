@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260506-016",
+  "title": "Token Arena: A Continuous Benchmark Unifying Energy and Cognition in AI Inference",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.00300",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-06T01:26:34.581398+00:00",
+  "collected_at": "2026-05-06T01:26:34.581398+00:00",
+  "summary": "Token Arena 提出了一个持续基准测试，统一评估AI推理中的能量消耗和认知能力，旨在解决现有基准测试在动态性和能耗考量上的不足。该工作通过实时更新任务和度量标准，为AI系统提供更全面的性能评估框架。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-06T01:27:51.938963+00:00"
+}

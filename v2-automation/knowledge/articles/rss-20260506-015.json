@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260506-015",
+  "title": "Agentic AI for Trip Planning Optimization Application",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.00276",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-06T01:26:34.581393+00:00",
+  "collected_at": "2026-05-06T01:26:34.581393+00:00",
+  "summary": "本文提出了一种基于Agentic AI的旅行规划优化应用，通过多智能体协作和工具使用，实现个性化行程生成与动态调整。该研究展示了AI在复杂任务规划中的潜力，为旅行领域提供了高效、自适应的解决方案。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-06T01:27:51.938960+00:00"
+}

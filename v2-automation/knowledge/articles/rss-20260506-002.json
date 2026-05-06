@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260506-002",
+  "title": "AI didn't delete your database, you did",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-05-06T01:26:32.428571+00:00",
+  "collected_at": "2026-05-06T01:26:32.428571+00:00",
+  "summary": "本文探讨了AI系统在数据库操作中的责任归属问题，指出用户自身操作失误才是导致数据丢失的主要原因，而非AI技术本身。文章通过案例分析强调了用户教育和操作规范的重要性。",
+  "score": 7,
+  "tags": [
+    "security",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-06T01:27:51.938913+00:00"
+}

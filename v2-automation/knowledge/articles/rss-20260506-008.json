@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260506-008",
+  "title": "TADI: Tool-Augmented Drilling Intelligence via Agentic LLM Orchestration over Heterogeneous Wellsite Data",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.00060",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-06T01:26:34.581330+00:00",
+  "collected_at": "2026-05-06T01:26:34.581330+00:00",
+  "summary": "该论文提出TADI框架，通过智能体LLM编排异构井场数据，实现工具增强的钻井智能。核心价值在于利用大语言模型作为协调器，整合多种工具和数据源，提升钻井作业的自动化与决策效率。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-06T01:27:51.938937+00:00"
+}

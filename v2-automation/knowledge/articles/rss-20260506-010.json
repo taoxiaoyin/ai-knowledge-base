@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260506-010",
+  "title": "Minimal, Local, Causal Explanations for Jailbreak Success in Large Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.00123",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-06T01:26:34.581367+00:00",
+  "collected_at": "2026-05-06T01:26:34.581367+00:00",
+  "summary": "该论文提出了一种最小化、局部且因果的解释方法，用于分析大型语言模型（LLM）越狱攻击成功的原因。通过识别导致模型生成不安全内容的关键输入部分，该方法为理解LLM安全漏洞提供了可解释性工具，有助于改进模型的安全性。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "security",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-06T01:27:51.938943+00:00"
+}

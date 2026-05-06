@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260506-019",
+  "title": "AEM: Adaptive Entropy Modulation for Multi-Turn Agentic Reinforcement Learning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.00425",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-06T01:26:34.581413+00:00",
+  "collected_at": "2026-05-06T01:26:34.581413+00:00",
+  "summary": "该论文提出了一种自适应熵调制（AEM）方法，用于多轮智能体强化学习，通过动态调整策略的熵来平衡探索与利用，提升学习效率和稳定性。核心价值在于解决了多轮交互中智能体策略的适应性问题，为复杂任务中的强化学习提供了新思路。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-06T01:27:51.938972+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260506-012",
+  "title": "TUR-DPO: Topology- and Uncertainty-Aware Direct Preference Optimization",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.00224",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-06T01:26:34.581378+00:00",
+  "collected_at": "2026-05-06T01:26:34.581378+00:00",
+  "summary": "TUR-DPO 提出了一种结合拓扑结构和不确定性的直接偏好优化方法，通过引入拓扑感知和不确定性估计来改进偏好学习过程。该方法在强化学习与人类反馈的框架下，提升了模型对齐的鲁棒性和效率。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-06T01:27:51.938949+00:00"
+}
