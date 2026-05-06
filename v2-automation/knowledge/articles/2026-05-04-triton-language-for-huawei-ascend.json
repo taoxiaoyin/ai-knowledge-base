@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260504-013",
+  "title": "Triton language for Huawei Ascend",
+  "source": "rss:Lobsters AI/ML",
+  "source_url": "https://github.com/triton-lang/triton-ascend",
+  "collected_at": "2026-05-04T14:07:46.456138+00:00",
+  "published_at": "2026-05-04T14:07:46.456138+00:00",
+  "summary": "该内容介绍了Triton语言在华为昇腾（Ascend）平台上的适配与应用。Triton是一种用于编写高效GPU内核的领域特定语言，其核心创新在于将Triton的编程模型和编译器技术移植到华为昇腾AI处理器上，使得开发者能够利用Triton的简洁语法和自动优化能力，在昇腾硬件上高效实现深度学习算子。这一适配工作降低了昇腾平台上的AI开发门槛，使得原本为NVIDIA GPU设计的Triton代码能够无缝迁移到国产昇腾硬件上运行，适用于需要高性能计算和快速原型开发的AI训练与推理场景。",
+  "tags": [
+    "open-source",
+    "framework",
+    "code-generation"
+  ],
+  "relevance_score": 0.85,
+  "confidence": 0.9,
+  "status": "published",
+  "tech_stack": [
+    "python",
+    "triton",
+    "huawei-ascend"
+  ],
+  "innovation_point": "将Triton语言适配到华为昇腾平台，实现跨硬件架构的算子自动优化与代码生成",
+  "author": "Lobsters AI/ML",
+  "updated_at": "2026-05-04T14:09:59.888556+00:00"
+}

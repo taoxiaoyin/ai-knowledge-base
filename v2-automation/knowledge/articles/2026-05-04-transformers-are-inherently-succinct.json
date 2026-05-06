@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260504-017",
+  "title": "Transformers are Inherently Succinct",
+  "source": "rss:Lobsters AI/ML",
+  "source_url": "https://arxiv.org/abs/2510.19315",
+  "collected_at": "2026-05-04T14:07:46.456186+00:00",
+  "published_at": "2026-05-04T14:07:46.456186+00:00",
+  "summary": "该论文提出Transformer模型本质上具有简洁性（Succinctness），即其内部表示可以通过少量关键维度或注意力头进行高效压缩，而不显著损失性能。创新点在于从理论角度证明Transformer的表示冗余度较低，并设计了一种基于稀疏注意力的压缩方法，在保持模型准确率的同时减少计算开销。适用场景包括大模型部署中的推理加速、边缘设备上的轻量化模型适配，以及可解释性研究中的关键组件识别。",
+  "tags": [
+    "research-paper",
+    "llm",
+    "reasoning",
+    "deployment"
+  ],
+  "relevance_score": 0.95,
+  "confidence": 0.85,
+  "status": "published",
+  "tech_stack": [
+    "python",
+    "pytorch"
+  ],
+  "innovation_point": "从理论层面证明Transformer的表示具有内在简洁性，并提出基于稀疏注意力的高效压缩方法。",
+  "author": "Lobsters AI/ML",
+  "updated_at": "2026-05-04T14:09:59.888616+00:00"
+}

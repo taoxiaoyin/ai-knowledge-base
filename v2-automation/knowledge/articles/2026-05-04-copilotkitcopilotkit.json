@@ -1,0 +1,25 @@
+{
+  "id": "github-20260504-020",
+  "title": "CopilotKit/CopilotKit",
+  "source": "github-trending",
+  "source_url": "https://github.com/CopilotKit/CopilotKit",
+  "collected_at": "2026-05-04T14:07:40.229603+00:00",
+  "published_at": "2026-05-04T12:54:03Z",
+  "summary": "CopilotKit 是一个用于构建智能代理和生成式用户界面的前端技术栈，支持 React 和 Angular 框架。其核心创新在于提出了 AG-UI 协议，为开发者提供了一套标准化的方法来集成和交互 AI 代理，使得在 Web 应用中嵌入对话式 AI、自动化任务和动态 UI 组件变得简单高效。该项目适用于需要快速构建具备 AI 交互能力的 SaaS 产品、内部工具或客户支持系统等场景，通过前端框架无缝对接后端 AI 服务，降低了开发门槛并提升了用户体验。",
+  "tags": [
+    "agent",
+    "framework",
+    "open-source"
+  ],
+  "relevance_score": 0.95,
+  "confidence": 0.92,
+  "status": "published",
+  "tech_stack": [
+    "TypeScript",
+    "React",
+    "Angular"
+  ],
+  "innovation_point": "提出 AG-UI 协议，为前端框架提供标准化接口以集成和交互 AI 代理，实现生成式 UI 的快速构建。",
+  "author": "CopilotKit",
+  "updated_at": "2026-05-04T14:09:59.887845+00:00"
+}

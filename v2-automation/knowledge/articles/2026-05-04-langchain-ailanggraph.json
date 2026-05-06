@@ -1,0 +1,25 @@
+{
+  "id": "github-20260504-019",
+  "title": "langchain-ai/langgraph",
+  "source": "github-trending",
+  "source_url": "https://github.com/langchain-ai/langgraph",
+  "collected_at": "2026-05-04T14:07:40.229598+00:00",
+  "published_at": "2026-05-04T13:04:05Z",
+  "summary": "LangGraph 是一个用于构建弹性语言代理（agent）的框架，它将代理工作流建模为有向图（graph），支持在 TypeScript 和 Python 中使用。其核心创新在于将复杂的多步骤代理逻辑（如推理、工具调用、状态管理）抽象为图结构，使得开发者可以灵活定义节点和边，实现可组合、可观察和可恢复的代理行为。该框架特别适用于需要多步骤推理、工具使用和状态持久化的复杂 AI 应用场景，如自动化客服、代码生成助手和多代理协作系统。",
+  "tags": [
+    "agent",
+    "framework",
+    "multi-agent"
+  ],
+  "relevance_score": 0.95,
+  "confidence": 0.95,
+  "status": "published",
+  "tech_stack": [
+    "python",
+    "langchain",
+    "typescript"
+  ],
+  "innovation_point": "将代理工作流建模为有向图，实现弹性、可组合的多步骤代理逻辑。",
+  "author": "langchain-ai",
+  "updated_at": "2026-05-04T14:09:59.887824+00:00"
+}

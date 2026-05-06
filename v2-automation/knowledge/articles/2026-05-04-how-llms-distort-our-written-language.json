@@ -1,0 +1,23 @@
+{
+  "id": "rss-20260504-004",
+  "title": "How LLMs Distort Our Written Language",
+  "source": "rss:Lobsters AI/ML",
+  "source_url": "https://sites.google.com/view/llmwritingdistortion/home",
+  "collected_at": "2026-05-04T14:02:55.395817+00:00",
+  "published_at": "2026-05-04T14:02:55.395817+00:00",
+  "summary": "该文章探讨了大语言模型（LLMs）如何扭曲书面语言，分析了LLMs在生成文本时可能引入的统计偏差和风格同质化问题。核心创新点在于揭示了LLMs对语言多样性和人类表达习惯的潜在负面影响，适用于语言学研究、AI伦理评估及文本生成质量监控场景。",
+  "tags": [
+    "llm",
+    "research-paper",
+    "evaluation"
+  ],
+  "relevance_score": 0.85,
+  "confidence": 0.9,
+  "status": "published",
+  "tech_stack": [
+    "python"
+  ],
+  "innovation_point": "揭示LLMs对书面语言多样性的扭曲效应及其潜在伦理影响",
+  "author": "Lobsters AI/ML",
+  "updated_at": "2026-05-04T14:04:03.254740+00:00"
+}

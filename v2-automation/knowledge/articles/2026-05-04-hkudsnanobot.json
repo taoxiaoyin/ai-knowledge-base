@@ -1,0 +1,26 @@
+{
+  "id": "github-20260504-015",
+  "title": "HKUDS/nanobot",
+  "source": "github-trending",
+  "source_url": "https://github.com/HKUDS/nanobot",
+  "collected_at": "2026-05-04T14:07:40.229576+00:00",
+  "published_at": "2026-05-04T04:14:39Z",
+  "summary": "nanobot 是一个超轻量级的个人 AI 代理项目，旨在提供高效、低资源消耗的智能助手体验。其核心创新在于通过极简的架构设计，在保持强大功能的同时大幅降低计算和存储需求，适用于资源受限的边缘设备或嵌入式场景。该项目基于 Python 开发，支持与 Anthropic、ChatGPT 等主流 AI 服务集成，可灵活扩展为个性化任务助手，如日程管理、信息检索或自动化工作流。其开源特性促进了社区定制与优化，尤其适合开发者快速部署轻量级 AI 代理。",
+  "tags": [
+    "agent",
+    "llm",
+    "open-source",
+    "framework"
+  ],
+  "relevance_score": 0.95,
+  "confidence": 0.9,
+  "status": "published",
+  "tech_stack": [
+    "python",
+    "anthropic",
+    "chatgpt"
+  ],
+  "innovation_point": "通过超轻量级架构实现个人 AI 代理的高效运行，显著降低资源消耗，适配边缘设备。",
+  "author": "HKUDS",
+  "updated_at": "2026-05-04T14:09:59.887788+00:00"
+}

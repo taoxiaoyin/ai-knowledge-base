@@ -1,0 +1,27 @@
+{
+  "id": "github-20260504-002",
+  "title": "langchain-ai/langchain",
+  "source": "github-trending",
+  "source_url": "https://github.com/langchain-ai/langchain",
+  "collected_at": "2026-05-04T14:02:30.765070+00:00",
+  "published_at": "2026-05-04T10:14:29Z",
+  "summary": "LangChain 是一个开源的智能体工程平台，支持 TypeScript 和 Python 编程语言。其核心创新在于提供了一套完整的工具链，用于构建、测试和部署基于大语言模型的智能体（Agent）应用，包括与 Anthropic、ChatGPT 等模型的集成。该框架适用于开发复杂的 AI 代理系统，如自动化工作流、多步骤推理任务和工具调用场景，能够显著降低智能体应用的开发门槛。",
+  "tags": [
+    "agent",
+    "framework",
+    "llm",
+    "open-source",
+    "tool-use"
+  ],
+  "relevance_score": 0.95,
+  "confidence": 0.95,
+  "status": "published",
+  "tech_stack": [
+    "python",
+    "typescript",
+    "langchain"
+  ],
+  "innovation_point": "提供统一的智能体工程平台，简化了基于大语言模型的复杂代理系统开发与部署流程。",
+  "author": "langchain-ai",
+  "updated_at": "2026-05-04T14:04:03.254711+00:00"
+}

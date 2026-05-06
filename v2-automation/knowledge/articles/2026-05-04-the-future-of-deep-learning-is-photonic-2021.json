@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260504-020",
+  "title": "The Future of Deep Learning Is Photonic (2021)",
+  "source": "rss:Lobsters AI/ML",
+  "source_url": "https://spectrum.ieee.org/the-future-of-deep-learning-is-photonic",
+  "collected_at": "2026-05-04T14:07:46.456217+00:00",
+  "published_at": "2026-05-04T14:07:46.456217+00:00",
+  "summary": "该文章探讨了光子深度学习的前景，提出利用光子计算替代传统电子计算来加速神经网络训练与推理。核心创新在于通过光子芯片实现超低功耗和极高并行处理能力，适用于大规模AI模型部署和实时数据处理场景。文章指出光子计算有望突破摩尔定律瓶颈，为未来AI系统提供更高效的硬件基础。",
+  "tags": [
+    "research-paper",
+    "hardware",
+    "deep-learning"
+  ],
+  "relevance_score": 0.75,
+  "confidence": 0.85,
+  "status": "published",
+  "tech_stack": [],
+  "innovation_point": "提出光子计算替代电子计算，实现超低功耗与高并行处理，突破传统硬件瓶颈。",
+  "author": "Lobsters AI/ML",
+  "updated_at": "2026-05-04T14:09:59.888994+00:00"
+}

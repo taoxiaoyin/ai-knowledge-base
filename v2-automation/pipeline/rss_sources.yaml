@@ -1,68 +1,74 @@
 # RSS 数据源配置
-# 用于 pipeline.py 自动采集 AI 技术内容
+# 用于知识库流水线自动采集 AI 技术内容
+#
+# 字段说明：
+#   name     - 数据源名称（用于日志和展示）
+#   url      - RSS/Atom Feed 地址
+#   category - 分类（综合技术 / AI 研究 / 公司博客 / 中文社区）
+#   enabled  - 是否启用采集（true=启用, false=跳过）
+#
+# 注意事项：
+#   1. 量太大的源（如未筛选的全量 firehose）默认 disabled
+#   2. 中文社区源默认 disabled，需人工确认 RSS 可用性后再开启
+#   3. 每个源的 enabled 字段独立控制，可在运行时不修改文件临时禁用
 
 sources:
-  # --- 综合技术 ---
+  # ============================================================
+  # 综合技术
+  # ============================================================
   - name: "Hacker News (Best)"
     url: "https://hnrss.org/best?q=AI+OR+LLM+OR+agent"
-    category: "general"
+    category: "综合技术"
+    enabled: true
+
+  - name: "Lobsters AI/ML"
+    url: "https://lobste.rs/t/ai.rss"
+    category: "综合技术"
+    enabled: true
+
+  # ============================================================
+  # AI 研究
+  # ============================================================
+  - name: "arXiv cs.AI"
+    url: "https://rss.arxiv.org/rss/cs.AI"
+    category: "AI 研究"
+    enabled: true
+
+  # ============================================================
+  # 公司博客
+  # ============================================================
+  - name: "OpenAI Blog"
+    url: "https://openai.com/blog/rss.xml"
+    category: "公司博客"
+    enabled: true
+
+  - name: "Anthropic Research"
+    url: "https://www.anthropic.com/research/rss.xml"
+    category: "公司博客"
+    enabled: true
+
+  - name: "Hugging Face Blog"
+    url: "https://huggingface.co/blog/feed.xml"
+    category: "公司博客"
     enabled: true
 
   - name: "Reddit r/MachineLearning"
     url: "https://www.reddit.com/r/MachineLearning/hot.rss"
     category: "research"
-    enabled: true
-
+    enabled: true  
   - name: "Reddit r/LocalLLaMA"
-    url: "https://www.reddit.com/r/LocalLLaMA/hot.rss"
+    url: "hhttps://www.reddit.com/r/LocalLLaMA/hot.rss"
     category: "open-source"
-    enabled: true
-
-  # --- AI 研究 ---
-  - name: "arXiv cs.AI"
-    url: "https://rss.arxiv.org/rss/cs.AI"
-    category: "research"
-    enabled: true
-
-  - name: "arXiv cs.CL"
-    url: "https://rss.arxiv.org/rss/cs.CL"
-    category: "research"
-    enabled: false  # 量太大，按需开启
-
-  # --- 公司博客 ---
-  - name: "OpenAI Blog"
-    url: "https://openai.com/blog/rss.xml"
-    category: "industry"
-    enabled: true
-
-  - name: "Anthropic Research"
-    url: "https://www.anthropic.com/research/rss.xml"
-    category: "industry"
-    enabled: true
-
-  - name: "Google AI Blog"
-    url: "https://blog.google/technology/ai/rss/"
-    category: "industry"
-    enabled: true
-
-  # --- 开发者社区 ---
-  - name: "Hugging Face Blog"
-    url: "https://huggingface.co/blog/feed.xml"
-    category: "open-source"
-    enabled: true
-
-  - name: "LangChain Blog"
-    url: "https://blog.langchain.dev/rss/"
-    category: "framework"
-    enabled: true
-
-  # --- 中文社区 ---
+    enabled: true     
+  # ============================================================
+  # 中文社区（默认禁用，需人工确认 RSS 可用性后开启）
+  # ============================================================
   - name: "机器之心"
     url: "https://www.jiqizhixin.com/rss"
-    category: "chinese"
-    enabled: false  # 需确认 RSS 可用性
+    category: "中文社区"
+    enabled: false
 
   - name: "量子位"
     url: "https://www.qbitai.com/feed"
-    category: "chinese"
-    enabled: false  # 需确认 RSS 可用性
+    category: "中文社区"
+    enabled: false

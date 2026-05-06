@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260504-008",
+  "title": "Porting microgpt to Futhark, Part I",
+  "source": "rss:Lobsters AI/ML",
+  "source_url": "https://www.kmjn.org/notes/microgpt_futhark.html",
+  "collected_at": "2026-05-04T14:02:55.395870+00:00",
+  "published_at": "2026-05-04T14:02:55.395870+00:00",
+  "summary": "本文介绍了将微型GPT模型移植到Futhark编程语言的过程。Futhark是一种用于高性能并行计算的语言，特别适合GPU加速。文章详细描述了移植过程中的技术挑战和解决方案，包括如何将GPT的注意力机制和前馈网络等核心组件用Futhark实现。该工作展示了在非传统深度学习框架中实现AI模型的可能性，适用于需要高性能计算和硬件加速的场景。",
+  "tags": [
+    "llm",
+    "open-source",
+    "tutorial"
+  ],
+  "relevance_score": 0.75,
+  "confidence": 0.85,
+  "status": "published",
+  "tech_stack": [
+    "futhark",
+    "gpt"
+  ],
+  "innovation_point": "将GPT模型移植到Futhark语言，探索非传统深度学习框架下的高性能AI实现。",
+  "author": "Lobsters AI/ML",
+  "updated_at": "2026-05-04T14:04:03.254751+00:00"
+}

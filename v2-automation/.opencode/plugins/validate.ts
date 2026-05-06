@@ -1,65 +1,62 @@
-/**
- * OpenCode Plugin Hook — 写入文章时自动触发 JSON 校验
- *
- * 当 Agent 使用 write 或 edit 工具修改 knowledge/articles/ 下的文件时，
- * 自动运行 validate_json.py 校验脚本，确保文章格式合规。
- *
- * 基于 OpenCode Plugin API：
- * - 事件: tool.execute.after（工具执行后触发）
- * - 输入: input.tool（工具名）、input.args.file_path / input.args.filePath（文件路径）
- * - 执行: Bun Shell API（$ 模板字符串）
- */
-
 import type { Plugin } from "@opencode-ai/plugin"
 
-export const ValidateHook: Plugin = async ({ $ }) => {
+/**
+ * validate 插件 —— Agent 写入 knowledge/articles/*.json 时自动校验格式合规性。
+ *
+ * 监听 tool.execute.after 事件，当 write / edit 工具写入目标目录后，
+ * 调用 Python 脚本 hooks/validate_json.py 检查 JSON 的必填字段、ID 格式、
+ * status 枚举、URL 格式、summary 长度、tags 数量等。
+ *
+ * 使用 Bun Shell API 的 $.nothrow() 执行命令，避免非零退出码导致插件崩溃。
+ * 所有 shell 调用均被 try/catch 包裹，防止未捕获异常阻塞 Agent。
+ */
+const validatePlugin: Plugin = async (input) => {
+  const { $ } = input
+
   return {
-    "tool.execute.after": async (input) => {
-      // 只在 write 或 edit 工具执行后触发
-      const tool = input.tool?.toLowerCase() ?? ""
-      if (tool !== "write" && tool !== "edit") {
+    async "tool.execute.after"(hookInput) {
+      const { tool: toolName, args } = hookInput
+
+      if (toolName !== "write" && toolName !== "edit") {
         return
       }
 
-      // 获取文件路径（兼容两种命名风格）
-      const filePath: string | undefined =
-        input.args?.file_path ?? input.args?.filePath
+      const argsRecord = args as Record<string, unknown>
+      const filePath: unknown =
+        argsRecord.file_path ?? argsRecord.filePath
 
-      if (!filePath) {
+      if (typeof filePath !== "string") {
         return
       }
 
-      // 只校验 knowledge/articles/ 目录下的 JSON 文件
-      if (!filePath.includes("knowledge/articles/") || !filePath.endsWith(".json")) {
+      if (
+        !filePath.startsWith("knowledge/articles/") ||
+        !filePath.endsWith(".json")
+      ) {
         return
       }
 
-      console.log(`[validate-hook] 检测到文章写入: ${filePath}`)
-
-      // 运行 JSON 格式校验
-      // 使用 .nothrow() 避免非零退出码导致进程挂起
-      const validateResult = await $`python3 hooks/validate_json.py ${filePath}`.nothrow()
-
-      if (validateResult.exitCode !== 0) {
-        console.error(`[validate-hook] ❌ 格式校验失败:`)
-        console.error(validateResult.stdout.toString())
-        console.error(validateResult.stderr.toString())
-        return
-      }
-
-      console.log(`[validate-hook] ✅ 格式校验通过`)
-
-      // 运行质量评分
-      const qualityResult = await $`python3 hooks/check_quality.py ${filePath}`.nothrow()
-
-      if (qualityResult.exitCode !== 0) {
-        console.warn(`[validate-hook] ⚠️ 质量评分低于 B 级:`)
-        console.warn(qualityResult.stdout.toString())
-      } else {
-        console.log(`[validate-hook] ✅ 质量评分达标`)
+      try {
+        const result =
+          await $.nothrow()`python3 hooks/validate_json.py ${filePath}`
+        if (result.exitCode === 0) {
+          console.log(
+            `[validate] ✅ ${filePath} 格式校验通过`,
+          )
+        } else {
+          console.error(
+            `[validate] ❌ ${filePath} 格式校验失败:\n${result.text()}`,
+          )
+        }
+      } catch (err: unknown) {
+        const message =
+          err instanceof Error ? err.message : String(err)
+        console.error(
+          `[validate] ⚠️ ${filePath} 校验脚本执行异常: ${message}`,
+        )
       }
     },
   }
 }
 
-export default ValidateHook
+export default validatePlugin

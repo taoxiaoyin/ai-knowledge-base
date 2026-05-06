@@ -1,0 +1,23 @@
+{
+  "id": "github-20260504-009",
+  "title": "mem0ai/mem0",
+  "source": "github-trending",
+  "source_url": "https://github.com/mem0ai/mem0",
+  "collected_at": "2026-05-04T14:02:30.765103+00:00",
+  "published_at": "2026-05-04T11:21:47Z",
+  "summary": "mem0ai/mem0 是一个为 AI 代理提供通用记忆层的开源项目，旨在解决 AI 代理在长期交互中缺乏持久记忆的问题。其核心创新在于为 AI 代理（如聊天机器人）提供类似人类的记忆能力，使其能够跨会话记住用户偏好、上下文和关键信息，从而提升交互的个性化和连续性。该项目基于 Python 开发，适用于需要长期记忆支持的 AI 代理应用场景，如个性化聊天机器人、智能助手和自主代理系统。",
+  "tags": [
+    "agent",
+    "llm",
+    "open-source"
+  ],
+  "relevance_score": 0.95,
+  "confidence": 0.9,
+  "status": "published",
+  "tech_stack": [
+    "python"
+  ],
+  "innovation_point": "为 AI 代理提供通用且可插拔的记忆层，实现跨会话的持久化上下文记忆。",
+  "author": "mem0ai",
+  "updated_at": "2026-05-04T14:04:03.254729+00:00"
+}

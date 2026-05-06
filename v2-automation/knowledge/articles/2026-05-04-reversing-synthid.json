@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260504-019",
+  "title": "Reversing SynthID",
+  "source": "rss:Lobsters AI/ML",
+  "source_url": "https://hackerfactor.com/blog/index.php?/archives/1092-Reversing-SynthID.html",
+  "collected_at": "2026-05-04T14:07:46.456206+00:00",
+  "published_at": "2026-05-04T14:07:46.456206+00:00",
+  "summary": "本文对谷歌的 SynthID 技术进行了逆向分析，揭示了其用于 AI 生成内容水印和检测的核心机制。SynthID 通过在模型输出中嵌入不可见的水印，并利用专门的检测算法识别这些水印，从而区分 AI 生成内容与人类创作内容。该技术适用于内容溯源、版权保护和虚假信息检测等场景，创新点在于将水印直接嵌入到生成模型的输出分布中，而非事后添加，提高了水印的鲁棒性和隐蔽性。",
+  "tags": [
+    "security",
+    "research-paper",
+    "llm"
+  ],
+  "relevance_score": 0.85,
+  "confidence": 0.9,
+  "status": "published",
+  "tech_stack": [
+    "python",
+    "tensorflow"
+  ],
+  "innovation_point": "将水印直接嵌入到生成模型的输出分布中，而非事后添加，提高了水印的鲁棒性和隐蔽性。",
+  "author": "Lobsters AI/ML",
+  "updated_at": "2026-05-04T14:09:59.888984+00:00"
+}

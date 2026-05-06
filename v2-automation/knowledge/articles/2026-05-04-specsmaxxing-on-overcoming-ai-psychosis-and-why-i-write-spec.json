@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260504-002",
+  "title": "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://acai.sh/blog/specsmaxxing",
+  "collected_at": "2026-05-04T14:02:52.852936+00:00",
+  "published_at": "2026-05-04T14:02:52.852936+00:00",
+  "summary": "本文探讨了AI系统开发中遇到的“AI精神病”问题，即模型输出不稳定、幻觉频发等不可靠现象。作者提出通过使用YAML格式编写技术规格说明书（specs）来缓解这一问题，强调结构化、明确化的规格定义能显著提升AI行为的可控性和一致性。该方法适用于需要高可靠性AI系统的场景，如自动化代码生成、复杂任务编排等，通过将模糊需求转化为精确的YAML规范，有效降低AI的随机性和错误率。",
+  "tags": [
+    "prompt-engineering",
+    "reasoning",
+    "framework"
+  ],
+  "relevance_score": 0.85,
+  "confidence": 0.9,
+  "status": "published",
+  "tech_stack": [
+    "yaml",
+    "langchain"
+  ],
+  "innovation_point": "提出使用YAML结构化规格说明书来约束和引导AI行为，以解决模型输出不稳定和幻觉问题。",
+  "author": "Hacker News (Best)",
+  "updated_at": "2026-05-04T14:04:03.254736+00:00"
+}
