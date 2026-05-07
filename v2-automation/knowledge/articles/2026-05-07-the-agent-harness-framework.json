@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260507-004",
+  "title": "The Agent Harness Framework",
+  "source": "rss:Lobsters AI/ML",
+  "source_url": "https://github.com/withastro/flue",
+  "collected_at": "2026-05-07T10:17:44.310347+00:00",
+  "published_at": "2026-05-07T10:17:44.310347+00:00",
+  "summary": "The Agent Harness Framework 是一个用于构建和编排 AI Agent 的框架，核心创新在于提供标准化的工具调用接口和任务调度机制，支持多 Agent 协作与动态工具注册。该框架适用于需要复杂工作流编排的 AI 应用场景，如自动化客服、代码生成助手和数据分析管道。通过模块化设计，开发者可以快速集成 LLM 模型、外部 API 和自定义工具，降低 Agent 开发门槛。",
+  "tags": [
+    "agent",
+    "framework",
+    "tool-use",
+    "multi-agent"
+  ],
+  "relevance_score": 0.88,
+  "confidence": 0.75,
+  "status": "published",
+  "tech_stack": [
+    "python",
+    "langchain"
+  ],
+  "innovation_point": "标准化工具注册与动态任务调度机制，支持多 Agent 协作和灵活的工具链编排。",
+  "author": "Lobsters AI/ML",
+  "updated_at": "2026-05-07T10:20:03.143501+00:00"
+}

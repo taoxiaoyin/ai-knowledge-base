@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260507-018",
+  "title": "TurboQuant: A First-Principles Walkthrough",
+  "source": "rss:Lobsters AI/ML",
+  "source_url": "https://arkaung.github.io/interactive-turboquant/",
+  "collected_at": "2026-05-07T10:17:44.310445+00:00",
+  "published_at": "2026-05-07T10:17:44.310445+00:00",
+  "summary": "本文档《TurboQuant: A First-Principles Walkthrough》基于第一性原理，系统性地介绍了TurboQuant这一AI量化交易框架的核心设计理念与实现方法。文章从基础数学原理出发，逐步推导出高效的量化模型构建流程，重点阐述了如何利用现代AI技术（如深度学习、强化学习）优化交易策略。其创新点在于将传统量化金融理论与前沿AI算法深度融合，提供了一个可解释性强、性能优越的端到端解决方案。该框架适用于高频交易、风险管理及投资组合优化等场景，为量化研究人员和开发者提供了从理论到实践的完整指南。",
+  "tags": [
+    "framework",
+    "reasoning",
+    "deployment",
+    "research-paper"
+  ],
+  "relevance_score": 0.85,
+  "confidence": 0.9,
+  "status": "published",
+  "tech_stack": [
+    "python",
+    "pytorch",
+    "tensorflow"
+  ],
+  "innovation_point": "将第一性原理思维与AI量化模型相结合，实现从数学基础到交易策略的高效、可解释的端到端框架。",
+  "author": "Lobsters AI/ML",
+  "updated_at": "2026-05-07T10:20:03.143928+00:00"
+}

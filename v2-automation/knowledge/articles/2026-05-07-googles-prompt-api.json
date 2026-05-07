@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260507-005",
+  "title": "Google’s Prompt API",
+  "source": "rss:Lobsters AI/ML",
+  "source_url": "https://wil.to/posts/googles-prompt-api/",
+  "collected_at": "2026-05-07T10:17:44.310373+00:00",
+  "published_at": "2026-05-07T10:17:44.310373+00:00",
+  "summary": "Google 推出的 Prompt API 是一项面向开发者的 AI 工具，旨在简化与大型语言模型（LLM）的交互过程。其核心创新在于提供标准化的接口和预置的提示模板，使开发者无需深入理解底层模型细节即可快速构建 AI 应用。该 API 适用于多种场景，如内容生成、对话系统和代码辅助，特别适合需要快速集成 AI 能力的应用开发。通过降低提示工程的门槛，它提升了开发效率并减少了错误率。",
+  "tags": [
+    "api",
+    "prompt-engineering",
+    "llm"
+  ],
+  "relevance_score": 0.85,
+  "confidence": 0.9,
+  "status": "published",
+  "tech_stack": [
+    "python",
+    "langchain"
+  ],
+  "innovation_point": "通过标准化接口和预置模板，大幅降低提示工程门槛，实现快速 AI 应用集成。",
+  "author": "Lobsters AI/ML",
+  "updated_at": "2026-05-07T10:20:03.143520+00:00"
+}
