@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260509-006",
+  "title": "jlearn: Machine Learning Library in J",
+  "source": "rss:Lobsters AI/ML",
+  "source_url": "https://github.com/jonghough/jlearn",
+  "collected_at": "2026-05-09T09:12:50.839153+00:00",
+  "published_at": "2026-05-09T09:12:50.839153+00:00",
+  "summary": "jlearn 是一个基于 J 语言实现的机器学习库，旨在为 J 语言生态提供基础的机器学习算法支持。其核心创新在于利用 J 语言独特的数组编程范式实现高效的数值计算和模型训练，适用于需要快速原型开发或与 J 语言现有数据分析流程集成的场景。该库可能包含分类、回归、聚类等常见算法，但缺乏与主流 AI/LLM 技术的直接关联。",
+  "tags": [
+    "open-source",
+    "framework"
+  ],
+  "relevance_score": 0.3,
+  "confidence": 0.7,
+  "status": "published",
+  "tech_stack": [
+    "j"
+  ],
+  "innovation_point": "利用 J 语言的数组编程范式实现机器学习算法，提供轻量级本地化解决方案。",
+  "author": "Lobsters AI/ML",
+  "updated_at": "2026-05-09T09:15:38.725552+00:00"
+}

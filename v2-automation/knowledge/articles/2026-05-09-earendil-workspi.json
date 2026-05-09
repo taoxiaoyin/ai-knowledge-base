@@ -1,0 +1,27 @@
+{
+  "id": "github-20260509-011",
+  "title": "earendil-works/pi",
+  "source": "github-trending",
+  "source_url": "https://github.com/earendil-works/pi",
+  "collected_at": "2026-05-09T09:12:49.995245+00:00",
+  "published_at": "2026-05-08T19:38:50Z",
+  "summary": "earendil-works/pi 是一个面向 AI 代理的工具包，提供编码代理命令行界面、统一的大语言模型 API、终端用户界面和 Web UI 库、Slack 机器人以及 vLLM 容器管理功能。其核心创新在于整合了多种 AI 代理开发所需的基础设施，包括统一的 LLM API 接口和灵活的 UI 组件，使开发者能够快速构建和部署基于大语言模型的智能代理应用。该工具包适用于需要快速原型开发或生产级部署的 AI 代理场景，尤其适合需要多平台交互（CLI、TUI、Web、Slack）的编码辅助和自动化任务。",
+  "tags": [
+    "agent",
+    "llm",
+    "code-generation",
+    "framework",
+    "api"
+  ],
+  "relevance_score": 0.95,
+  "confidence": 0.9,
+  "status": "published",
+  "tech_stack": [
+    "TypeScript",
+    "vLLM",
+    "LLM API"
+  ],
+  "innovation_point": "提供统一的 LLM API 接口和多种交互界面（CLI、TUI、Web、Slack），集成 vLLM 容器管理，实现 AI 代理的快速构建与多平台部署。",
+  "author": "earendil-works",
+  "updated_at": "2026-05-09T09:15:38.725258+00:00"
+}

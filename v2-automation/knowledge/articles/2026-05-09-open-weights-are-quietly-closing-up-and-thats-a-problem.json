@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260509-008",
+  "title": "Open weights are quietly closing up - and that's a problem",
+  "source": "rss:Lobsters AI/ML",
+  "source_url": "https://martinalderson.com/posts/open-weights-are-quietly-closing-up/",
+  "collected_at": "2026-05-09T09:12:50.839170+00:00",
+  "published_at": "2026-05-09T09:12:50.839170+00:00",
+  "summary": "本文讨论了开放权重模型（open weights）正在逐渐变得不那么开放的趋势，并指出这对AI领域构成了问题。开放权重模型原本允许用户自由访问和使用模型权重，但近期一些公司开始限制访问、增加使用条款或转向更封闭的许可模式。这种变化可能阻碍研究、创新和透明度，尤其是在学术界和小型开发者群体中。文章呼吁社区关注这一趋势，并推动保持真正的开放性。",
+  "tags": [
+    "open-source",
+    "llm",
+    "security"
+  ],
+  "relevance_score": 0.85,
+  "confidence": 0.9,
+  "status": "published",
+  "tech_stack": [],
+  "innovation_point": "揭示了开放权重模型封闭化的趋势及其对AI生态的潜在负面影响",
+  "author": "Lobsters AI/ML",
+  "updated_at": "2026-05-09T09:15:38.725616+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260509-003",
+  "title": "Motherboard sales 'collapse' amid unprecedented shortages fueled by AI",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers",
+  "collected_at": "2026-05-09T09:12:50.472968+00:00",
+  "published_at": "2026-05-09T09:12:50.472968+00:00",
+  "summary": "该内容报道了因人工智能需求激增导致的硬件短缺现象，特别是主板销量出现‘崩溃式’下滑。核心问题在于AI相关计算需求（如GPU、服务器）挤占了传统PC组件的产能和供应链资源，导致主板等硬件供应紧张、价格上涨，进而抑制了消费市场。创新点在于揭示了AI技术发展对传统硬件市场的间接冲击，而非直接的技术突破。适用场景为分析AI产业对全球供应链和消费电子市场的连锁影响。",
+  "tags": [
+    "hardware",
+    "supply-chain",
+    "ai-impact"
+  ],
+  "relevance_score": 0.65,
+  "confidence": 0.85,
+  "status": "published",
+  "tech_stack": [],
+  "innovation_point": "揭示了AI需求对传统PC硬件市场的间接冲击，而非直接的技术创新。",
+  "author": "Hacker News (Best)",
+  "updated_at": "2026-05-09T09:15:38.725534+00:00"
+}

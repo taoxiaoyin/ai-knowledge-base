@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260509-004",
+  "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://deepmind.google/blog/alphaevolve-impact/",
+  "collected_at": "2026-05-09T09:12:50.472977+00:00",
+  "published_at": "2026-05-09T09:12:50.472977+00:00",
+  "summary": "AlphaEvolve 是一个基于 Gemini 的编码智能体，旨在通过自动化代码生成和优化来提升跨领域的工作效率。其核心创新在于利用 Gemini 模型的多模态理解能力，结合强化学习与自我进化机制，使智能体能够自主适应不同编程任务和领域需求。该工具适用于软件开发、数据分析、自动化脚本编写等场景，能够显著减少人工编码时间并提高代码质量。",
+  "tags": [
+    "agent",
+    "code-generation",
+    "llm",
+    "multi-agent"
+  ],
+  "relevance_score": 0.85,
+  "confidence": 0.7,
+  "status": "published",
+  "tech_stack": [
+    "python",
+    "gemini"
+  ],
+  "innovation_point": "结合 Gemini 多模态能力与自我进化机制，实现跨领域自适应编码智能体。",
+  "author": "Hacker News (Best)",
+  "updated_at": "2026-05-09T09:15:38.725540+00:00"
+}

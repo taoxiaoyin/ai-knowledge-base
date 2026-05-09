@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260509-005",
+  "title": "Mojo v1.0.0b1",
+  "source": "rss:Lobsters AI/ML",
+  "source_url": "https://mojolang.org/releases/v1.0.0b1",
+  "collected_at": "2026-05-09T09:12:50.839134+00:00",
+  "published_at": "2026-05-09T09:12:50.839134+00:00",
+  "summary": "Mojo v1.0.0b1 是 Modular 公司发布的 Mojo 编程语言的第一个 Beta 版本。Mojo 是一种专为 AI 和机器学习工作负载设计的新语言，它结合了 Python 的易用性与 C 语言级别的性能。该版本标志着语言核心功能的稳定化，并引入了对 Python 生态系统的全面兼容，使得开发者可以无缝使用现有的 Python 库。Mojo 的创新点在于其“可编程的编译器”架构，允许开发者通过元编程和编译时优化来编写高性能的 AI 模型推理和训练代码。其适用场景包括高性能计算、AI 模型部署、以及需要极致性能的机器学习流水线。",
+  "tags": [
+    "framework",
+    "open-source",
+    "code-generation"
+  ],
+  "relevance_score": 0.85,
+  "confidence": 0.9,
+  "status": "published",
+  "tech_stack": [
+    "python",
+    "mojo"
+  ],
+  "innovation_point": "Mojo 通过可编程的编译器架构，在保持 Python 语法简洁性的同时，实现了接近 C 语言的性能，专为 AI 工作负载优化。",
+  "author": "Lobsters AI/ML",
+  "updated_at": "2026-05-09T09:15:38.725546+00:00"
+}
