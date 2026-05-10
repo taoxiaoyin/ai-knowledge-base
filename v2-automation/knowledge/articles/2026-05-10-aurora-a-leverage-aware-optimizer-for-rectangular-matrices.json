@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260510-003",
+  "title": "Aurora: A Leverage-Aware Optimizer for Rectangular Matrices",
+  "source": "rss:Lobsters AI/ML",
+  "source_url": "https://blog.tilderesearch.com/blog/aurora",
+  "collected_at": "2026-05-10T09:24:26.863062+00:00",
+  "published_at": "2026-05-10T09:24:26.863062+00:00",
+  "summary": "本文介绍了一种名为Aurora的新型优化器，专门针对矩形矩阵的优化问题。核心创新在于引入了杠杆感知机制，能够根据矩阵的杠杆值动态调整优化策略，从而提升训练效率和模型性能。该优化器适用于大规模矩阵运算场景，如推荐系统和自然语言处理中的嵌入层优化。",
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "research-paper"
+  ],
+  "relevance_score": 0.75,
+  "confidence": 0.85,
+  "status": "published",
+  "tech_stack": [
+    "python",
+    "pytorch"
+  ],
+  "innovation_point": "提出杠杆感知机制，根据矩阵杠杆值动态调整优化策略，提升矩形矩阵训练效率。",
+  "author": "Lobsters AI/ML",
+  "updated_at": "2026-05-10T09:27:04.154513+00:00"
+}

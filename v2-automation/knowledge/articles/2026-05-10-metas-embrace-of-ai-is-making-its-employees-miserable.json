@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260510-001",
+  "title": "Meta's embrace of AI is making its employees miserable",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
+  "collected_at": "2026-05-10T09:24:26.734299+00:00",
+  "published_at": "2026-05-10T09:24:26.734299+00:00",
+  "summary": "本文报道了Meta公司全面拥抱AI技术后，员工工作体验变差的现象。核心内容聚焦于AI工具在内部流程中的强制应用，如自动化代码审查、绩效评估等，导致员工感到压力增大、创造力受限。创新点在于揭示了AI大规模部署时可能引发的组织文化冲突，而非技术本身。适用场景包括企业AI战略评估、员工体验管理及人机协作模式研究。",
+  "tags": [
+    "deployment",
+    "evaluation",
+    "tool-use"
+  ],
+  "relevance_score": 0.65,
+  "confidence": 0.75,
+  "status": "published",
+  "tech_stack": [],
+  "innovation_point": "揭示AI大规模部署对员工心理和组织文化的负面影响，而非技术突破。",
+  "author": "Hacker News (Best)",
+  "updated_at": "2026-05-10T09:27:04.154457+00:00"
+}
