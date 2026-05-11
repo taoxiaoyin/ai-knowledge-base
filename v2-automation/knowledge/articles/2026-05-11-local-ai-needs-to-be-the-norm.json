@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260511-002",
+  "title": "Local AI needs to be the norm",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+  "collected_at": "2026-05-11T10:55:49.140822+00:00",
+  "published_at": "2026-05-11T10:55:49.140822+00:00",
+  "summary": "该内容主张本地化AI应成为常态，强调在用户设备上直接运行AI模型，而非完全依赖云端服务。核心创新点在于通过端侧部署实现数据隐私保护、低延迟响应和离线可用性，适用于个人助手、智能家居、医疗健康等对隐私和实时性要求高的场景。文章可能讨论了本地AI在模型压缩、硬件加速和边缘计算方面的技术挑战与解决方案。",
+  "tags": [
+    "deployment",
+    "privacy",
+    "edge-computing"
+  ],
+  "relevance_score": 0.85,
+  "confidence": 0.9,
+  "status": "published",
+  "tech_stack": [
+    "onnx",
+    "tensorflow-lite",
+    "coreml"
+  ],
+  "innovation_point": "提出本地化AI作为主流范式，通过端侧部署平衡隐私、延迟与性能",
+  "author": "Hacker News (Best)",
+  "updated_at": "2026-05-11T10:58:18.829096+00:00"
+}

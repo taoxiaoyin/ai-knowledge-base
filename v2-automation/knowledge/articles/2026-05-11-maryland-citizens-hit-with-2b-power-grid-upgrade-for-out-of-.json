@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260511-001",
+  "title": "Maryland citizens hit with $2B power grid upgrade for out-of-state AI",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises",
+  "collected_at": "2026-05-11T10:55:49.140789+00:00",
+  "published_at": "2026-05-11T10:55:49.140789+00:00",
+  "summary": "该内容报道了马里兰州居民因支持外州AI数据中心而面临20亿美元电网升级费用的事件。核心矛盾在于AI产业的高速发展导致电力需求激增，而电网基础设施的升级成本被转嫁给当地居民。这一案例揭示了AI技术规模化应用中的能源基础设施瓶颈与社会公平问题，适用于讨论AI产业政策、能源规划及技术伦理等场景。",
+  "tags": [
+    "security",
+    "deployment",
+    "infrastructure"
+  ],
+  "relevance_score": 0.55,
+  "confidence": 0.85,
+  "status": "published",
+  "tech_stack": [],
+  "innovation_point": "揭示了AI产业扩张中能源成本社会化分摊的争议性案例，凸显技术部署与公共利益的冲突。",
+  "author": "Hacker News (Best)",
+  "updated_at": "2026-05-11T10:58:18.829082+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260511-003",
+  "title": "Task Paralysis and AI",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html",
+  "collected_at": "2026-05-11T10:55:49.140834+00:00",
+  "published_at": "2026-05-11T10:55:49.140834+00:00",
+  "summary": "该内容探讨了AI技术中的“任务瘫痪”现象，即用户在面对AI工具时因选择过多或期望过高而无法有效行动。核心创新点在于提出通过简化AI交互界面和提供预设任务模板来降低用户决策负担。适用场景包括AI辅助写作、代码生成和数据分析等需要用户主动发起任务的领域。",
+  "tags": [
+    "llm",
+    "prompt-engineering",
+    "tool-use"
+  ],
+  "relevance_score": 0.75,
+  "confidence": 0.8,
+  "status": "published",
+  "tech_stack": [],
+  "innovation_point": "通过简化AI交互界面和预设任务模板来缓解用户的任务瘫痪问题",
+  "author": "Hacker News (Best)",
+  "updated_at": "2026-05-11T10:58:18.829104+00:00"
+}

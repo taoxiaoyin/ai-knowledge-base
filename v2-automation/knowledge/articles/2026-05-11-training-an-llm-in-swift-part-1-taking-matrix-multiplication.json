@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260511-005",
+  "title": "Training an LLM in Swift, Part 1: Taking matrix multiplication from Gflop/s to Tflop/s",
+  "source": "rss:Lobsters AI/ML",
+  "source_url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
+  "collected_at": "2026-05-11T10:55:49.378470+00:00",
+  "published_at": "2026-05-11T10:55:49.378470+00:00",
+  "summary": "本文是系列教程的第一部分，专注于在 Swift 编程语言中训练大型语言模型（LLM），核心内容是如何通过优化矩阵乘法操作，将计算性能从 Gflop/s 级别提升至 Tflop/s 级别。文章深入探讨了 Swift 中利用 Metal 框架和 GPU 加速进行高性能计算的技术细节，包括内存布局优化、并行计算策略以及算法层面的创新。创新点在于将传统上依赖 Python 和 CUDA 的 LLM 训练流程迁移至 Swift 生态，为 iOS/macOS 开发者提供了在 Apple 硬件上高效训练和部署 AI 模型的新路径。适用场景包括移动端 AI 应用开发、边缘计算以及需要利用 Apple 芯片算力的研究项目。",
+  "tags": [
+    "llm",
+    "tutorial",
+    "framework"
+  ],
+  "relevance_score": 0.85,
+  "confidence": 0.9,
+  "status": "published",
+  "tech_stack": [
+    "swift",
+    "metal"
+  ],
+  "innovation_point": "将 LLM 训练中的核心矩阵运算优化从 Python/CUDA 生态迁移至 Swift/Metal 生态，实现跨平台高性能 AI 训练。",
+  "author": "Lobsters AI/ML",
+  "updated_at": "2026-05-11T10:58:18.829148+00:00"
+}
