@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260512-002",
+  "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
+  "collected_at": "2026-05-12T10:26:36.854745+00:00",
+  "published_at": "2026-05-12T10:26:36.854745+00:00",
+  "summary": "该内容介绍了一种AI编码代理，旨在通过自动化代码编写来降低维护成本。其核心创新在于将AI代理与代码生成技术结合，专注于减少人工干预和长期维护负担。适用场景包括软件开发中的代码自动生成、重构和持续集成，特别适合需要频繁更新或维护的大型项目。",
+  "tags": [
+    "agent",
+    "code-generation",
+    "llm",
+    "tool-use"
+  ],
+  "relevance_score": 0.85,
+  "confidence": 0.9,
+  "status": "published",
+  "tech_stack": [
+    "python",
+    "langchain"
+  ],
+  "innovation_point": "通过AI代理自动化代码编写，显著降低长期维护成本",
+  "author": "Hacker News (Best)",
+  "updated_at": "2026-05-12T10:29:12.135020+00:00"
+}

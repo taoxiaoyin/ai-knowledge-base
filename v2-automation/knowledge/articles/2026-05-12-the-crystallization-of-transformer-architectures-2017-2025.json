@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260512-007",
+  "title": "The Crystallization of Transformer Architectures (2017-2025)",
+  "source": "rss:Lobsters AI/ML",
+  "source_url": "https://jytan.net/blog/2025/transformer-architectures/",
+  "collected_at": "2026-05-12T10:26:36.970530+00:00",
+  "published_at": "2026-05-12T10:26:36.970530+00:00",
+  "summary": "该内容回顾了Transformer架构从2017年提出到2025年的演变历程，重点分析了其核心创新（如自注意力机制、多头注意力、位置编码）如何推动自然语言处理和生成式AI的发展。文章探讨了Transformer在大型语言模型（LLM）、多模态任务（视觉、音频）和推理增强中的应用，并指出其未来可能向更高效、更可解释的方向演进。适用场景包括AI研究、模型设计、技术选型及教育参考。",
+  "tags": [
+    "llm",
+    "research-paper",
+    "reasoning",
+    "vision",
+    "audio"
+  ],
+  "relevance_score": 0.95,
+  "confidence": 0.9,
+  "status": "published",
+  "tech_stack": [
+    "python",
+    "pytorch",
+    "tensorflow"
+  ],
+  "innovation_point": "系统梳理了Transformer架构从2017年至2025年的关键演化路径，并预测了其在多模态和推理领域的未来趋势。",
+  "author": "Lobsters AI/ML",
+  "updated_at": "2026-05-12T10:29:12.135205+00:00"
+}

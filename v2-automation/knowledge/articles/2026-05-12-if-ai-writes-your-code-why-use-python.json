@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260512-001",
+  "title": "If AI writes your code, why use Python?",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
+  "collected_at": "2026-05-12T10:26:36.854721+00:00",
+  "published_at": "2026-05-12T10:26:36.854721+00:00",
+  "summary": "该内容探讨了在AI自动生成代码的背景下，Python语言是否仍具必要性的问题。核心观点是，尽管AI工具（如GitHub Copilot）能高效生成代码，但Python在AI开发中仍不可替代，因其拥有丰富的库生态（如TensorFlow、PyTorch）、简洁的语法便于快速原型设计，以及强大的社区支持。创新点在于重新审视了AI辅助编程时代Python的角色，强调其作为AI开发基础语言的价值，而非被替代。适用场景包括AI模型开发、数据科学和自动化脚本编写。",
+  "tags": [
+    "code-generation",
+    "llm",
+    "python",
+    "ai-development"
+  ],
+  "relevance_score": 0.85,
+  "confidence": 0.9,
+  "status": "published",
+  "tech_stack": [
+    "python",
+    "tensorflow",
+    "pytorch"
+  ],
+  "innovation_point": "重新定义AI代码生成时代Python作为AI开发基础语言的不可替代性",
+  "author": "Hacker News (Best)",
+  "updated_at": "2026-05-12T10:29:12.135005+00:00"
+}
