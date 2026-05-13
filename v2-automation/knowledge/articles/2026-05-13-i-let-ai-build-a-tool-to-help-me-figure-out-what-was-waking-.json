@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260513-001",
+  "title": "I let AI build a tool to help me figure out what was waking me up at night",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
+  "collected_at": "2026-05-13T10:17:16.430790+00:00",
+  "published_at": "2026-05-13T10:17:16.430790+00:00",
+  "summary": "该内容描述了一位用户利用AI构建工具，以分析夜间醒来原因的过程。核心创新点在于将AI应用于个人健康数据追踪与模式识别，通过自动化分析睡眠中断的潜在因素（如环境噪音、生理指标等），提供个性化洞察。适用场景包括个人健康管理、睡眠质量优化及行为模式分析。",
+  "tags": [
+    "tool-use",
+    "llm",
+    "reasoning"
+  ],
+  "relevance_score": 0.75,
+  "confidence": 0.7,
+  "status": "published",
+  "tech_stack": [
+    "python",
+    "langchain"
+  ],
+  "innovation_point": "将AI工具应用于个人睡眠健康数据的自动化分析与模式识别，实现个性化睡眠中断原因诊断。",
+  "author": "Hacker News (Best)",
+  "updated_at": "2026-05-13T10:19:11.884409+00:00"
+}
