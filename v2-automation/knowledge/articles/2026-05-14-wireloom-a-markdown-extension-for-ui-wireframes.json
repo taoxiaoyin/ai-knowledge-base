@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260514-001",
+  "title": "Wireloom: A Markdown extension for UI wireframes",
+  "source": "rss:Lobsters AI/ML",
+  "source_url": "https://github.com/StardockCorp/Wireloom",
+  "collected_at": "2026-05-14T10:09:58.072884+00:00",
+  "published_at": "2026-05-14T10:09:58.072884+00:00",
+  "summary": "Wireloom 是一个 Markdown 扩展，用于在文档中直接创建 UI 线框图。其核心创新在于将线框图定义嵌入到 Markdown 语法中，使得开发者或设计师可以在编写技术文档、需求说明或设计稿时，无需切换工具即可生成可视化界面原型。该工具适用于快速原型设计、文档可视化以及团队协作场景，尤其适合与 AI 辅助生成内容结合，提升开发效率。",
+  "tags": [
+    "tool-use",
+    "code-generation",
+    "open-source"
+  ],
+  "relevance_score": 0.65,
+  "confidence": 0.8,
+  "status": "published",
+  "tech_stack": [
+    "markdown",
+    "javascript"
+  ],
+  "innovation_point": "将 UI 线框图定义直接嵌入 Markdown 语法，实现文档与原型的一体化生成。",
+  "author": "Lobsters AI/ML",
+  "updated_at": "2026-05-14T10:11:50.085889+00:00"
+}

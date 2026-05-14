@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260514-002",
+  "title": "AI as Social Technology",
+  "source": "rss:Lobsters AI/ML",
+  "source_url": "https://knightcolumbia.org/content/ai-as-social-technology",
+  "collected_at": "2026-05-14T10:09:58.072916+00:00",
+  "published_at": "2026-05-14T10:09:58.072916+00:00",
+  "summary": "该内容探讨了将AI视为一种社会技术的观点，强调AI系统不仅是技术工具，更是嵌入社会结构、影响人类互动与组织方式的媒介。核心创新在于从社会学视角重新定义AI，关注其如何塑造社会关系、权力动态和集体决策。适用场景包括政策制定、组织管理、社区治理等需要理解AI社会影响的领域。",
+  "tags": [
+    "llm",
+    "research-paper",
+    "reasoning"
+  ],
+  "relevance_score": 0.65,
+  "confidence": 0.7,
+  "status": "published",
+  "tech_stack": [],
+  "innovation_point": "将AI重新定义为社会技术，强调其塑造社会关系和权力动态的潜力。",
+  "author": "Lobsters AI/ML",
+  "updated_at": "2026-05-14T10:11:50.085902+00:00"
+}
