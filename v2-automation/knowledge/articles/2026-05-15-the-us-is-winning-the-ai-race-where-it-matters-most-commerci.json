@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260515-003",
+  "title": "The US is winning the AI race where it matters most: commercialization",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
+  "collected_at": "2026-05-15T10:15:12.015660+00:00",
+  "published_at": "2026-05-15T10:15:12.015660+00:00",
+  "summary": "该文章讨论了美国在人工智能商业化领域的领先地位，指出其在将AI技术转化为实际商业应用方面具有显著优势。核心观点是，尽管其他国家在AI基础研究上有所贡献，但美国凭借强大的生态系统、资本支持和市场机制，在AI的商业化落地和产业应用上占据主导地位。文章分析了美国在AI商业化中的关键因素，包括风险投资、企业创新和人才聚集，并强调了这一趋势对全球AI竞争格局的影响。适用场景包括AI产业政策制定、企业战略规划以及国际科技竞争分析。",
+  "tags": [
+    "llm",
+    "deployment",
+    "api"
+  ],
+  "relevance_score": 0.75,
+  "confidence": 0.85,
+  "status": "published",
+  "tech_stack": [],
+  "innovation_point": "强调美国在AI商业化领域的系统性优势，而非单一技术突破。",
+  "author": "Hacker News (Best)",
+  "updated_at": "2026-05-15T10:17:20.213133+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260515-005",
+  "title": "What Coding Is Starting to Lose",
+  "source": "rss:Lobsters AI/ML",
+  "source_url": "https://caio.ca/blog/what-coding-is-starting-to-lose",
+  "collected_at": "2026-05-15T10:15:12.130251+00:00",
+  "published_at": "2026-05-15T10:15:12.130251+00:00",
+  "summary": "该文章探讨了编程技能在AI时代逐渐失去的某些核心价值，例如深度逻辑推理、系统设计思维和调试能力。随着代码生成工具的普及，开发者可能过度依赖自动化，导致对底层原理的理解减弱。文章强调，尽管AI辅助编程提高了效率，但人类仍需保持对代码质量、安全性和可维护性的把控，特别是在复杂系统架构和关键业务场景中。",
+  "tags": [
+    "code-generation",
+    "reasoning",
+    "tool-use"
+  ],
+  "relevance_score": 0.75,
+  "confidence": 0.85,
+  "status": "published",
+  "tech_stack": [],
+  "innovation_point": "指出AI代码生成工具对开发者核心编程能力的潜在侵蚀，呼吁平衡效率与深度理解。",
+  "author": "Lobsters AI/ML",
+  "updated_at": "2026-05-15T10:17:20.213180+00:00"
+}
