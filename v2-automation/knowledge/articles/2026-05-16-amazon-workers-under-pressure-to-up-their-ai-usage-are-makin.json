@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260516-002",
+  "title": "Amazon workers under pressure to up their AI usage are making up tasks",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks",
+  "collected_at": "2026-05-16T09:25:04.164201+00:00",
+  "published_at": "2026-05-16T09:25:04.164201+00:00",
+  "summary": "该内容报道了亚马逊员工在压力下被迫增加AI使用量，甚至编造任务以满足指标。核心问题是企业强制推广AI工具，但缺乏实际应用场景，导致员工为完成任务而虚构工作。这反映了AI部署中的典型挑战：技术落地需匹配真实需求，否则可能引发效率下降和员工抵触。适用场景包括企业AI战略评估、员工AI采纳行为研究。",
+  "tags": [
+    "llm",
+    "deployment",
+    "evaluation"
+  ],
+  "relevance_score": 0.75,
+  "confidence": 0.85,
+  "status": "published",
+  "tech_stack": [],
+  "innovation_point": "揭示AI强制部署中员工为达标而虚构任务的负面现象，强调技术采纳需以人为本。",
+  "author": "Hacker News (Best)",
+  "updated_at": "2026-05-16T09:27:06.943326+00:00"
+}

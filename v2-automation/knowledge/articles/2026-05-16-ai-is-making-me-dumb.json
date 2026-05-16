@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260516-005",
+  "title": "AI is making me dumb",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://jpain.io/god-damn-ai-is-making-me-dumb/",
+  "collected_at": "2026-05-16T09:25:04.164228+00:00",
+  "published_at": "2026-05-16T09:25:04.164228+00:00",
+  "summary": "该文章标题为“AI is making me dumb”，可能探讨了过度依赖AI技术（如LLM）对个人认知能力或学习能力的负面影响。核心内容可能涉及AI工具在辅助决策、信息处理或内容生成时，用户因减少主动思考而导致的技能退化或批判性思维下降。创新点在于从用户体验和认知科学角度反思AI的潜在副作用，适用场景包括AI教育、人机协作设计以及技术伦理讨论。",
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "relevance_score": 0.75,
+  "confidence": 0.7,
+  "status": "published",
+  "tech_stack": [],
+  "innovation_point": "从认知科学角度分析AI工具对用户思维能力的潜在削弱效应",
+  "author": "Hacker News (Best)",
+  "updated_at": "2026-05-16T09:27:06.943372+00:00"
+}

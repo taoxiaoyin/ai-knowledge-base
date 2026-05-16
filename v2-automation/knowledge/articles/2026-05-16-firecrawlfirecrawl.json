@@ -1,0 +1,28 @@
+{
+  "id": "github-20260516-004",
+  "title": "firecrawl/firecrawl",
+  "source": "github-trending",
+  "source_url": "https://github.com/firecrawl/firecrawl",
+  "collected_at": "2026-05-16T09:25:03.848212+00:00",
+  "published_at": "2026-05-16T06:54:36Z",
+  "summary": "Firecrawl 是一个开源的全栈式 AI 网络数据采集工具，专为 AI 代理（Agent）设计，提供搜索、抓取和清洗网络数据的一站式解决方案。其核心创新在于将传统爬虫技术与 AI 驱动的数据清洗和结构化能力相结合，能够自动将网页内容转化为 AI 代理可直接使用的干净、结构化数据，支持多种输出格式（如 Markdown、JSON）。该工具特别适用于构建 RAG（检索增强生成）系统的数据管道、训练 AI 模型的数据集准备，以及为 AI 代理提供实时网络信息检索。凭借超过 12 万 GitHub Stars 和活跃的社区支持，Firecrawl 已成为 AI 数据采集领域的重要基础设施。",
+  "tags": [
+    "agent",
+    "rag",
+    "open-source",
+    "tool-use",
+    "api"
+  ],
+  "relevance_score": 0.92,
+  "confidence": 0.95,
+  "status": "published",
+  "tech_stack": [
+    "TypeScript",
+    "Node.js",
+    "Python",
+    "LangChain"
+  ],
+  "innovation_point": "将传统网络爬虫与 AI 驱动的数据清洗和结构化能力深度融合，为 AI 代理提供端到端的网络数据采集与预处理解决方案。",
+  "author": "firecrawl",
+  "updated_at": "2026-05-16T09:27:06.942833+00:00"
+}
