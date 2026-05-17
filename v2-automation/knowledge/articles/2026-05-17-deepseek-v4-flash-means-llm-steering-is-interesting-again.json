@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260517-002",
+  "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.seangoedecke.com/steering-vectors/",
+  "collected_at": "2026-05-17T09:29:47.565671+00:00",
+  "published_at": "2026-05-17T09:29:47.565671+00:00",
+  "summary": "DeepSeek-V4-Flash 的发布重新点燃了对大语言模型（LLM）控制（steering）技术的兴趣。该模型通过创新的架构优化，在保持高效推理的同时，显著提升了模型的可控性和对齐能力。其核心创新在于引入了一种新的引导机制，允许开发者更精确地调整模型的行为和输出风格，适用于需要高度定制化响应的应用场景，如个性化助手、内容生成和特定领域问答。",
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "reasoning",
+    "open-source"
+  ],
+  "relevance_score": 0.95,
+  "confidence": 0.85,
+  "status": "published",
+  "tech_stack": [
+    "python",
+    "langchain"
+  ],
+  "innovation_point": "通过新型引导机制实现高效模型控制，提升 LLM 的可控性和对齐精度。",
+  "author": "Hacker News (Best)",
+  "updated_at": "2026-05-17T09:31:50.856346+00:00"
+}

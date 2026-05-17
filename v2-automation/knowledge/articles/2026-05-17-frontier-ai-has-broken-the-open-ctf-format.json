@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260517-003",
+  "title": "Frontier AI has broken the open CTF format",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://kabir.au/blog/the-ctf-scene-is-dead",
+  "collected_at": "2026-05-17T09:29:47.565677+00:00",
+  "published_at": "2026-05-17T09:29:47.565677+00:00",
+  "summary": "该内容标题指出前沿AI技术已经打破了传统的开放CTF（Capture The Flag）竞赛模式。核心内容可能探讨了AI，尤其是大型语言模型（LLM）在自动化漏洞挖掘、代码分析或安全挑战解决方面的能力，使得传统CTF竞赛中依赖人类专家手动解题的格式不再适用。创新点在于AI能够自主或辅助完成复杂的CTF挑战，这展示了AI在网络安全领域的应用潜力。适用场景包括网络安全竞赛的自动化、AI驱动的安全测试以及安全研究人员的辅助工具。",
+  "tags": [
+    "llm",
+    "security",
+    "reasoning",
+    "code-generation"
+  ],
+  "relevance_score": 0.85,
+  "confidence": 0.7,
+  "status": "published",
+  "tech_stack": [],
+  "innovation_point": "AI技术（如LLM）在CTF竞赛中的自动化应用，颠覆了传统依赖人类专家的竞赛模式。",
+  "author": "Hacker News (Best)",
+  "updated_at": "2026-05-17T09:31:50.856351+00:00"
+}
