@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260518-002",
+  "title": "I don't think AI will make your processes go faster",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
+  "collected_at": "2026-05-18T11:39:50.211401+00:00",
+  "published_at": "2026-05-18T11:39:50.211401+00:00",
+  "summary": "该内容标题为“I don't think AI will make your processes go faster”，来自Hacker News讨论。核心观点是AI（特别是LLM）并非万能加速器，其实际效果取决于任务类型和集成方式。创新点在于批判了盲目将AI应用于所有流程的倾向，强调需要评估AI的适用场景，例如在创造性或非确定性任务中可能提升效率，但在标准化、高精度流程中可能引入延迟或错误。适用场景包括企业流程优化、AI工具选型决策，以及避免过度依赖AI的陷阱。",
+  "tags": [
+    "llm",
+    "reasoning",
+    "deployment"
+  ],
+  "relevance_score": 0.75,
+  "confidence": 0.85,
+  "status": "published",
+  "tech_stack": [],
+  "innovation_point": "批判性分析AI在流程加速中的实际局限性，强调任务适配性而非盲目应用。",
+  "author": "Hacker News (Best)",
+  "updated_at": "2026-05-18T11:41:55.949510+00:00"
+}

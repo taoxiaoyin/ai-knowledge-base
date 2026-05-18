@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260518-003",
+  "title": "AI subscriptions are a ticking time bomb for enterprise",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
+  "collected_at": "2026-05-18T11:39:50.211409+00:00",
+  "published_at": "2026-05-18T11:39:50.211409+00:00",
+  "summary": "文章探讨了企业采用AI订阅模式可能面临的长期风险，指出依赖第三方AI服务可能导致成本失控、供应商锁定和数据安全隐患。创新点在于将订阅经济中的常见陷阱（如隐性成本、服务依赖）映射到AI领域，警示企业需建立内部AI能力或采用混合架构以降低风险。适用场景为企业AI战略规划与采购决策。",
+  "tags": [
+    "llm",
+    "deployment",
+    "security"
+  ],
+  "relevance_score": 0.75,
+  "confidence": 0.85,
+  "status": "published",
+  "tech_stack": [],
+  "innovation_point": "将订阅模式的风险分析框架应用于企业AI服务，揭示长期依赖第三方AI的隐性成本与战略脆弱性。",
+  "author": "Hacker News (Best)",
+  "updated_at": "2026-05-18T11:41:55.949518+00:00"
+}

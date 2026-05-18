@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260518-001",
+  "title": "AI is a technology not a product",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
+  "collected_at": "2026-05-18T11:39:50.211375+00:00",
+  "published_at": "2026-05-18T11:39:50.211375+00:00",
+  "summary": "该内容标题为“AI is a technology not a product”，核心观点是强调人工智能作为一种底层技术，而非可直接交付的成品。文章可能探讨了AI技术在实际应用中的定位误区，指出将AI视为产品会导致过度承诺和落地困难，而将其作为技术组件嵌入现有系统才是更合理的路径。创新点在于重新定义AI的产业角色，适用于企业技术战略规划、产品经理理解AI边界、以及开发者设计AI集成方案等场景。",
+  "tags": [
+    "llm",
+    "deployment",
+    "reasoning"
+  ],
+  "relevance_score": 0.75,
+  "confidence": 0.85,
+  "status": "published",
+  "tech_stack": [],
+  "innovation_point": "重新定义AI为底层技术而非产品，强调其作为系统组件的集成价值",
+  "author": "Hacker News (Best)",
+  "updated_at": "2026-05-18T11:41:55.949498+00:00"
+}

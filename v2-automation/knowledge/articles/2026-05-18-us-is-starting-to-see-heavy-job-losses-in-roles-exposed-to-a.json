@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260518-005",
+  "title": "US is starting to see heavy job losses in roles exposed to AI",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai",
+  "collected_at": "2026-05-18T11:39:50.211419+00:00",
+  "published_at": "2026-05-18T11:39:50.211419+00:00",
+  "summary": "该报道指出美国开始出现因人工智能暴露而导致的严重失业现象。核心内容是AI技术对劳动力市场的冲击，特别是那些容易被自动化替代的岗位。创新点在于揭示了AI应用从辅助工具向替代角色的转变，适用场景包括政策制定、职业规划和劳动力再培训。",
+  "tags": [
+    "llm",
+    "deployment",
+    "research-paper"
+  ],
+  "relevance_score": 0.55,
+  "confidence": 0.7,
+  "status": "published",
+  "tech_stack": [],
+  "innovation_point": "揭示了AI从辅助工具向替代角色的转变，对劳动力市场产生实质性冲击。",
+  "author": "Hacker News (Best)",
+  "updated_at": "2026-05-18T11:41:55.949558+00:00"
+}
