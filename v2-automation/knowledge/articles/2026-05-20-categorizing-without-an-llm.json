@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260520-003",
+  "title": "Categorizing without an LLM",
+  "source": "rss:Lobsters AI/ML",
+  "source_url": "https://softwaremaniacs.org/blog/2026/05/18/shoppy/",
+  "collected_at": "2026-05-20T10:44:54.653553+00:00",
+  "published_at": "2026-05-20T10:44:54.653553+00:00",
+  "summary": "该内容探讨了在不依赖大型语言模型（LLM）的情况下进行文本分类或数据归类的方法。核心创新点在于利用传统机器学习技术（如TF-IDF、词嵌入、朴素贝叶斯或支持向量机）替代LLM，实现高效且低成本的分类任务。这种方法适用于资源受限、需要快速推理或对隐私敏感的场景，例如边缘设备上的实时分类或大规模数据预处理。通过避免LLM的高计算开销和延迟，该方法在特定任务中可达到与LLM相当的准确率，同时显著降低部署成本。",
+  "tags": [
+    "classification",
+    "machine-learning",
+    "nlp"
+  ],
+  "relevance_score": 0.75,
+  "confidence": 0.85,
+  "status": "published",
+  "tech_stack": [
+    "scikit-learn",
+    "numpy"
+  ],
+  "innovation_point": "提出无需LLM的轻量级分类方案，利用传统ML技术实现高效、低成本的文本归类。",
+  "author": "Lobsters AI/ML",
+  "updated_at": "2026-05-20T10:46:34.654281+00:00"
+}
