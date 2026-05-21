@@ -1,0 +1,23 @@
+{
+  "id": "rss-20260521-004",
+  "title": "I spent 31 hours on the math behind TurboQuant so you don't have to",
+  "source": "rss:Lobsters AI/ML",
+  "source_url": "https://www.baseten.co/blog/i-spent-31-hours-on-the-math-behind-turboquant-so-you-dont-have-to/",
+  "collected_at": "2026-05-21T11:16:04.758630+00:00",
+  "published_at": "2026-05-21T11:16:04.758630+00:00",
+  "summary": "该内容标题表明作者花费31小时深入解析TurboQuant背后的数学原理，旨在为读者提供详尽的技术解读。TurboQuant是一种量化交易或AI模型量化技术，核心创新点在于通过数学优化实现高效计算与资源压缩，适用于金融量化分析、边缘设备部署等场景。文章可能涵盖算法推导、性能对比及实际应用案例，帮助读者理解复杂数学逻辑并降低学习成本。",
+  "tags": [
+    "research-paper",
+    "tutorial",
+    "benchmark"
+  ],
+  "relevance_score": 0.75,
+  "confidence": 0.7,
+  "status": "published",
+  "tech_stack": [
+    "python"
+  ],
+  "innovation_point": "通过数学推导简化TurboQuant的量化算法，提升模型压缩效率与计算速度。",
+  "author": "Lobsters AI/ML",
+  "updated_at": "2026-05-21T11:17:47.811350+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260521-003",
+  "title": "A new generation of [Google] ads for the AI era of Search",
+  "source": "rss:Lobsters AI/ML",
+  "source_url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
+  "collected_at": "2026-05-21T11:16:04.758594+00:00",
+  "published_at": "2026-05-21T11:16:04.758594+00:00",
+  "summary": "该内容标题为“A new generation of [Google] ads for the AI era of Search”，来源为Lobsters AI/ML。核心内容涉及谷歌在AI搜索时代推出的新一代广告形式，创新点在于利用AI技术（如大语言模型）优化广告投放、匹配用户意图和提升相关性。适用场景包括搜索引擎广告、数字营销和个性化推荐系统。",
+  "tags": [
+    "llm",
+    "api",
+    "deployment"
+  ],
+  "relevance_score": 0.75,
+  "confidence": 0.65,
+  "status": "published",
+  "tech_stack": [],
+  "innovation_point": "利用AI技术实现搜索广告的智能生成与意图匹配",
+  "author": "Lobsters AI/ML",
+  "updated_at": "2026-05-21T11:17:47.811345+00:00"
+}

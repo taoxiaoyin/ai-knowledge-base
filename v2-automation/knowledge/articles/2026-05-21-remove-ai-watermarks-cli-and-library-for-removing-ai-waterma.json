@@ -1,0 +1,23 @@
+{
+  "id": "rss-20260521-002",
+  "title": "Remove-AI-Watermarks – CLI and library for removing AI watermarks from images",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://github.com/wiltodelta/remove-ai-watermarks",
+  "collected_at": "2026-05-21T11:16:04.469686+00:00",
+  "published_at": "2026-05-21T11:16:04.469686+00:00",
+  "summary": "该项目提供了一个命令行工具和Python库，用于从图像中移除AI生成的水印。其核心功能是自动检测并去除图像中的可见水印标记，适用于需要清理AI生成图像水印的场景。创新点在于将水印移除过程封装为易用的CLI和库，简化了批量处理流程。",
+  "tags": [
+    "vision",
+    "open-source",
+    "tool-use"
+  ],
+  "relevance_score": 0.65,
+  "confidence": 0.85,
+  "status": "published",
+  "tech_stack": [
+    "python"
+  ],
+  "innovation_point": "将AI图像水印移除功能封装为命令行工具和库，提供便捷的批量处理能力。",
+  "author": "Hacker News (Best)",
+  "updated_at": "2026-05-21T11:17:47.811339+00:00"
+}
