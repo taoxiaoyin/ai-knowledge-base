@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260522-001",
+  "title": "AI is just unauthorised plagiarism at a bigger scale",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/",
+  "collected_at": "2026-05-22T10:44:19.860253+00:00",
+  "published_at": "2026-05-22T10:44:19.860253+00:00",
+  "summary": "该内容标题为“AI is just unauthorised plagiarism at a bigger scale”，来自Hacker News最佳讨论。核心观点是批评当前AI模型（如大型语言模型）在训练过程中大量使用未经授权的数据，本质上是一种更大规模的抄袭行为。文章可能探讨了AI生成内容与原始版权作品之间的界限模糊问题，以及由此引发的伦理和法律争议。适用场景包括AI伦理讨论、版权法规制定以及公众对AI技术透明度的关注。",
+  "tags": [
+    "llm",
+    "ethics",
+    "open-source"
+  ],
+  "relevance_score": 0.75,
+  "confidence": 0.85,
+  "status": "published",
+  "tech_stack": [],
+  "innovation_point": "将AI模型的数据训练行为定性为大规模未经授权的抄袭，引发对AI伦理和版权问题的深度反思。",
+  "author": "Hacker News (Best)",
+  "updated_at": "2026-05-22T10:46:22.309809+00:00"
+}

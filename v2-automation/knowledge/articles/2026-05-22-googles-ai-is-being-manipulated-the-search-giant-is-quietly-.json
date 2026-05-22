@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260522-005",
+  "title": "Google’s AI is being manipulated. The search giant is quietly fighting back",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results",
+  "collected_at": "2026-05-22T10:44:19.860338+00:00",
+  "published_at": "2026-05-22T10:44:19.860338+00:00",
+  "summary": "本文报道了谷歌正在应对其AI系统被操纵的问题，并采取低调的反制措施。核心内容涉及AI安全与对抗性攻击，谷歌通过改进模型鲁棒性和检测机制来抵御恶意操控。创新点在于谷歌在保持搜索服务可用性的同时，悄然部署了更先进的防御策略。适用场景包括搜索引擎安全、AI系统防护及对抗性攻击研究。",
+  "tags": [
+    "security",
+    "llm",
+    "deployment"
+  ],
+  "relevance_score": 0.85,
+  "confidence": 0.9,
+  "status": "published",
+  "tech_stack": [],
+  "innovation_point": "谷歌在AI系统中集成对抗性防御机制，实现不中断服务下的安全加固。",
+  "author": "Hacker News (Best)",
+  "updated_at": "2026-05-22T10:46:22.309847+00:00"
+}

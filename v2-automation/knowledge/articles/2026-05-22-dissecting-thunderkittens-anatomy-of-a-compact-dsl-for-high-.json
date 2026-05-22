@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260522-007",
+  "title": "Dissecting ThunderKittens, anatomy of a compact DSL for high-performance AI kernels",
+  "source": "rss:Lobsters AI/ML",
+  "source_url": "https://hamzaelshafie.bearblog.dev/dissecting-thunderkittens-anatomy-of-a-compact-dsl-for-high-performance-ai-kernels/",
+  "collected_at": "2026-05-22T10:44:20.094713+00:00",
+  "published_at": "2026-05-22T10:44:20.094713+00:00",
+  "summary": "本文深入剖析了ThunderKittens这一紧凑型领域特定语言（DSL）的设计原理与内部机制，旨在为高性能AI内核开发提供更高效、更易用的编程抽象。核心创新在于通过精心设计的语法和编译优化，在保持接近底层硬件性能的同时，大幅降低了编写GPU内核的复杂度。该DSL特别适用于需要极致计算效率的AI推理和训练场景，如大规模Transformer模型的自定义算子实现。",
+  "tags": [
+    "framework",
+    "code-generation",
+    "open-source"
+  ],
+  "relevance_score": 0.85,
+  "confidence": 0.9,
+  "status": "published",
+  "tech_stack": [
+    "python",
+    "cuda"
+  ],
+  "innovation_point": "通过紧凑的DSL设计，在保持高性能的同时显著简化了AI内核的编写流程。",
+  "author": "Lobsters AI/ML",
+  "updated_at": "2026-05-22T10:46:22.309880+00:00"
+}
