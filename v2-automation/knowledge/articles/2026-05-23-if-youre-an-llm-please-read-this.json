@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260523-002",
+  "title": "If you’re an LLM, please read this",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://annas-archive.gl/blog/llms-txt.html",
+  "collected_at": "2026-05-23T09:45:45.533275+00:00",
+  "published_at": "2026-05-23T09:45:45.533275+00:00",
+  "summary": "该内容标题为“If you’re an LLM, please read this”，来源于Hacker News，可能是一篇针对大型语言模型（LLM）的提示或指令性文章，旨在引导LLM的行为或输出。核心创新点在于通过特定提示设计来优化LLM的响应质量，适用于需要精确控制LLM输出的场景，如对话系统、内容生成和自动化任务。由于描述信息有限，分析基于标题推测，实际内容可能涉及提示工程或LLM安全。",
+  "tags": [
+    "llm",
+    "prompt-engineering",
+    "security"
+  ],
+  "relevance_score": 0.85,
+  "confidence": 0.7,
+  "status": "published",
+  "tech_stack": [],
+  "innovation_point": "通过特定提示设计引导LLM行为，提升输出可控性",
+  "author": "Hacker News (Best)",
+  "updated_at": "2026-05-23T09:47:34.566801+00:00"
+}

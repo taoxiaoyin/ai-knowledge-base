@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260523-001",
+  "title": "AI has a multiplying effect on existing technical skills",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/",
+  "collected_at": "2026-05-23T09:45:45.533239+00:00",
+  "published_at": "2026-05-23T09:45:45.533239+00:00",
+  "summary": "该内容探讨了AI技术对现有技术技能的倍增效应，指出AI并非替代人类技能，而是通过增强和加速现有能力来提升生产力。核心创新在于强调AI作为技能放大器的作用，适用于软件开发、数据分析、设计等需要技术专长的领域。通过AI辅助，专业人员可以更高效地完成复杂任务，从而释放更多时间用于创新和战略思考。",
+  "tags": [
+    "llm",
+    "tool-use",
+    "productivity"
+  ],
+  "relevance_score": 0.75,
+  "confidence": 0.7,
+  "status": "published",
+  "tech_stack": [],
+  "innovation_point": "提出AI作为技能倍增器，而非替代者，强调其对现有技术能力的增强和加速作用。",
+  "author": "Hacker News (Best)",
+  "updated_at": "2026-05-23T09:47:34.566786+00:00"
+}
