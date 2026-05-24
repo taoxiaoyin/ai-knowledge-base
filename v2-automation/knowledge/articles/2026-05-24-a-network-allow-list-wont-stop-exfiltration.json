@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260524-006",
+  "title": "A Network Allow-List Won't Stop Exfiltration",
+  "source": "rss:Lobsters AI/ML",
+  "source_url": "https://www.dergraf.org/notes/canister-egress-proxy-dlp/",
+  "collected_at": "2026-05-24T09:49:41.939383+00:00",
+  "published_at": "2026-05-24T09:49:41.939383+00:00",
+  "summary": "本文探讨了仅依赖网络白名单机制无法有效防止数据泄露的问题。核心观点是，攻击者可以通过多种技术手段绕过白名单限制，例如利用合法协议（如DNS、HTTPS）进行隐蔽通道传输，或通过应用层漏洞将数据伪装成正常流量。创新点在于揭示了网络白名单在防御数据泄露方面的根本性局限，并强调了需要结合行为分析、数据防泄露（DLP）和端点检测等更全面的安全策略。适用场景包括企业网络安全架构设计、数据保护策略制定以及安全运维团队的风险评估。",
+  "tags": [
+    "security"
+  ],
+  "relevance_score": 0.35,
+  "confidence": 0.85,
+  "status": "published",
+  "tech_stack": [],
+  "innovation_point": "揭示了网络白名单在防御数据泄露方面的根本性局限，强调需要结合行为分析和数据防泄露等综合策略。",
+  "author": "Lobsters AI/ML",
+  "updated_at": "2026-05-24T09:51:35.976204+00:00"
+}

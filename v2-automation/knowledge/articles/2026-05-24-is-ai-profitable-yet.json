@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260524-001",
+  "title": "Is AI Profitable Yet?",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://isaiprofitable.com/",
+  "collected_at": "2026-05-24T09:49:41.792043+00:00",
+  "published_at": "2026-05-24T09:49:41.792043+00:00",
+  "summary": "该内容标题为“Is AI Profitable Yet?”，探讨了人工智能技术是否已实现盈利的核心问题。文章可能分析了当前AI在商业应用中的成本与收益，包括大语言模型（LLM）的部署成本、企业采用AI的ROI（投资回报率）以及行业内的盈利模式创新点。适用场景包括企业战略决策、AI投资评估以及技术商业化路径分析。",
+  "tags": [
+    "llm",
+    "deployment",
+    "api"
+  ],
+  "relevance_score": 0.75,
+  "confidence": 0.7,
+  "status": "published",
+  "tech_stack": [],
+  "innovation_point": "从商业盈利角度评估AI技术的实际价值，而非单纯技术性能。",
+  "author": "Hacker News (Best)",
+  "updated_at": "2026-05-24T09:51:35.976060+00:00"
+}
