@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260525-004",
+  "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://arxiv.org/abs/2605.06445",
+  "collected_at": "2026-05-25T11:47:39.103537+00:00",
+  "published_at": "2026-05-25T11:47:39.103537+00:00",
+  "summary": "该内容探讨了LLM智能体在后端代码生成中的脆弱性问题，提出了'约束衰减'概念，即随着代码生成任务复杂度增加，模型对初始约束条件的遵循程度逐渐下降。创新点在于系统性地分析了约束衰减现象及其对智能体可靠性的影响，适用于需要高可靠性代码生成的软件开发场景。",
+  "tags": [
+    "agent",
+    "code-generation",
+    "llm",
+    "evaluation"
+  ],
+  "relevance_score": 0.95,
+  "confidence": 0.85,
+  "status": "published",
+  "tech_stack": [
+    "python"
+  ],
+  "innovation_point": "提出约束衰减概念，揭示LLM智能体在复杂代码生成任务中逐步偏离初始约束的机制",
+  "author": "Hacker News (Best)",
+  "updated_at": "2026-05-25T11:49:28.966118+00:00"
+}
