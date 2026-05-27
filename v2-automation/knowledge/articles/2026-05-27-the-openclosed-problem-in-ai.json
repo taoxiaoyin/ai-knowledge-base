@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260527-008",
+  "title": "The Open/Closed Problem in AI",
+  "source": "rss:Lobsters AI/ML",
+  "source_url": "https://blog.mempko.com/the-open-closed-problem-in-ai/",
+  "collected_at": "2026-05-27T11:32:12.934053+00:00",
+  "published_at": "2026-05-27T11:32:12.934053+00:00",
+  "summary": "该内容标题为“The Open/Closed Problem in AI”，来自Lobsters AI/ML源，探讨AI领域开放与封闭的权衡问题。核心创新点在于分析开源模型与闭源API在灵活性、控制力、成本及性能之间的冲突，指出封闭系统可能限制可解释性和定制化，而开放系统则面临安全与标准化挑战。适用场景包括AI开发者在选择技术栈时的决策参考，以及企业评估AI部署策略。",
+  "tags": [
+    "open-source",
+    "llm",
+    "deployment"
+  ],
+  "relevance_score": 0.85,
+  "confidence": 0.7,
+  "status": "published",
+  "tech_stack": [],
+  "innovation_point": "系统分析AI开放与封闭模式的权衡，为技术选型提供决策框架。",
+  "author": "Lobsters AI/ML",
+  "updated_at": "2026-05-27T11:34:18.474479+00:00"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260527-001",
+  "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
+  "collected_at": "2026-05-27T11:32:12.417084+00:00",
+  "published_at": "2026-05-27T11:32:12.417084+00:00",
+  "summary": "该内容讨论了一种新兴的AI部署策略：将部分AI任务外包给第三方服务，同时结合本地部署的AI模型，以实现比完全依赖前沿实验室（如OpenAI、Google DeepMind）更经济的解决方案。核心创新在于混合架构，通过外包处理简单或标准化任务，本地模型处理敏感或定制化需求，从而降低总体成本并提升数据隐私。适用场景包括企业级AI应用、数据敏感行业（如医疗、金融）以及需要快速迭代的初创公司。",
+  "tags": [
+    "deployment",
+    "open-source",
+    "api",
+    "fine-tuning"
+  ],
+  "relevance_score": 0.85,
+  "confidence": 0.9,
+  "status": "published",
+  "tech_stack": [],
+  "innovation_point": "提出外包与本地AI混合部署的经济性策略，挑战前沿实验室的垄断地位。",
+  "author": "Hacker News (Best)",
+  "updated_at": "2026-05-27T11:34:18.474425+00:00"
+}

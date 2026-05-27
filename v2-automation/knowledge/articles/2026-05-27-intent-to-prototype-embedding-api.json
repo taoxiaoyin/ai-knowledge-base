@@ -1,0 +1,23 @@
+{
+  "id": "rss-20260527-006",
+  "title": "Intent to Prototype: Embedding API",
+  "source": "rss:Lobsters AI/ML",
+  "source_url": "https://groups.google.com/a/chromium.org/g/blink-dev/c/EjL1gAy3k3Q/m/31Cnh22MBgAJ",
+  "collected_at": "2026-05-27T11:32:12.934014+00:00",
+  "published_at": "2026-05-27T11:32:12.934014+00:00",
+  "summary": "该内容标题为“Intent to Prototype: Embedding API”，表明其核心是提出一种新的嵌入API原型设计。创新点在于可能提供更高效、更灵活的文本或数据嵌入生成方式，适用于需要将非结构化数据转换为向量表示的场景，如语义搜索、推荐系统和聚类分析。该API可能简化开发者集成嵌入模型的过程，降低使用门槛。",
+  "tags": [
+    "embedding",
+    "api",
+    "vector-database"
+  ],
+  "relevance_score": 0.85,
+  "confidence": 0.9,
+  "status": "published",
+  "tech_stack": [
+    "python"
+  ],
+  "innovation_point": "提出一种新的嵌入API原型，旨在简化嵌入模型集成，提升向量化效率。",
+  "author": "Lobsters AI/ML",
+  "updated_at": "2026-05-27T11:34:18.474468+00:00"
+}

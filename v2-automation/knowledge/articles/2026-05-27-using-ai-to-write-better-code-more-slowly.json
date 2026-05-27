@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260527-003",
+  "title": "Using AI to write better code more slowly",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+  "collected_at": "2026-05-27T11:32:12.417119+00:00",
+  "published_at": "2026-05-27T11:32:12.417119+00:00",
+  "summary": "本文探讨了如何利用AI辅助编程工具（如GitHub Copilot）来提升代码质量，但强调需要放慢开发速度以进行更细致的代码审查和测试。核心创新点在于提出“慢速AI编程”方法论，即开发者应主动控制AI生成代码的节奏，避免盲目接受建议，从而减少技术债务。适用场景包括需要高代码质量的项目、团队协作开发以及代码重构任务。",
+  "tags": [
+    "code-generation",
+    "llm",
+    "prompt-engineering"
+  ],
+  "relevance_score": 0.85,
+  "confidence": 0.9,
+  "status": "published",
+  "tech_stack": [
+    "python",
+    "langchain"
+  ],
+  "innovation_point": "提出“慢速AI编程”方法论，强调通过控制AI生成代码的节奏来提升代码质量，减少技术债务。",
+  "author": "Hacker News (Best)",
+  "updated_at": "2026-05-27T11:34:18.474448+00:00"
+}
