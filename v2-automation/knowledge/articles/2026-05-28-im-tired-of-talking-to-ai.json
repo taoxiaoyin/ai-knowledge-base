@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260528-004",
+  "title": "I'm Tired of Talking to AI",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
+  "collected_at": "2026-05-28T11:31:51.036954+00:00",
+  "published_at": "2026-05-28T11:31:51.036954+00:00",
+  "summary": "该内容标题为“I'm Tired of Talking to AI”，可能反映了用户对与AI对话交互的疲劳感或不满情绪。核心内容可能探讨AI对话系统的局限性、用户体验问题或对当前AI交互模式的反思。创新点可能在于提出改进AI交互方式或减少用户疲劳的设计思路。适用场景包括AI产品设计、用户体验优化和对话系统改进。",
+  "tags": [
+    "llm",
+    "prompt-engineering",
+    "evaluation"
+  ],
+  "relevance_score": 0.75,
+  "confidence": 0.6,
+  "status": "published",
+  "tech_stack": [],
+  "innovation_point": "反思AI对话疲劳，探索更自然的交互方式",
+  "author": "Hacker News (Best)",
+  "updated_at": "2026-05-28T11:35:12.342418+00:00"
+}

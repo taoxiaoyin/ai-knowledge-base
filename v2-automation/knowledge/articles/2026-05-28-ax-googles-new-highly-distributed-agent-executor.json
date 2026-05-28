@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260528-006",
+  "title": "ax, Google’s new highly distributed agent executor",
+  "source": "rss:Lobsters AI/ML",
+  "source_url": "https://github.com/google/ax",
+  "collected_at": "2026-05-28T11:31:51.188773+00:00",
+  "published_at": "2026-05-28T11:31:51.188773+00:00",
+  "summary": "Google 发布了名为 ax 的新型高度分布式代理执行器。该执行器旨在高效协调和管理多个 AI 代理在分布式环境中的任务执行，核心创新在于其高度分布式的架构设计，能够显著提升代理系统的可扩展性和鲁棒性。ax 适用于需要大规模并行处理、复杂任务分解与协作的 AI 应用场景，如自动化工作流、多步骤推理和实时决策系统。",
+  "tags": [
+    "agent",
+    "multi-agent",
+    "deployment",
+    "framework"
+  ],
+  "relevance_score": 0.95,
+  "confidence": 0.85,
+  "status": "published",
+  "tech_stack": [
+    "python",
+    "langchain"
+  ],
+  "innovation_point": "提出高度分布式的代理执行器架构，通过分布式协调机制实现代理任务的高效并行执行与资源管理。",
+  "author": "Lobsters AI/ML",
+  "updated_at": "2026-05-28T11:35:12.342464+00:00"
+}
