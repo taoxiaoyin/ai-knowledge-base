@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260529-001",
+  "title": "Various LLM Smells",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://shvbsle.in/various-llm-smells/",
+  "collected_at": "2026-05-29T11:22:31.451219+00:00",
+  "published_at": "2026-05-29T11:22:31.451219+00:00",
+  "summary": "该内容标题为“Various LLM Smells”，可能探讨大语言模型（LLM）在开发或使用中常见的“坏味道”（如幻觉、偏见、过度拟合、提示注入等），旨在帮助开发者识别和规避这些陷阱。创新点在于系统性地分类和描述LLM特有的问题模式，适用于模型评估、安全审计和提示工程优化场景。",
+  "tags": [
+    "llm",
+    "evaluation",
+    "security",
+    "prompt-engineering"
+  ],
+  "relevance_score": 0.85,
+  "confidence": 0.75,
+  "status": "published",
+  "tech_stack": [],
+  "innovation_point": "系统性地分类和描述大语言模型特有的问题模式（坏味道），为开发者提供识别与规避指南。",
+  "author": "Hacker News (Best)",
+  "updated_at": "2026-05-29T11:24:01.046046+00:00"
+}
