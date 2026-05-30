@@ -1,0 +1,28 @@
+{
+  "id": "github-20260530-020",
+  "title": "labring/FastGPT",
+  "source": "github-trending",
+  "source_url": "https://github.com/labring/FastGPT",
+  "collected_at": "2026-05-30T09:53:03.072943+00:00",
+  "published_at": "2026-05-30T06:29:42Z",
+  "summary": "FastGPT 是一个基于大语言模型的知识库平台，提供数据处理、RAG 检索和可视化 AI 工作流编排等开箱即用的功能，旨在让用户无需复杂配置即可快速开发和部署复杂的问答系统。其核心创新在于将 RAG 检索与可视化工作流编排深度结合，支持多种 LLM 后端（如 Claude、DeepSeek）和 MCP 协议，降低了构建企业级知识问答系统的门槛。适用于需要快速搭建智能客服、知识库问答、文档检索等场景，尤其适合非 AI 专家进行定制化部署。",
+  "tags": [
+    "rag",
+    "agent",
+    "llm",
+    "mcp",
+    "open-source"
+  ],
+  "relevance_score": 0.95,
+  "confidence": 0.92,
+  "status": "published",
+  "tech_stack": [
+    "TypeScript",
+    "LLM",
+    "RAG",
+    "MCP"
+  ],
+  "innovation_point": "将 RAG 检索与可视化 AI 工作流编排深度结合，支持多模型后端和 MCP 协议，实现零配置快速部署复杂问答系统。",
+  "author": "labring",
+  "updated_at": "2026-05-30T09:54:35.774904+00:00"
+}

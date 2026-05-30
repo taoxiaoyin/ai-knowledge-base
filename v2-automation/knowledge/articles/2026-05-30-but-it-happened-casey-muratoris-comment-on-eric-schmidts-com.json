@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260530-006",
+  "title": "\"But it happened.\" - Casey Muratori's comment on Eric Schmidt's commencement speech",
+  "source": "rss:Lobsters AI/ML",
+  "source_url": "https://youtu.be/tlQ7EoJDTQY",
+  "collected_at": "2026-05-30T09:53:03.693403+00:00",
+  "published_at": "2026-05-30T09:53:03.693403+00:00",
+  "summary": "该内容涉及Casey Muratori对Eric Schmidt毕业典礼演讲的评论，核心讨论AI技术发展中的意外事件与伦理边界。创新点在于通过具体案例反思AI系统在现实应用中的不可预测性，适用于AI安全与伦理教育场景。",
+  "tags": [
+    "llm",
+    "security",
+    "reasoning"
+  ],
+  "relevance_score": 0.65,
+  "confidence": 0.7,
+  "status": "published",
+  "tech_stack": [],
+  "innovation_point": "通过具体案例反思AI系统在现实应用中的不可预测性",
+  "author": "Lobsters AI/ML",
+  "updated_at": "2026-05-30T09:54:35.774978+00:00"
+}

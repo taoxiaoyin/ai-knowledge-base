@@ -1,0 +1,26 @@
+{
+  "id": "github-20260530-019",
+  "title": "ComposioHQ/composio",
+  "source": "github-trending",
+  "source_url": "https://github.com/ComposioHQ/composio",
+  "collected_at": "2026-05-30T09:53:03.072940+00:00",
+  "published_at": "2026-05-27T05:13:37Z",
+  "summary": "Composio 是一个开源的 AI Agent 开发平台，提供超过 1000 个工具包、工具搜索、上下文管理、认证和沙箱工作台，旨在帮助开发者构建能够将意图转化为行动的 AI 代理。其核心创新在于整合了丰富的工具生态和安全的执行环境，简化了 AI Agent 与外部工具集成的复杂性，适用于需要复杂工具调用和自动化工作流的场景。该平台使用 TypeScript 开发，在 GitHub 上获得了超过 2.8 万星标，显示出在 Agent 开发社区中的高度关注。",
+  "tags": [
+    "agent",
+    "tool-use",
+    "framework",
+    "open-source",
+    "api"
+  ],
+  "relevance_score": 0.95,
+  "confidence": 0.9,
+  "status": "published",
+  "tech_stack": [
+    "typescript",
+    "python"
+  ],
+  "innovation_point": "提供超过1000个预集成工具包和沙箱执行环境，大幅降低AI Agent与外部工具集成的门槛。",
+  "author": "ComposioHQ",
+  "updated_at": "2026-05-30T09:54:35.774893+00:00"
+}

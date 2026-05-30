@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260530-007",
+  "title": "Building Machine Learning Systems for a Trillion Trillion Floating Point Operations (2024)",
+  "source": "rss:Lobsters AI/ML",
+  "source_url": "https://www.youtube.com/watch?v=139UPjoq7Kw",
+  "collected_at": "2026-05-30T09:53:03.693431+00:00",
+  "published_at": "2026-05-30T09:53:03.693431+00:00",
+  "summary": "该内容探讨了构建能够处理万亿亿次浮点运算的机器学习系统，核心创新点在于针对超大规模计算场景优化系统架构和算法，以支持极端计算需求。适用场景包括高性能计算、大规模AI模型训练和科学计算等领域。",
+  "tags": [
+    "llm",
+    "deployment",
+    "benchmark"
+  ],
+  "relevance_score": 0.85,
+  "confidence": 0.9,
+  "status": "published",
+  "tech_stack": [
+    "python",
+    "cuda"
+  ],
+  "innovation_point": "针对万亿亿次浮点运算规模优化机器学习系统架构，实现超大规模计算的高效处理。",
+  "author": "Lobsters AI/ML",
+  "updated_at": "2026-05-30T09:54:35.774983+00:00"
+}
