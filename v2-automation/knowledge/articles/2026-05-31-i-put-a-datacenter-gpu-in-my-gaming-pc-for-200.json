@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260531-006",
+  "title": "I Put a Datacenter GPU in My Gaming PC for £200",
+  "source": "rss:Lobsters AI/ML",
+  "source_url": "https://blog.tymscar.com/posts/v100localllm/",
+  "collected_at": "2026-05-31T10:09:23.350424+00:00",
+  "published_at": "2026-05-31T10:09:23.350424+00:00",
+  "summary": "该内容描述了一位用户以200英镑的价格将数据中心级GPU安装到个人游戏电脑中的实践。核心创新点在于以极低成本获取高性能计算硬件，适用于AI模型推理、本地大语言模型运行或游戏渲染等场景。该实践展示了消费级硬件与专业级GPU的兼容性，为预算有限的AI开发者或游戏玩家提供了可行的硬件升级方案。",
+  "tags": [
+    "deployment",
+    "hardware",
+    "tutorial"
+  ],
+  "relevance_score": 0.75,
+  "confidence": 0.85,
+  "status": "published",
+  "tech_stack": [],
+  "innovation_point": "以极低成本将数据中心级GPU集成到消费级游戏PC，实现高性能AI计算与游戏渲染的融合。",
+  "author": "Lobsters AI/ML",
+  "updated_at": "2026-05-31T10:10:48.906686+00:00"
+}
