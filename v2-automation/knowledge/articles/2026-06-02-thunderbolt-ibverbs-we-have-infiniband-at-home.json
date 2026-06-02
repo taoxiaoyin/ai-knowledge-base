@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260602-005",
+  "title": "thunderbolt-ibverbs: We have InfiniBand at home",
+  "source": "rss:Lobsters AI/ML",
+  "source_url": "https://blog.hellas.ai/blog/thunderbolt-ibverbs/",
+  "collected_at": "2026-06-02T11:59:42.147007+00:00",
+  "published_at": "2026-06-02T11:59:42.147007+00:00",
+  "summary": "该内容标题为“thunderbolt-ibverbs: We have InfiniBand at home”，暗示通过Thunderbolt接口实现类似InfiniBand的高性能网络功能，可能是一种低成本替代方案。核心创新点在于利用消费级硬件（Thunderbolt）模拟数据中心级网络（InfiniBand）的RDMA能力，适用于AI训练集群、分布式计算等需要低延迟通信的场景。该技术可能涉及ibverbs库的适配，为小型AI实验室或边缘计算提供经济高效的网络解决方案。",
+  "tags": [
+    "deployment",
+    "open-source",
+    "framework"
+  ],
+  "relevance_score": 0.75,
+  "confidence": 0.65,
+  "status": "published",
+  "tech_stack": [
+    "c",
+    "rdma-core",
+    "ibverbs"
+  ],
+  "innovation_point": "利用Thunderbolt接口实现低成本InfiniBand替代方案，降低AI分布式训练的网络门槛。",
+  "author": "Lobsters AI/ML",
+  "updated_at": "2026-06-02T12:01:13.251882+00:00"
+}

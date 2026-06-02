@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260602-001",
+  "title": "AI Agent Guidelines for CS336 at Stanford",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
+  "collected_at": "2026-06-02T11:59:41.850094+00:00",
+  "published_at": "2026-06-02T11:59:41.850094+00:00",
+  "summary": "该内容为斯坦福大学CS336课程发布的AI Agent使用指南，旨在为学生提供构建和部署智能代理系统的标准化方法论。核心创新点在于将学术界对Agent的抽象定义与工程实践相结合，提出了模块化的Agent架构设计原则，并强调了工具调用、多代理协作和安全性评估等关键环节。适用场景包括高校AI课程教学、研究项目中的Agent原型开发以及企业级Agent应用的规范化设计。",
+  "tags": [
+    "agent",
+    "llm",
+    "tool-use",
+    "multi-agent",
+    "tutorial"
+  ],
+  "relevance_score": 0.95,
+  "confidence": 0.85,
+  "status": "published",
+  "tech_stack": [
+    "python",
+    "langchain"
+  ],
+  "innovation_point": "将学术课程中的Agent理论转化为可操作的工程指南，强调模块化设计与安全评估",
+  "author": "Hacker News (Best)",
+  "updated_at": "2026-06-02T12:01:13.251830+00:00"
+}

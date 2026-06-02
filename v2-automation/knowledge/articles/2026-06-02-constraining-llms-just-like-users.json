@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260602-006",
+  "title": "Constraining LLMs Just Like Users",
+  "source": "rss:Lobsters AI/ML",
+  "source_url": "https://www.aeracode.org/2026/06/01/constraining-llms/",
+  "collected_at": "2026-06-02T11:59:42.147033+00:00",
+  "published_at": "2026-06-02T11:59:42.147033+00:00",
+  "summary": "该内容探讨了如何像约束普通用户一样约束大型语言模型（LLM），提出了一种新的方法或框架，旨在通过设定规则和边界来限制LLM的行为，确保其输出符合预期。创新点在于将用户约束机制应用于模型本身，可能涉及提示工程、安全策略或微调技术。适用场景包括需要高可靠性和安全性的AI应用，如客服、内容审核和自动化决策系统。",
+  "tags": [
+    "llm",
+    "prompt-engineering",
+    "security",
+    "evaluation"
+  ],
+  "relevance_score": 0.85,
+  "confidence": 0.7,
+  "status": "published",
+  "tech_stack": [
+    "python",
+    "langchain"
+  ],
+  "innovation_point": "将用户约束机制应用于LLM，通过规则和边界限制模型行为以提高安全性和可靠性。",
+  "author": "Lobsters AI/ML",
+  "updated_at": "2026-06-02T12:01:13.251887+00:00"
+}
