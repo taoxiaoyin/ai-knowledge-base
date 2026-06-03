@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260603-002",
+  "title": "Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://blog.adafruit.com/",
+  "collected_at": "2026-06-03T12:37:29.170274+00:00",
+  "published_at": "2026-06-03T12:37:29.170274+00:00",
+  "summary": "该内容涉及 Adafruit 收到来自 Fenwick 法律顾问代表 Flux.ai 发出的律师函。Flux.ai 是一家专注于电子设计自动化的 AI 初创公司，其平台利用 AI 辅助电路板设计。律师函可能涉及知识产权或技术使用争议。此事件反映了 AI 工具在硬件设计领域应用时面临的法律与合规挑战，尤其是在开源社区与商业 AI 产品之间的边界问题上。",
+  "tags": [
+    "security",
+    "open-source",
+    "tool-use"
+  ],
+  "relevance_score": 0.65,
+  "confidence": 0.7,
+  "status": "published",
+  "tech_stack": [],
+  "innovation_point": "AI 辅助电子设计自动化工具引发知识产权争议，凸显开源与商业 AI 的合规边界。",
+  "author": "Hacker News (Best)",
+  "updated_at": "2026-06-03T12:39:04.100074+00:00"
+}

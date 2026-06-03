@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260603-005",
+  "title": "Introducing RadixAttention to Trellis",
+  "source": "rss:Lobsters AI/ML",
+  "source_url": "https://trellis.unfoldml.com/blog/radix-attention-intro",
+  "collected_at": "2026-06-03T12:37:29.300369+00:00",
+  "published_at": "2026-06-03T12:37:29.300369+00:00",
+  "summary": "RadixAttention 是一种针对大语言模型推理优化的新型注意力机制，通过引入基数树结构来高效管理键值缓存，显著降低长序列推理中的内存占用和计算延迟。其核心创新在于利用前缀共享和动态缓存淘汰策略，使多轮对话和长文档处理场景下的推理速度提升数倍。该技术适用于需要高吞吐量或低延迟的 LLM 服务部署，如实时聊天机器人、代码补全和文档分析等应用。",
+  "tags": [
+    "llm",
+    "reasoning",
+    "deployment",
+    "research-paper"
+  ],
+  "relevance_score": 0.95,
+  "confidence": 0.85,
+  "status": "published",
+  "tech_stack": [
+    "python",
+    "pytorch"
+  ],
+  "innovation_point": "提出基于基数树的前缀共享缓存机制，实现长序列推理中键值存储的线性复杂度优化。",
+  "author": "Lobsters AI/ML",
+  "updated_at": "2026-06-03T12:39:04.100141+00:00"
+}
