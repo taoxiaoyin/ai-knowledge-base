@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260604-010",
+  "title": "It's Not Just X. It's Y",
+  "source": "rss:Lobsters AI/ML",
+  "source_url": "https://mail.cyberneticforests.com/its-not-just-data-its-post-training/",
+  "collected_at": "2026-06-04T11:01:00.938482+00:00",
+  "published_at": "2026-06-04T11:01:00.938482+00:00",
+  "summary": "本文探讨了在AI技术领域中，表面现象（X）与深层本质（Y）之间的区别，强调理解核心机制比关注表面特征更为重要。创新点在于提出了一种系统化的分析方法，用于区分技术表象与内在逻辑，适用于AI模型评估、技术选型及研究论文解读等场景。",
+  "tags": [
+    "llm",
+    "reasoning",
+    "research-paper"
+  ],
+  "relevance_score": 0.75,
+  "confidence": 0.65,
+  "status": "published",
+  "tech_stack": [],
+  "innovation_point": "提出区分技术表象与内在逻辑的系统化分析方法",
+  "author": "Lobsters AI/ML",
+  "updated_at": "2026-06-04T11:02:35.916487+00:00"
+}

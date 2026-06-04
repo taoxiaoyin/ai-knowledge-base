@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260604-001",
+  "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
+  "collected_at": "2026-06-04T11:01:00.874005+00:00",
+  "published_at": "2026-06-04T11:01:00.874005+00:00",
+  "summary": "该内容报道了加州大学伯克利分校计算机科学课程中，随着学生使用AI工具（如ChatGPT）完成作业，数学和编程基础能力显著下滑，导致不及格率飙升的现象。文章指出，过度依赖AI进行代码生成和问题解决，削弱了学生自主学习和逻辑推理能力，尤其在基础数学和算法课程中表现明显。这一现象引发了对AI教育应用边界的讨论，提示在技术辅助与基础能力培养之间需要平衡。",
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "relevance_score": 0.75,
+  "confidence": 0.85,
+  "status": "published",
+  "tech_stack": [],
+  "innovation_point": "揭示了AI辅助学习对基础数学和编程能力的负面影响，强调教育中需谨慎使用LLM工具。",
+  "author": "Hacker News (Best)",
+  "updated_at": "2026-06-04T11:02:35.916268+00:00"
+}
