@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260606-005",
+  "title": "ZML: Model to Metal",
+  "source": "rss:Lobsters AI/ML",
+  "source_url": "https://zml.ai/",
+  "collected_at": "2026-06-06T09:57:58.257620+00:00",
+  "published_at": "2026-06-06T09:57:58.257620+00:00",
+  "summary": "ZML 是一个将 AI 模型直接编译到 Apple Metal 性能着色器（Performance Shaders）的框架，旨在为 Apple Silicon 设备提供原生高性能的推理能力。其核心创新在于通过编译技术将模型计算图映射到 Metal 后端，避免了传统框架的运行时开销，从而在 Mac 和 iOS 设备上实现接近硬件极限的推理速度。该框架特别适合需要在 Apple 生态系统中部署 AI 模型的场景，如移动端应用、边缘计算和隐私敏感型推理任务。",
+  "tags": [
+    "deployment",
+    "framework",
+    "open-source"
+  ],
+  "relevance_score": 0.85,
+  "confidence": 0.9,
+  "status": "published",
+  "tech_stack": [
+    "python",
+    "metal"
+  ],
+  "innovation_point": "通过编译技术将 AI 模型直接映射到 Apple Metal 性能着色器，实现零运行时开销的原生推理加速。",
+  "author": "Lobsters AI/ML",
+  "updated_at": "2026-06-06T09:59:59.702480+00:00"
+}

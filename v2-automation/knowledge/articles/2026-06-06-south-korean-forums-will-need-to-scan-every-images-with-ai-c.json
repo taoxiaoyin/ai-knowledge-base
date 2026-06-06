@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260606-002",
+  "title": "South Korean forums will need to scan every images with AI censorship tools",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341",
+  "collected_at": "2026-06-06T09:57:58.081686+00:00",
+  "published_at": "2026-06-06T09:57:58.081686+00:00",
+  "summary": "韩国论坛将强制使用AI审查工具扫描所有上传图片，以过滤不当内容。该政策要求论坛部署图像识别模型，自动检测并屏蔽违规图片，涉及色情、暴力等敏感类别。创新点在于将AI审查从文本扩展到图像领域，并实现全量实时扫描。适用场景包括社交媒体、社区论坛等需要内容审核的平台。",
+  "tags": [
+    "security",
+    "vision",
+    "deployment"
+  ],
+  "relevance_score": 0.75,
+  "confidence": 0.85,
+  "status": "published",
+  "tech_stack": [
+    "python",
+    "tensorflow"
+  ],
+  "innovation_point": "将AI内容审查从文本扩展到图像领域，实现全量实时扫描",
+  "author": "Hacker News (Best)",
+  "updated_at": "2026-06-06T09:59:59.702446+00:00"
+}
