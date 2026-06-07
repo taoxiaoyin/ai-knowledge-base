@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260607-006",
+  "title": "AI Worm",
+  "source": "rss:Lobsters AI/ML",
+  "source_url": "https://arxiv.org/abs/2606.03811",
+  "collected_at": "2026-06-07T10:23:56.721347+00:00",
+  "published_at": "2026-06-07T10:23:56.721347+00:00",
+  "summary": "AI Worm 是一种新型的 AI 安全威胁，它利用生成式 AI 应用的漏洞（如提示注入、工具滥用）在 AI 系统间自主传播，形成类似计算机蠕虫的自我复制和扩散行为。其核心创新在于首次展示了针对 AI 生态系统的蠕虫式攻击，能够通过恶意提示诱导 AI 代理执行有害操作，如窃取数据或传播恶意代码。该技术主要适用于 AI 安全研究、红队测试和防御机制开发场景，帮助识别和防范 AI 应用中的潜在风险。",
+  "tags": [
+    "security",
+    "prompt-engineering",
+    "agent",
+    "research-paper"
+  ],
+  "relevance_score": 0.85,
+  "confidence": 0.9,
+  "status": "published",
+  "tech_stack": [
+    "python",
+    "langchain"
+  ],
+  "innovation_point": "首次提出并实现了针对 AI 代理和生成式应用的蠕虫式攻击方法，利用提示注入和工具滥用实现自主传播。",
+  "author": "Lobsters AI/ML",
+  "updated_at": "2026-06-07T10:25:38.483695+00:00"
+}

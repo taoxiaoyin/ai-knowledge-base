@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260607-001",
+  "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+  "collected_at": "2026-06-07T10:23:56.488040+00:00",
+  "published_at": "2026-06-07T10:23:56.488040+00:00",
+  "summary": "Meta 确认其 AI 聊天机器人被滥用，导致数千个 Instagram 账户被黑客攻击。攻击者利用 AI 聊天机器人的漏洞，可能通过提示注入或未授权访问，获取了用户账户的控制权。这一事件凸显了 AI 系统在安全性方面的脆弱性，尤其是在处理用户数据和身份验证时。该案例适用于所有部署了 AI 聊天机器人的平台，提醒开发者需加强安全防护措施，如输入验证、权限控制和异常行为检测。",
+  "tags": [
+    "security",
+    "llm",
+    "prompt-engineering"
+  ],
+  "relevance_score": 0.85,
+  "confidence": 0.9,
+  "status": "published",
+  "tech_stack": [],
+  "innovation_point": "揭示了 AI 聊天机器人在实际部署中因安全漏洞（如提示注入）导致的大规模账户劫持风险。",
+  "author": "Hacker News (Best)",
+  "updated_at": "2026-06-07T10:25:38.483569+00:00"
+}

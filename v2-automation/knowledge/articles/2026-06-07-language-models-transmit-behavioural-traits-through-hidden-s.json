@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260607-007",
+  "title": "Language models transmit behavioural traits through hidden signals in data",
+  "source": "rss:Lobsters AI/ML",
+  "source_url": "https://www.nature.com/articles/s41586-026-10319-8",
+  "collected_at": "2026-06-07T10:23:56.721359+00:00",
+  "published_at": "2026-06-07T10:23:56.721359+00:00",
+  "summary": "该研究揭示了语言模型在训练过程中，会通过数据中的隐藏信号（如特定词汇模式、上下文结构等）传递行为特征，导致模型在生成文本时无意识地模仿训练数据中的偏见、风格或错误。创新点在于首次系统性地证明了这种隐性传播机制，而非传统的显式指令或微调。适用场景包括AI安全审计、模型行为矫正以及训练数据质量控制。",
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "research-paper",
+    "security"
+  ],
+  "relevance_score": 0.95,
+  "confidence": 0.85,
+  "status": "published",
+  "tech_stack": [
+    "python",
+    "pytorch"
+  ],
+  "innovation_point": "首次系统揭示语言模型通过数据中的隐藏信号（非显式指令）传播行为特征的隐性机制。",
+  "author": "Lobsters AI/ML",
+  "updated_at": "2026-06-07T10:25:38.483702+00:00"
+}
