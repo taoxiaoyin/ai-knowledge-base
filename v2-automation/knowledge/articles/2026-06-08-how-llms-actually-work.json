@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260608-002",
+  "title": "How LLMs Actually Work",
+  "source": "rss:Lobsters AI/ML",
+  "source_url": "https://0xkato.xyz/how-llms-actually-work/",
+  "collected_at": "2026-06-08T12:23:28.232149+00:00",
+  "published_at": "2026-06-08T12:23:28.232149+00:00",
+  "summary": "该内容标题为“How LLMs Actually Work”，来自Lobsters AI/ML源，推测是一篇技术教程或解释性文章，核心是深入解析大型语言模型（LLM）的内部工作原理，包括Transformer架构、自注意力机制、预训练与微调过程等。创新点在于以直观易懂的方式拆解复杂机制，帮助开发者理解LLM的推理与生成逻辑。适用场景包括AI开发者学习、技术团队培训及产品设计中的模型选型参考。",
+  "tags": [
+    "llm",
+    "tutorial",
+    "reasoning"
+  ],
+  "relevance_score": 0.95,
+  "confidence": 0.85,
+  "status": "published",
+  "tech_stack": [
+    "python",
+    "transformers"
+  ],
+  "innovation_point": "以清晰直观的方式解释LLM内部机制，降低技术理解门槛",
+  "author": "Lobsters AI/ML",
+  "updated_at": "2026-06-08T12:25:27.640767+00:00"
+}
