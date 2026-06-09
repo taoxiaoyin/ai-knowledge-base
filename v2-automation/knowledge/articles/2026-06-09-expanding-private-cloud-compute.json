@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260609-006",
+  "title": "Expanding Private Cloud Compute",
+  "source": "rss:Lobsters AI/ML",
+  "source_url": "https://security.apple.com/blog/expanding-pcc/",
+  "collected_at": "2026-06-09T10:55:23.620016+00:00",
+  "published_at": "2026-06-09T10:55:23.620016+00:00",
+  "summary": "本文介绍了苹果公司扩展其私有云计算（Private Cloud Compute）系统的技术细节。核心创新在于将隐私保护与云端AI计算能力相结合，通过硬件安全模块、加密协议和可信执行环境，确保用户数据在云端处理时仍保持端到端加密。该系统支持大语言模型（LLM）推理、个性化服务等场景，在保证隐私的前提下提供高性能计算。适用场景包括需要处理敏感数据的AI应用，如医疗、金融等领域。",
+  "tags": [
+    "security",
+    "llm",
+    "deployment"
+  ],
+  "relevance_score": 0.85,
+  "confidence": 0.9,
+  "status": "published",
+  "tech_stack": [
+    "swift",
+    "apple-silicon"
+  ],
+  "innovation_point": "将硬件级安全与云端AI计算深度融合，实现隐私保护下的高性能LLM推理。",
+  "author": "Lobsters AI/ML",
+  "updated_at": "2026-06-09T10:57:12.979758+00:00"
+}

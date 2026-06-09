@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260609-003",
+  "title": "Ask HN: What are tools you have made for yourself since the advent of AI?",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://news.ycombinator.com/item?id=48449187",
+  "collected_at": "2026-06-09T10:55:23.362682+00:00",
+  "published_at": "2026-06-09T10:55:23.362682+00:00",
+  "summary": "该内容是一个Hacker News上的讨论帖，标题为'Ask HN: What are tools you have made for yourself since the advent of AI?'，旨在收集用户自AI兴起以来为自己构建的工具。核心内容涉及个人开发者利用AI技术（如LLM、Agent框架）创建定制化工具，例如自动化工作流、代码生成器或知识管理助手。创新点在于强调个人化、低成本的AI工具开发，而非企业级应用，适用于个人效率提升、学习辅助或小型项目自动化场景。",
+  "tags": [
+    "llm",
+    "tool-use",
+    "code-generation",
+    "open-source"
+  ],
+  "relevance_score": 0.75,
+  "confidence": 0.85,
+  "status": "published",
+  "tech_stack": [
+    "python",
+    "langchain"
+  ],
+  "innovation_point": "聚焦个人开发者利用AI技术构建定制化工具，强调低成本和实用性，区别于企业级AI应用。",
+  "author": "Hacker News (Best)",
+  "updated_at": "2026-06-09T10:57:12.979708+00:00"
+}
