@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260610-012",
+  "title": "chromiumfish: A stealth Chromium build with a drop-in Playwright harness for Python and Node",
+  "source": "rss:Lobsters AI/ML",
+  "source_url": "https://github.com/arman-bd/chromiumfish",
+  "collected_at": "2026-06-10T11:33:55.078672+00:00",
+  "published_at": "2026-06-10T11:33:55.078672+00:00",
+  "summary": "chromiumfish 是一个隐蔽的 Chromium 构建版本，集成了 Playwright 自动化框架，专为 Python 环境设计。其核心创新在于提供了一种“即插即用”的解决方案，能够绕过常见的浏览器自动化检测机制，适用于需要模拟真实用户行为的场景，如网页抓取、自动化测试或 AI 代理的浏览器交互。该工具通过修改 Chromium 的默认行为，降低了被反爬虫或安全系统识别的风险，从而提升了自动化任务的稳定性和隐蔽性。",
+  "tags": [
+    "tool-use",
+    "deployment",
+    "open-source"
+  ],
+  "relevance_score": 0.75,
+  "confidence": 0.85,
+  "status": "published",
+  "tech_stack": [
+    "python",
+    "playwright"
+  ],
+  "innovation_point": "提供隐蔽的 Chromium 构建与 Playwright 集成，绕过浏览器自动化检测，提升 AI 代理的网页交互稳定性。",
+  "author": "Lobsters AI/ML",
+  "updated_at": "2026-06-10T11:36:07.596544+00:00"
+}

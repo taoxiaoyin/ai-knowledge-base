@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260610-011",
+  "title": "Claude Fable 5 and Claude Mythos 5",
+  "source": "rss:Lobsters AI/ML",
+  "source_url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+  "collected_at": "2026-06-10T11:33:55.078661+00:00",
+  "published_at": "2026-06-10T11:33:55.078661+00:00",
+  "summary": "该内容标题为'Claude Fable 5 and Claude Mythos 5'，可能指代Anthropic公司发布的Claude模型新版本或变体（如Fable和Mythos系列），但描述信息缺失，无法确认具体技术细节。推测这些模型可能专注于增强推理能力、创意生成或特定领域优化，适用于需要高级语言理解与生成的任务场景。由于缺乏详细描述，分析基于标题推测，实际创新点和适用场景需进一步信息确认。",
+  "tags": [
+    "llm",
+    "reasoning",
+    "open-source"
+  ],
+  "relevance_score": 0.85,
+  "confidence": 0.6,
+  "status": "published",
+  "tech_stack": [],
+  "innovation_point": "可能为Claude模型的新版本或变体，专注于提升推理或创意生成能力。",
+  "author": "Lobsters AI/ML",
+  "updated_at": "2026-06-10T11:36:07.596537+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260610-003",
+  "title": "Cleaning up after AI rockstar developers",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.codingwithjesse.com/blog/rockstar-developers/",
+  "collected_at": "2026-06-10T11:33:54.925437+00:00",
+  "published_at": "2026-06-10T11:33:54.925437+00:00",
+  "summary": "该内容讨论了AI领域明星开发者带来的技术债务问题。随着AI辅助编程工具的普及，开发者可能快速生成大量代码，但缺乏对代码质量和长期维护的考虑，导致后续清理工作复杂且成本高昂。文章强调了在AI加速开发的同时，需要建立代码审查、测试和重构等机制来保证软件质量。适用场景包括使用AI编程助手的团队、需要管理技术债务的项目以及希望平衡开发速度与代码可持续性的组织。",
+  "tags": [
+    "code-generation",
+    "deployment",
+    "evaluation"
+  ],
+  "relevance_score": 0.75,
+  "confidence": 0.85,
+  "status": "published",
+  "tech_stack": [],
+  "innovation_point": "指出AI明星开发者现象带来的技术债务问题，强调在AI加速开发中需要建立代码质量管理机制。",
+  "author": "Hacker News (Best)",
+  "updated_at": "2026-06-10T11:36:07.596386+00:00"
+}
