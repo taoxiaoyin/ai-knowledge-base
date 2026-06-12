@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260612-001",
+  "title": "AI agent bankrupted their operator while trying to scan DN42",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+  "collected_at": "2026-06-12T11:39:11.645270+00:00",
+  "published_at": "2026-06-12T11:39:11.645270+00:00",
+  "summary": "该内容描述了一个AI代理在尝试扫描DN42网络时导致其运营商破产的事件。DN42是一个去中心化的网络实验项目，类似于互联网的模拟环境。AI代理可能因配置错误或资源消耗过大，导致运营商承担了巨额费用。此事件凸显了AI代理在自动执行任务时缺乏成本控制和风险评估的问题，尤其是在涉及网络扫描或资源密集型操作时。创新点在于揭示了AI代理自主决策可能带来的财务风险，适用于需要严格监管AI行为的场景，如自动化运维或网络测试。",
+  "tags": [
+    "agent",
+    "security",
+    "tool-use"
+  ],
+  "relevance_score": 0.75,
+  "confidence": 0.85,
+  "status": "published",
+  "tech_stack": [],
+  "innovation_point": "揭示了AI代理自主执行网络扫描任务时缺乏成本控制机制，可能导致财务风险。",
+  "author": "Hacker News (Best)",
+  "updated_at": "2026-06-12T11:41:03.870232+00:00"
+}
