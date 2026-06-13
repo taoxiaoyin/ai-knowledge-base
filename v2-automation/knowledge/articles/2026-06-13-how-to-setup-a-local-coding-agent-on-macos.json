@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260613-002",
+  "title": "How to setup a local coding agent on macOS",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
+  "collected_at": "2026-06-13T10:23:16.268400+00:00",
+  "published_at": "2026-06-13T10:23:16.268400+00:00",
+  "summary": "该内容介绍了如何在macOS系统上搭建本地编码代理（coding agent）的教程。核心内容涉及配置本地开发环境、集成AI模型（如通过Ollama或LM Studio运行本地LLM）以及设置代理工具链（如LangChain或自定义脚本）来自动化代码生成、调试和重构任务。创新点在于提供了一种完全离线的编码辅助方案，避免依赖云端API，适用于隐私敏感或网络受限的开发场景。",
+  "tags": [
+    "agent",
+    "code-generation",
+    "tutorial",
+    "open-source"
+  ],
+  "relevance_score": 0.85,
+  "confidence": 0.9,
+  "status": "published",
+  "tech_stack": [
+    "python",
+    "langchain"
+  ],
+  "innovation_point": "提供完全离线的本地编码代理方案，通过本地LLM实现代码生成与调试，避免云端依赖。",
+  "author": "Hacker News (Best)",
+  "updated_at": "2026-06-13T10:25:18.314171+00:00"
+}
