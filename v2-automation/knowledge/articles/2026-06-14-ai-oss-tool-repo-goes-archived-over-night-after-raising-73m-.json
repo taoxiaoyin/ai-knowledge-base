@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260614-003",
+  "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://github.com/tensorzero/tensorzero",
+  "collected_at": "2026-06-14T10:45:35.343540+00:00",
+  "published_at": "2026-06-14T10:45:35.343540+00:00",
+  "summary": "该内容报道了一个AI开源工具仓库在获得730万美元种子轮融资后一夜之间被归档的事件。核心创新点在于该工具可能涉及AI开发或部署流程的自动化，但事件本身反映了开源项目在资金和治理方面的脆弱性。适用场景包括AI工具链的维护和开源项目管理。",
+  "tags": [
+    "open-source",
+    "tool-use",
+    "deployment"
+  ],
+  "relevance_score": 0.75,
+  "confidence": 0.7,
+  "status": "published",
+  "tech_stack": [],
+  "innovation_point": "事件凸显了AI开源项目在资金与治理上的风险，但未明确提及具体技术创新。",
+  "author": "Hacker News (Best)",
+  "updated_at": "2026-06-14T10:47:29.678852+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260614-001",
+  "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
+  "collected_at": "2026-06-14T10:45:35.343499+00:00",
+  "published_at": "2026-06-14T10:45:35.343499+00:00",
+  "summary": "该新闻报道了一名警察因在多起案件中使用AI技术“制造证据”而接受调查的事件。核心内容涉及AI在司法领域的滥用风险，即利用生成式AI伪造或篡改证据，而非用于辅助分析或提高效率。创新点在于揭示了AI工具在执法场景中的潜在伦理和法律漏洞，而适用场景则指向需要严格监管AI使用的司法和执法流程。该事件凸显了AI安全与合规的重要性，并警示了技术滥用的严重后果。",
+  "tags": [
+    "security",
+    "llm",
+    "deployment"
+  ],
+  "relevance_score": 0.75,
+  "confidence": 0.85,
+  "status": "published",
+  "tech_stack": [],
+  "innovation_point": "揭示了AI在司法证据生成中的滥用风险，强调技术伦理与监管的必要性。",
+  "author": "Hacker News (Best)",
+  "updated_at": "2026-06-14T10:47:29.678826+00:00"
+}

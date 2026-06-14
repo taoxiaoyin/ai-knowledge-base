@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260614-007",
+  "title": "The Curse of Depth in Large Language Models",
+  "source": "rss:Lobsters AI/ML",
+  "source_url": "https://arxiv.org/pdf/2502.05795",
+  "collected_at": "2026-06-14T10:45:35.567615+00:00",
+  "published_at": "2026-06-14T10:45:35.567615+00:00",
+  "summary": "该研究探讨了大型语言模型（LLM）中深度诅咒现象，即随着模型层数增加，深层网络难以有效利用浅层特征，导致性能瓶颈。创新点在于提出了一种深度正则化方法，通过调整层间梯度流动来缓解这一问题，从而提升模型在复杂推理任务上的表现。适用场景包括需要深层架构的LLM训练与优化，尤其适用于长文本理解、多步推理等任务。",
+  "tags": [
+    "llm",
+    "research-paper",
+    "reasoning"
+  ],
+  "relevance_score": 0.95,
+  "confidence": 0.85,
+  "status": "published",
+  "tech_stack": [
+    "python",
+    "pytorch"
+  ],
+  "innovation_point": "提出深度正则化方法缓解LLM中的深度诅咒，通过优化层间梯度流动提升深层网络性能。",
+  "author": "Lobsters AI/ML",
+  "updated_at": "2026-06-14T10:47:29.678921+00:00"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rss-20260614-009",
+  "title": "What’s New in WeatherMesh-6",
+  "source": "rss:Lobsters AI/ML",
+  "source_url": "https://windbornesystems.com/blog/introducing-wm-6",
+  "collected_at": "2026-06-14T10:45:35.567628+00:00",
+  "published_at": "2026-06-14T10:45:35.567628+00:00",
+  "summary": "WeatherMesh-6 是天气预报领域的最新模型版本，核心创新在于采用多尺度网格融合技术，结合高分辨率区域模型与全球模型，显著提升了极端天气事件的预测精度。该模型适用于气象预报、灾害预警及气候研究等场景，通过改进数据同化算法和计算效率，实现了更长的有效预报时效。",
+  "tags": [
+    "research-paper",
+    "open-source"
+  ],
+  "relevance_score": 0.45,
+  "confidence": 0.75,
+  "status": "published",
+  "tech_stack": [
+    "python",
+    "pytorch"
+  ],
+  "innovation_point": "多尺度网格融合技术，结合高分辨率区域模型与全球模型提升极端天气预测精度",
+  "author": "Lobsters AI/ML",
+  "updated_at": "2026-06-14T10:47:29.678934+00:00"
+}

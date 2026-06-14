@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260614-006",
+  "title": "The future of Siri, or: why private inference isn’t private enough",
+  "source": "rss:Lobsters AI/ML",
+  "source_url": "https://blog.cryptographyengineering.com/2026/06/09/apples-siri-ai-or-more-shouting-into-the-void-about-private-agents/",
+  "collected_at": "2026-06-14T10:45:35.567581+00:00",
+  "published_at": "2026-06-14T10:45:35.567581+00:00",
+  "summary": "本文探讨了Siri等语音助手的未来发展方向，核心观点是当前私有推理（private inference）技术虽然能保护用户数据隐私，但不足以应对更复杂的隐私威胁。文章指出，私有推理仅确保数据在传输和处理过程中不被泄露，但无法防止模型本身对用户意图的推断或滥用。创新点在于提出需要更全面的隐私保护框架，包括本地化处理、差分隐私和用户可控的数据使用策略。适用场景包括智能语音助手、边缘计算设备和隐私敏感型AI应用。",
+  "tags": [
+    "security",
+    "llm",
+    "privacy"
+  ],
+  "relevance_score": 0.85,
+  "confidence": 0.9,
+  "status": "published",
+  "tech_stack": [],
+  "innovation_point": "提出私有推理不足以保护用户隐私，需要结合本地化处理、差分隐私和用户可控策略的全面隐私框架。",
+  "author": "Lobsters AI/ML",
+  "updated_at": "2026-06-14T10:47:29.678913+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260614-008",
+  "title": "AI Economics for Dummies",
+  "source": "rss:Lobsters AI/ML",
+  "source_url": "https://www.mcsweeneys.net/articles/ai-economics-for-dummies",
+  "collected_at": "2026-06-14T10:45:35.567622+00:00",
+  "published_at": "2026-06-14T10:45:35.567622+00:00",
+  "summary": "该内容以通俗易懂的方式介绍了AI经济学的基本概念，旨在帮助非专业人士理解AI技术的经济影响和应用价值。核心创新点在于将复杂的AI经济模型简化为易于理解的框架，适用于教育、政策制定和企业战略规划场景。通过分析AI的成本结构、市场动态和投资回报，为读者提供了实用的决策参考。",
+  "tags": [
+    "llm",
+    "tutorial",
+    "deployment"
+  ],
+  "relevance_score": 0.75,
+  "confidence": 0.85,
+  "status": "published",
+  "tech_stack": [],
+  "innovation_point": "将AI经济学概念以通俗化框架呈现，降低非专业人士的理解门槛。",
+  "author": "Lobsters AI/ML",
+  "updated_at": "2026-06-14T10:47:29.678928+00:00"
+}

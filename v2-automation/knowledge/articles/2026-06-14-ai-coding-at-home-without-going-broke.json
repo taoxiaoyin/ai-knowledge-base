@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260614-002",
+  "title": "AI coding at home without going broke",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
+  "collected_at": "2026-06-14T10:45:35.343531+00:00",
+  "published_at": "2026-06-14T10:45:35.343531+00:00",
+  "summary": "该内容探讨了如何在预算有限的情况下，在本地环境中进行AI编码实践。核心创新点在于提供了一套低成本、高效率的本地AI开发方案，包括使用开源模型、轻量级框架和优化硬件配置。适用场景包括个人开发者、小型团队或教育机构，在资源受限条件下进行AI模型训练、推理和应用开发。",
+  "tags": [
+    "open-source",
+    "deployment",
+    "code-generation"
+  ],
+  "relevance_score": 0.75,
+  "confidence": 0.85,
+  "status": "published",
+  "tech_stack": [
+    "python",
+    "langchain"
+  ],
+  "innovation_point": "提出了一套低成本本地AI编码方案，通过开源模型和轻量级框架优化资源利用。",
+  "author": "Hacker News (Best)",
+  "updated_at": "2026-06-14T10:47:29.678845+00:00"
+}
