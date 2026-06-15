@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260615-001",
+  "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://github.com/nex-agi/Nex-N2/issues/4",
+  "collected_at": "2026-06-15T13:49:31.023168+00:00",
+  "published_at": "2026-06-15T13:49:31.023168+00:00",
+  "summary": "该内容报道了里约热内卢声称自主研发的大语言模型（LLM）实际上是对现有开源模型的合并，而非完全原创。这一发现揭示了在AI领域，一些组织可能通过组合现有模型来快速构建新系统，而非从零开始训练。该事件凸显了模型溯源和透明度的重要性，适用于评估AI项目真实性和原创性的场景。",
+  "tags": [
+    "llm",
+    "open-source",
+    "evaluation"
+  ],
+  "relevance_score": 0.85,
+  "confidence": 0.9,
+  "status": "published",
+  "tech_stack": [],
+  "innovation_point": "揭示了LLM开发中模型合并的实践，强调模型溯源与透明度的关键性。",
+  "author": "Hacker News (Best)",
+  "updated_at": "2026-06-15T13:51:36.418835+00:00"
+}

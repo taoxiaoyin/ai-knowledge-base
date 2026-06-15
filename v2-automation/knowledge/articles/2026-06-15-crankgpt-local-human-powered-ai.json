@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260615-005",
+  "title": "CrankGPT — Local Human-powered AI",
+  "source": "rss:Lobsters AI/ML",
+  "source_url": "https://crankgpt.com",
+  "collected_at": "2026-06-15T13:49:31.446019+00:00",
+  "published_at": "2026-06-15T13:49:31.446019+00:00",
+  "summary": "CrankGPT 是一种本地化、由人类驱动的 AI 系统，其核心创新在于将人类智能作为计算资源，通过众包方式实时处理 AI 任务，适用于需要高质量、低延迟且对隐私敏感的场景。该系统结合了轻量级 LLM 与人类反馈循环，在保证准确性的同时降低了部署成本。",
+  "tags": [
+    "llm",
+    "human-in-the-loop",
+    "deployment"
+  ],
+  "relevance_score": 0.75,
+  "confidence": 0.7,
+  "status": "published",
+  "tech_stack": [],
+  "innovation_point": "将人类智能作为可调度的计算资源，实现本地化、低成本的 AI 任务处理。",
+  "author": "Lobsters AI/ML",
+  "updated_at": "2026-06-15T13:51:36.418916+00:00"
+}
