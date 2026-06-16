@@ -1,0 +1,24 @@
+{
+  "id": "github-20260616-020",
+  "title": "chopratejas/headroom",
+  "source": "github-trending",
+  "source_url": "https://github.com/chopratejas/headroom",
+  "collected_at": "2026-06-16T12:48:00.561687+00:00",
+  "published_at": "2026-06-16T06:35:10Z",
+  "summary": "Headroom 是一个开源工具，用于在将数据输入大语言模型（LLM）之前进行压缩，能够减少 60-95% 的 token 消耗，同时保持回答质量不变。它支持压缩工具输出、日志、文件和 RAG 分块，提供库、代理和 MCP 服务器三种使用方式，特别适合需要降低 LLM 调用成本的应用场景。该工具基于 Python 实现，与 Anthropic 的 Claude Code 等 AI 代理系统兼容，可显著提升 token 利用效率。",
+  "tags": [
+    "llm",
+    "agent",
+    "mcp",
+    "compression"
+  ],
+  "relevance_score": 0.95,
+  "confidence": 0.92,
+  "status": "published",
+  "tech_stack": [
+    "python"
+  ],
+  "innovation_point": "通过智能压缩技术在不损失回答质量的前提下大幅减少 LLM 输入 token 数量，实现成本优化。",
+  "author": "chopratejas",
+  "updated_at": "2026-06-16T12:49:45.411806+00:00"
+}

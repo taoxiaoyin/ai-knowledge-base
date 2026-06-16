@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260616-005",
+  "title": "June Framework Memory and storage pricing updates",
+  "source": "rss:Lobsters AI/ML",
+  "source_url": "https://frame.work/ca/en/blog/updates-on-memory-pricing-and-navigating-the-volatile-memory-market",
+  "collected_at": "2026-06-16T12:48:01.005744+00:00",
+  "published_at": "2026-06-16T12:48:01.005744+00:00",
+  "summary": "该内容介绍了June Framework在内存和存储定价方面的更新。June Framework是一个AI开发框架，此次更新可能涉及对内存和存储资源的成本优化，以降低AI应用部署和运行的成本。创新点在于通过更精细的定价策略，使开发者能够更高效地管理AI工作负载的资源消耗。适用场景包括需要大规模部署AI模型或处理大量数据的企业级应用。",
+  "tags": [
+    "framework",
+    "deployment",
+    "api"
+  ],
+  "relevance_score": 0.75,
+  "confidence": 0.7,
+  "status": "published",
+  "tech_stack": [
+    "python",
+    "langchain"
+  ],
+  "innovation_point": "通过内存和存储定价更新，优化AI框架的资源成本管理。",
+  "author": "Lobsters AI/ML",
+  "updated_at": "2026-06-16T12:49:45.411930+00:00"
+}

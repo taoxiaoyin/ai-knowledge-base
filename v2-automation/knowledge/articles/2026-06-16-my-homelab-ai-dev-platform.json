@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260616-001",
+  "title": "My Homelab AI Dev Platform",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://rsgm.dev/post/ai-dev-platform/",
+  "collected_at": "2026-06-16T12:48:00.772638+00:00",
+  "published_at": "2026-06-16T12:48:00.772638+00:00",
+  "summary": "该内容标题为'My Homelab AI Dev Platform'，来自Hacker News，描述了一个个人搭建的AI开发平台。核心内容可能涉及在家庭实验室环境中部署和运行AI模型、工具或框架，用于开发、测试或学习AI技术。创新点在于利用低成本硬件构建私有AI开发环境，适用于个人开发者、研究人员或爱好者进行AI实验和原型开发。",
+  "tags": [
+    "deployment",
+    "open-source",
+    "framework"
+  ],
+  "relevance_score": 0.75,
+  "confidence": 0.65,
+  "status": "published",
+  "tech_stack": [],
+  "innovation_point": "利用家庭实验室硬件构建私有AI开发平台，降低AI实验门槛。",
+  "author": "Hacker News (Best)",
+  "updated_at": "2026-06-16T12:49:45.411824+00:00"
+}

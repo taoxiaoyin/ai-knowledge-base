@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260616-006",
+  "title": "Building llm-driven “ai” still requires domain knowledge",
+  "source": "rss:Lobsters AI/ML",
+  "source_url": "https://lobste.rs/s/q9sd1m/building_llm_driven_ai_still_requires",
+  "collected_at": "2026-06-16T12:48:01.005752+00:00",
+  "published_at": "2026-06-16T12:48:01.005752+00:00",
+  "summary": "本文强调构建基于大语言模型（LLM）的AI应用仍然需要深厚的领域知识。核心观点是，虽然LLM提供了强大的语言理解和生成能力，但将其有效应用于特定领域（如医疗、法律、金融等）时，必须结合该领域的专业知识进行数据准备、模型微调、提示工程和结果验证。创新点在于指出领域知识是连接通用LLM与专用AI解决方案的关键桥梁，而非单纯依赖模型能力。适用场景包括需要高准确性和专业性的行业AI应用开发。",
+  "tags": [
+    "llm",
+    "domain-knowledge",
+    "fine-tuning",
+    "prompt-engineering"
+  ],
+  "relevance_score": 0.85,
+  "confidence": 0.9,
+  "status": "published",
+  "tech_stack": [],
+  "innovation_point": "领域知识是通用LLM向专用AI解决方案转化的关键桥梁",
+  "author": "Lobsters AI/ML",
+  "updated_at": "2026-06-16T12:49:45.411939+00:00"
+}
