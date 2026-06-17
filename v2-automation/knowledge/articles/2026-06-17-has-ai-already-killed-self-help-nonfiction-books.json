@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260617-001",
+  "title": "Has AI already killed self-help nonfiction books?",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
+  "collected_at": "2026-06-17T12:12:05.914478+00:00",
+  "published_at": "2026-06-17T12:12:05.914478+00:00",
+  "summary": "该文章探讨了AI技术对自助类非虚构书籍市场的冲击，认为AI生成的个性化建议和即时解决方案可能取代传统书籍的静态内容。创新点在于提出AI作为动态知识提供者，能够根据用户实时反馈调整内容，适用于个人成长、职业发展等场景。核心观点是AI的交互性和适应性正在颠覆传统出版业的知识传递模式。",
+  "tags": [
+    "llm",
+    "prompt-engineering",
+    "tool-use"
+  ],
+  "relevance_score": 0.75,
+  "confidence": 0.85,
+  "status": "published",
+  "tech_stack": [],
+  "innovation_point": "提出AI作为动态知识提供者，通过实时交互和个性化生成替代传统自助书籍的静态内容模式。",
+  "author": "Hacker News (Best)",
+  "updated_at": "2026-06-17T12:14:08.178355+00:00"
+}

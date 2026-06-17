@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260617-003",
+  "title": "Can gzip be a language model?",
+  "source": "rss:Lobsters AI/ML",
+  "source_url": "https://nathan.rs/posts/gzip-lm/",
+  "collected_at": "2026-06-17T12:12:06.137669+00:00",
+  "published_at": "2026-06-17T12:12:06.137669+00:00",
+  "summary": "该内容探讨了将传统压缩算法gzip作为语言模型的创新思路，挑战了深度学习在自然语言处理中的主导地位。核心创新点在于利用gzip的压缩特性进行文本分类和生成任务，无需训练即可实现零样本学习，适用于资源受限或隐私敏感场景。实验表明该方法在部分任务上可媲美简单神经网络，但复杂语义理解能力有限。",
+  "tags": [
+    "llm",
+    "research-paper",
+    "reasoning"
+  ],
+  "relevance_score": 0.65,
+  "confidence": 0.7,
+  "status": "published",
+  "tech_stack": [],
+  "innovation_point": "提出用gzip压缩算法替代神经网络进行语言建模，实现无需训练的零样本文本处理。",
+  "author": "Lobsters AI/ML",
+  "updated_at": "2026-06-17T12:14:08.178392+00:00"
+}
