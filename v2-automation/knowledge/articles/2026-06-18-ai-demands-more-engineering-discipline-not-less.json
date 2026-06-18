@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260618-002",
+  "title": "AI demands more engineering discipline. Not less",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline",
+  "collected_at": "2026-06-18T11:46:22.734816+00:00",
+  "published_at": "2026-06-18T11:46:22.734816+00:00",
+  "summary": "文章标题指出AI发展需要更强的工程纪律，而非更少。核心观点是随着AI系统复杂度提升，必须引入更严格的工程实践来确保可靠性、可维护性和安全性。创新点在于强调工程纪律是AI落地的关键，而非阻碍。适用场景包括AI系统开发、部署和运维，特别是需要高可靠性的企业级应用。",
+  "tags": [
+    "llm",
+    "deployment",
+    "evaluation",
+    "security"
+  ],
+  "relevance_score": 0.75,
+  "confidence": 0.85,
+  "status": "published",
+  "tech_stack": [],
+  "innovation_point": "强调工程纪律是AI落地的关键，而非阻碍",
+  "author": "Hacker News (Best)",
+  "updated_at": "2026-06-18T11:48:17.449113+00:00"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-20260618-020",
+  "title": "DietrichGebert/ponytail",
+  "source": "github-trending",
+  "source_url": "https://github.com/DietrichGebert/ponytail",
+  "collected_at": "2026-06-18T11:46:22.528673+00:00",
+  "published_at": "2026-06-17T02:35:22Z",
+  "summary": "DietrichGebert/ponytail 是一个开源项目，旨在让 AI 代理模仿资深开发者的“懒惰”思维模式，即优先考虑不写代码或写最简代码，从而提升代码质量和开发效率。其核心创新在于通过特定的提示工程和技能设计，引导 AI 代理（如 Claude）在代码生成时遵循“最佳代码是未写的代码”原则，减少冗余和错误。该项目适用于需要 AI 辅助代码生成、代码审查或自动化开发流程的场景，尤其适合追求代码简洁性和可维护性的团队。",
+  "tags": [
+    "agent",
+    "code-generation",
+    "prompt-engineering"
+  ],
+  "relevance_score": 0.85,
+  "confidence": 0.9,
+  "status": "published",
+  "tech_stack": [
+    "javascript",
+    "claude"
+  ],
+  "innovation_point": "通过提示工程和技能设计，引导 AI 代理模仿资深开发者的“懒惰”思维，优先考虑不写代码或写最简代码，从而提升代码质量和开发效率。",
+  "author": "DietrichGebert",
+  "updated_at": "2026-06-18T11:48:17.449088+00:00"
+}
