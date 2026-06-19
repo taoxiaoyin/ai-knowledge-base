@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260619-005",
+  "title": "The Future of the Con Is Already Here, It's Just Not Evenly Distributed",
+  "source": "rss:Lobsters AI/ML",
+  "source_url": "http://manishearth.github.io/blog/2026/06/17/the-future-of-the-con-is-already-here/",
+  "collected_at": "2026-06-19T12:00:45.384947+00:00",
+  "published_at": "2026-06-19T12:00:45.384947+00:00",
+  "summary": "该内容标题暗示AI技术中的欺诈或误导性应用已经出现，但尚未均匀分布。核心观点是AI技术（如大语言模型）可能被用于生成虚假信息、深度伪造或自动化社会工程攻击，这些风险已经存在但未被广泛认知。创新点在于提醒人们关注AI伦理和安全问题，适用场景包括AI安全研究、政策制定和公众教育。",
+  "tags": [
+    "security",
+    "llm",
+    "ethics"
+  ],
+  "relevance_score": 0.75,
+  "confidence": 0.7,
+  "status": "published",
+  "tech_stack": [],
+  "innovation_point": "指出AI欺诈技术已存在但分布不均，强调提前防范的重要性",
+  "author": "Lobsters AI/ML",
+  "updated_at": "2026-06-19T12:02:47.105543+00:00"
+}
