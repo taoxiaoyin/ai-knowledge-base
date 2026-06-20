@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260620-017",
+  "title": "It doesn’t matter if it works",
+  "source": "rss:Lobsters AI/ML",
+  "source_url": "https://henry.codes/writing/it-doesnt-matter-if-it-works/",
+  "collected_at": "2026-06-20T10:28:08.430408+00:00",
+  "published_at": "2026-06-20T10:28:08.430408+00:00",
+  "summary": "该内容标题为“It doesn’t matter if it works”，可能探讨AI系统或模型在实际运行中是否有效并非唯一评判标准，强调除功能外还需关注可解释性、安全性、伦理或长期影响等维度。创新点在于挑战传统“以结果论英雄”的AI评估范式，适用于AI治理、模型评估和负责任AI开发场景。",
+  "tags": [
+    "evaluation",
+    "security",
+    "reasoning"
+  ],
+  "relevance_score": 0.75,
+  "confidence": 0.65,
+  "status": "published",
+  "tech_stack": [],
+  "innovation_point": "挑战AI领域“有效即正确”的默认假设，提出超越功能性的多维评估视角",
+  "author": "Lobsters AI/ML",
+  "updated_at": "2026-06-20T10:30:02.060761+00:00"
+}

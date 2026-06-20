@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260620-002",
+  "title": "AI Engineer Claims to Have Cracked Linear A",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://aiclambake.com/clamtakes/linear-a/",
+  "collected_at": "2026-06-20T10:28:08.313478+00:00",
+  "published_at": "2026-06-20T10:28:08.313478+00:00",
+  "summary": "一位AI工程师声称破解了线性文字A（Linear A），这是一种尚未被解读的古代克里特文明文字。该工程师可能利用大型语言模型（LLM）的模式识别能力，对已知的线性文字B（已破解）和线性文字A的符号进行对比分析，从而提出了一种新的解读方案。如果属实，这将是AI在考古学和语言学领域的重大应用，展示了LLM在跨学科研究中的潜力。创新点在于将AI的模式识别技术应用于古代文字破解，突破了传统语言学方法的局限。适用场景包括历史语言学、考古学以及任何需要从大量未标记数据中发现模式的领域。",
+  "tags": [
+    "llm",
+    "research-paper",
+    "reasoning"
+  ],
+  "relevance_score": 0.75,
+  "confidence": 0.7,
+  "status": "published",
+  "tech_stack": [
+    "python",
+    "langchain"
+  ],
+  "innovation_point": "利用LLM的模式识别能力破解未解读的古代文字，展示了AI在考古语言学中的创新应用。",
+  "author": "Hacker News (Best)",
+  "updated_at": "2026-06-20T10:30:02.060482+00:00"
+}

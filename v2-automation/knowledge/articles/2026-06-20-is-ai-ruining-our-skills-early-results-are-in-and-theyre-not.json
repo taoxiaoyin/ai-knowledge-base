@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260620-001",
+  "title": "Is AI ruining our skills? Early results are in – and they're not good",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.nature.com/articles/d41586-026-01947-1",
+  "collected_at": "2026-06-20T10:28:08.313445+00:00",
+  "published_at": "2026-06-20T10:28:08.313445+00:00",
+  "summary": "该文章探讨了AI技术对人类技能可能产生的负面影响。早期研究结果显示，过度依赖AI工具可能导致人类在批判性思维、问题解决和创造力等核心能力上的退化。文章分析了AI在自动化任务中的广泛应用，并指出这种依赖可能削弱用户主动学习和技能提升的动力。适用场景包括教育、职场培训和AI工具设计，提醒开发者和用户需平衡AI辅助与人类技能维护。",
+  "tags": [
+    "llm",
+    "evaluation",
+    "research-paper"
+  ],
+  "relevance_score": 0.75,
+  "confidence": 0.85,
+  "status": "published",
+  "tech_stack": [],
+  "innovation_point": "通过早期研究数据揭示AI对人类技能退化的潜在风险，强调需在AI应用中保持人类技能维护的平衡。",
+  "author": "Hacker News (Best)",
+  "updated_at": "2026-06-20T10:30:02.060469+00:00"
+}

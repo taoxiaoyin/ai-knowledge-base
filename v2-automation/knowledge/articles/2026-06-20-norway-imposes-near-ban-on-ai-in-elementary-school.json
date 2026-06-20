@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260620-003",
+  "title": "Norway imposes near ban on AI in elementary school",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+  "collected_at": "2026-06-20T10:28:08.313489+00:00",
+  "published_at": "2026-06-20T10:28:08.313489+00:00",
+  "summary": "挪威宣布在小学阶段实施近乎全面的人工智能禁令，禁止学生使用AI工具完成作业和学习任务。该政策旨在保护儿童认知发展，防止过度依赖AI导致批判性思维和基础能力退化。创新点在于将AI监管下沉至基础教育场景，而非仅关注技术研发或商业应用。适用场景为各国教育政策制定者评估AI对低龄学习者的影响。",
+  "tags": [
+    "security",
+    "deployment",
+    "evaluation"
+  ],
+  "relevance_score": 0.55,
+  "confidence": 0.85,
+  "status": "published",
+  "tech_stack": [],
+  "innovation_point": "将AI伦理监管从技术研发延伸至基础教育场景，开创性提出低龄学习者AI使用禁令",
+  "author": "Hacker News (Best)",
+  "updated_at": "2026-06-20T10:30:02.060489+00:00"
+}
