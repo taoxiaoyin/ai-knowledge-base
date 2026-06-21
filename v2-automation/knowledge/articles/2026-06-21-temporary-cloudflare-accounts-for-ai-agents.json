@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260621-001",
+  "title": "Temporary Cloudflare accounts for AI agents",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://blog.cloudflare.com/temporary-accounts/",
+  "collected_at": "2026-06-21T11:11:42.251221+00:00",
+  "published_at": "2026-06-21T11:11:42.251221+00:00",
+  "summary": "该内容介绍了为AI代理提供临时Cloudflare账户的方案，创新点在于通过临时账户机制解决AI代理在访问Cloudflare服务时的安全性和资源隔离问题。适用场景包括需要AI代理自动执行网络任务（如爬虫、API调用）且需避免长期凭证泄露风险的场景。核心是结合Cloudflare的临时账户API与AI代理的自动化流程，实现按需创建、使用后自动销毁的账户生命周期管理。",
+  "tags": [
+    "agent",
+    "security",
+    "api"
+  ],
+  "relevance_score": 0.85,
+  "confidence": 0.9,
+  "status": "published",
+  "tech_stack": [
+    "python",
+    "cloudflare-api"
+  ],
+  "innovation_point": "通过临时账户机制解决AI代理长期凭证安全风险，实现自动化账户生命周期管理。",
+  "author": "Hacker News (Best)",
+  "updated_at": "2026-06-21T11:13:38.197053+00:00"
+}
